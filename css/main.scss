@@ -1,0 +1,169 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "overrides",
+        "bootstrap"
+;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Patua One', sans-serif;
+    color: #fff;
+}
+
+.navbar-fixed-top, .main-nav {
+    border-bottom: 1px solid #404040;
+}
+
+.jumbotron {
+    background: #3a3a3a url('../assets/images/mountains.png');
+    background-size: cover;
+    min-height: 20em;
+    width: 100%;
+
+    h1, h5{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        color: #FFC40E;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .btn-primary {
+        background-color: #FFC40E;
+        color: #333;
+        border: none;
+    }
+}
+
+.intro-video {
+    iframe.video {
+        background: #555;
+        border: 5px solid #555;
+    }
+}
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+body {
+    padding-top: 170px;
+    background: #333;
+    color: #DADADA;
+}
+
+p {
+    line-height: 1.65;
+}
+
+li {
+    line-height: 2.2em;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        padding-top: 70px;
+    }
+}
+
+.navbar-brand {
+    padding: 7px 15px !important;
+}
+
+.author-card {
+    
+    margin: 2em 0;
+
+    .name {
+        margin: 0 0 0.5em;
+    }
+
+    .role {
+        text-transform: uppercase;
+        margin: 0 0 0.5em;
+    }
+
+    img.avatar {
+        border-radius: 50%;
+        padding: 2px;
+        border: 1px solid #ccc;
+        float: left;
+        margin: 0 10px 0 0;
+        width: 75px;
+        height: 75px;
+    }
+
+    .bio {
+        clear: both;
+        margin-top: 0.75em;
+    }
+}
+
+.share {
+    a {
+        width: 30px;
+        height: 30px;
+        background-size: 30px 30px;
+        display: inline-block;
+        text-indent: -9999px;
+    }
+    a.facebook {
+        background: url('../assets/images/social/webicon-facebook.svg') no-repeat;
+    }
+
+    a.twitter {
+        background: url('../assets/images/social/webicon-twitter.svg') no-repeat;
+    }
+
+    a.linkedin {
+        background: url('../assets/images/social/webicon-linkedin.svg') no-repeat;
+    }
+
+    a.googleplus {
+        background: url('../assets/images/social/webicon-googleplus.svg') no-repeat;
+    }
+}
+
+footer {
+    font-size: 14px;
+    margin-top: 3em;
+    padding: 2em;
+    width: 100%;
+    background: #222;
+    color: #999;
+
+    .newsletter-signup {
+
+        input[type=text] {
+            background: #666;
+            border: 1px solid #111;
+            color: #eee;
+        }
+
+        .input-group-btn {
+            button {
+                //background: #666;
+                border: 1px solid #111;
+            }
+        }
+    }
+}
+
