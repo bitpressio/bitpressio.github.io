@@ -3,14 +3,15 @@ layout: series
 title: Learning Modern Java - Lambdas
 permalink: /learning-modern-java/
 ---
-
+<script src="https://gumroad.com/js/gumroad.js"></script>
 <div class="jumbotron">
     <div class="row">
         <div class="col-md-6">
             <h1>Learning Modern Java: Lambdas</h1>
             <h5>By Jacob Jensen</h5>
             <p>An introductory video course on applying functional programming in Java 8 with Lambdas.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Buy now for $5</a></p>
+            <p>
+            <a class="btn btn-lg btn-primary" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a></p>
         </div>
         <div class="col-md-6">
             <div class="intro-video video-wrapper">
