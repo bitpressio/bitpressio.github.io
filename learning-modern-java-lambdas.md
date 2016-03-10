@@ -51,7 +51,7 @@ permalink: /learning-modern-java/
     </div>
     <aside class="col-md-4">
         <h3>About the Authors</h3>
-        <p>We are an awesome duo of passionate programmers. We want to help you expand your skillsets, introduce you to new concepts, 
+        <p>We are a duo of talented programmers who find joy through helping others learn to code. We want to help you expand your skillsets, introduce you to new concepts, 
         and teach you about modern software. We are about you.</p>
 
         <div class="author-card">
