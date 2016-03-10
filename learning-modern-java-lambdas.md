@@ -35,6 +35,63 @@ permalink: /learning-modern-java/
         <p>So don't get left in the dust&mdash;check out this series and wow your friends (and your boss) with your new
             Lambda chops. </p>
 
+        <h2>What's Included</h2>
+        <div class="panel panel-default">
+          <!-- Default panel contents -->
+          <div class="panel-heading">Course Overview</div>
+
+          <!-- Table -->
+          <table class="table">
+            <tr>
+                <td><i class="fa fa-video-camera"></i></td>
+                <td>Part 1: Java 7 vs Java 8</td>
+                <td>4m 47s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 2: Comparing with Comparator</td>
+                <td>6m 28s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 3: Battling Orcs with Function</td>
+                <td>10m 38s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 4: Filtering Orcs with Predicate</td>
+                <td>10m 41s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 5: Insulting Orcs with Consumer</td>
+                <td>6m 25s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 6: Simplifying with ForEach</td>
+                <td>2m 5s</td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="fa fa-video-camera"></i>
+                </td>
+                <td>Part 7: In Review and Looking Forward</td>
+                <td>1m 37s</td>
+            </tr>
+          </table>
+        </div>
+
         <h2>What You’ll Learn In This Series</h2>
 
         <ul>
