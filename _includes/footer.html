@@ -4,17 +4,12 @@
         <div class="row">
             <div class="col-md-8">
                 <p>&copy; BitPress 2016. All rights reserved.</p>
-                <p><a href="/terms-and-conditions">Terms and Conditions</a></p>
+                <p>
+                    <a href="/terms-and-conditions">Terms and Conditions</a>
+                </p>
             </div>
             <div class="col-md-4">
-                <form action="//twitter.us12.list-manage.com/subscribe/post?u=0bf3ed00113f03b0fee465b4d&amp;id=6ab2fd5a1b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <div class="input-group newsletter-signup">
-                        <input style="background: #333; color: #fff;border: 1px solid #111" type="email" name="EMAIL" class="form-control" placeholder="Sign up for our newsletter">
-                        <span class="input-group-btn">
-                            <button class="btn btn-primary" type="submit">Subscribe</button>
-                        </span>
-                    </div>
-                </form>
+                {% include newsletter-form.html %}
             </div>
         </div>
     </div>

@@ -9,9 +9,12 @@ permalink: /learning-modern-java/
         <div class="col-md-6">
             <h1>Learning Modern Java: Lambdas</h1>
             <h5>By Jacob Jensen</h5>
-            <p>An introductory video course on applying functional programming in Java 8 with Lambdas.</p>
             <p>
-            <a class="btn btn-lg btn-primary" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a></p>
+                An introductory video course on applying functional programming in Java 8 with Lambdas.
+            </p>
+            <p>
+                <a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a>
+            </p>
         </div>
         <div class="col-md-6">
             <div class="intro-video video-wrapper">
@@ -144,12 +147,16 @@ permalink: /learning-modern-java/
                 </div>
             </div>
           </div>
+          <p><a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a></p>
         </div>
     </div>
     <aside class="col-md-4">
-        <h3>About the Authors</h3>
-        <p>We are a duo of talented programmers who find joy through helping others learn to code. We want to help you expand your skillsets, introduce you to new concepts, 
-        and teach you about modern software. We are about you.</p>
+        <div class="callout">
+            <h3>Sign Up for Our Newsletter</h3>
+            {% include newsletter-form.html %}
+
+            <p>Don't miss out on upcoming products and screencasts that we have in the works! Get insider tips, tutorials, screencasts, and deals on upcoming products.</p>
+        </div>
 
         <div class="author-card">
             <header class="clearfix">
@@ -165,17 +172,31 @@ permalink: /learning-modern-java/
             </div>
         </div>
 
+        <div class="author-card">
+            <header class="clearfix">
+                <img class="avatar"
+                     src="https://en.gravatar.com/userimage/6724763/382dcb6a182654fa5bf88dcc4624f11c.jpeg?s=100"
+                     alt="Paul Redmond">
+                <div class="role">Co-Producer</div>
+                <h3 class="name">Paul Redmond</h3>
+            </header>
+            <div class="bio">
+                <p>Paul is a full stack developer, author of <a target="_blank" href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, and a lover of PHP, Ruby, Node.js, DevOps, Docker, and tests.</p>
+            </div>
+        </div>
+
+        <h3>About BitPress</h3>
+        <p>We are a duo of talented programmers who find joy through helping others learn to code. We want to help you expand your skillsets, introduce you to new concepts, 
+        and teach you about modern software. We are about you.</p>
+        <p>Follow us on Twitter <a href="https://twitter.com/bitpressio">@bitpressio</a>.</p>
+
         <div class="share">
             <h6>Share series</h6>
 
-            <a href="#" class="facebook">Facebook</a>
-            <a href="#" class="twitter">Twitter</a>
-            <a href="#" class="linkedin">LinkedIn</a>
-            <a href="#" class="googleplus">G+</a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbitpress.io%2Flearning-modern-java%2F" target="_blank" class="facebook">Facebook</a>
+            <a href="https://twitter.com/intent/tweet?text=Learn%20how%20to%20apply%20functional%20programming%20in%20Java%208%20with%20Lambdas%20like%20a%20boss&via=bitpressio&url=http%3A%2F%2Fbitpress.io%2Flearning-modern-java%2F&original_referer=http%3A%2F%2Fbitpress.io%2Flearning-modern-java%2F" target="_blank" class="twitter">Twitter</a>
+            <a href="https://www.linkedin.com/cws/share?url=http%3A%2F%2Fbitpress.io%2Flearning-modern-java%2F" target="_blank" class="linkedin">LinkedIn</a>
+            <a href="https://plus.google.com/share?url=http%3A%2F%2Fbitpress.io%2Flearning-modern-java%2F&title=TESTING123" class="googleplus" target="_blank">G+</a>
         </div>
-        <!-- For Reference -->
-        <!-- <div class="author">
-            <img src="https://en.gravatar.com/userimage/6724763/382dcb6a182654fa5bf88dcc4624f11c.jpeg?s=100" alt="Paul Redmond">
-        </div> -->
     </aside>
 </div>

@@ -17,6 +17,37 @@ body {
     color: #DADADA;
 }
 
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+a.btn,
+.nav-pills a {
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #999;
+}
+
+a:visited {
+    color: #dadada;
+}
+
+.buy-now {
+    &:hover {
+        background-color: #FFDD75;
+        color: #333;
+    }
+    background-color: #FFC40E;
+    text-decoration: none;
+    color: #333;
+    border: none;
+}
+
 p {
     line-height: 1.65;
 }
@@ -111,6 +142,12 @@ i {
     border-bottom: 1px solid #404040;
 }
 
+.main-nav {
+    a {
+        text-decoration: none;
+    }
+}
+
 .jumbotron {
     background: #3a3a3a url('../assets/images/mountains.png');
     background-size: cover;
@@ -125,12 +162,6 @@ i {
 
     h1 {
         font-size: 2em;
-    }
-
-    .btn-primary {
-        background-color: #FFC40E;
-        color: #333;
-        border: none;
     }
 }
 
@@ -213,6 +244,13 @@ i {
     }
 }
 
+aside {
+    .callout {
+        background: #222;
+        padding: 0.25em 1em;
+    }
+}
+
 footer {
     font-size: 14px;
     margin-top: 3em;
@@ -220,9 +258,10 @@ footer {
     width: 100%;
     background: #222;
     color: #999;
+}
 
-    .newsletter-signup {
-
+.newsletter-signup {
+        margin-bottom: 1em;
         input[type=text] {
             background: #666;
             border: 1px solid #111;
@@ -236,5 +275,4 @@ footer {
             }
         }
     }
-}
 
