@@ -2,24 +2,60 @@
 layout: homepage
 ---
 
-<div class="" style="background: none;">
-    <div class="logo" style="margin: 0 auto; text-align: center; margin-bottom: 1em;">
-        <a href="/">
-            <img src="/assets/images/watermark-white@2x.png" width="297" alt="BitPress">
-        </a>
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="logo" style="margin: 0 auto; margin-bottom: 1em;">
+                <a href="/">
+                    <img src="/assets/images/watermark-white@2x.png" width="297" alt="BitPress">
+                </a>
+            </div>
+            <p>We provide high quality screencasts <em>where you watch an instructor code</em>. No boring presentations or hard-to-hear talks ported to video, you dive into the code one-on-one with a professional.</p>    
+        </div>
+        <div class="col-md-6">
+            <aside style="margin: 2em 0"><div class="callout">
+                <h2>Don't Let Your Skills Go Stale</h2>
+                <p>Web development moves at lightning speed. Don't get left behind, start learning now!</p>
+                <!-- <p>We'll send you insider tips, tutorials, screencasts, and announcements about new products.</p> -->
+                {% include newsletter-form.html %}
+            </div></aside>
+        </div>
     </div>
-    <div style="max-width: 600px; margin: 2em auto">
-        <h2 style="font-weight: 200; line-height: 1.5em; font-family: 'Open Sans', sans-serif; font-size: 1.5em; color: white;">Learn modern web development through our screencasts and books.</h3>
+</div>
 
-        <p style="border-top: 1px solid #444; padding-top: 1em;">Learning a new programming language framework or skill can be a time-consuming and daunting task. And it's easy to make it harder than it needs to be, and just give up. Scouring the internet for tutorials, reading API documentation, and using Stack Overflow can be time consuming.</p>
-
-        <p> Enter Bitpress. We provide high quality screencasts <em>where you watch an instructor code</em>. No boring presentations or hard-to-hear talks ported to video, you dive into the code one-on-one with a professional.</p>
-
-        <aside style="margin: 2em 0"><div class="callout">
-            <h2>Don't Let Your Skills Go Stale</h2>
-            <p>Web development moves at lightning speed. Don't get left behind, start learning now!</p>
-            <p>We'll send you insider tips, tutorials, screencasts, and announcements about new products.</p>
-            {% include newsletter-form.html %}
-        </div></aside>
+<div class="row">
+    <div class="col-md-12" style="padding-left: 15px">
+        <h2>New Products</h2>
+    </div>
+</div>
+<div class="row new-products">
+    <div class="col-sm5 col-md-4">
+        <div class="thumbnail">
+            <img src="/assets/images/mountains-learning-java.png" alt="">
+            <div class="caption">
+                <h3>Learning Modern Java: Lambdas</h3>
+                <p>An introductory video course on applying functional programming in Java 8 with Lambdas.</p>  
+                <p><a href="/learning-modern-java/" class="btn btn-success">Go Buy it Now!</a></p>      
+            </div>
+        </div>
+    </div>
+    <div class="col-sm5 col-md-4">
+        <div class="thumbnail">
+            <img src="/assets/images/mountains-coming-soon.png" alt="Series Coming Soon">
+            <div class="caption">
+                <h3>Learning Modern Java: Streams</h3>
+                <p>Building on the <a href="/learning-modern-java/">Lambda series</a>, learn about streams in Java 8</p><p><a href="#" class="btn btn-success">Coming Soon</a></p>       
+            </div>
+        </div>
+    </div>
+    <div class="col-sm5 col-md-4">
+        <div class="thumbnail">
+            <img src="/assets/images/mountains-coming-soon.png" alt="">
+            <div class="caption">
+                <h3>Docker for PHP Developers</h3>
+                <p>Learn how to use Docker for PHP application development and debugging.</p>
+                <p><a href="#" class="btn btn-success">Coming Soon</a></p> 
+            </div>
+        </div>
     </div>
 </div>

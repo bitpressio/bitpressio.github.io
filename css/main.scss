@@ -29,6 +29,33 @@ body.homepage {
     p {
         line-height: 2em;
     }
+
+    .jumbotron {
+        color: white;
+        // background: #444;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: white;
+    }
+}
+
+.new-products {
+    h3,h2 {
+        color: white;
+    }
+    .thumbnail {
+        min-height: 540px;
+        background: #565656;
+        border: 1px solid #666;
+        color: #dadada;
+        a:visited {
+            color: #fff;
+        }
+        .caption {
+            color: #dadada;            
+        }
+    }
 }
 
 a {
