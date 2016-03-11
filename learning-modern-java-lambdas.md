@@ -22,89 +22,129 @@ permalink: /learning-modern-java/
 
 <div class="row">
     <div class="col-md-8">
-        <h1>Are You Missing Out on One of Java’s Coolest New Features?</h1>
-        <p>We've got your back.</p>
-        <p class="lead">This series will get you up to speed on Lambdas, one of the most exciting features ever added to Java. If
-            the lambda syntax is unknown, unfamiliar, or confusing to you now, then you are in the right place; by
-            the end of this lesson you will know it like the back of your hand.</p>
-        <p>Whether you are a hardened Java veteran, a fresh college graduate just getting your feet wet, or are a
-            programmer no Java specific experience at all, this series will reveal the power and flexibility of
-            Lambdas in Java 8 using entertaining examples and common scenarios. Together we will explore how we can
-            turn verbose and brittle code into terse and reusable functions by incrementally improving Java 7-style
-            code using functional programming inspired Lambdas.</p>
-        <p>So don't get left in the dust&mdash;check out this series and wow your friends (and your boss) with your new
-            Lambda chops. </p>
+        <div>
 
-        <h2>What's Included</h2>
-        <div class="panel panel-default">
-          <!-- Default panel contents -->
-          <div class="panel-heading">Course Overview</div>
+          <!-- Nav tabs -->
+          <ul class="nav nav-pills">
+            <li role="presentation" class="active">
+                <a href="#description" aria-controls="description" data-toggle="pill">Description</a>
+            </li>
+            <li role="presentation">
+                <a href="#series-details" aria-controls="whats inside" data-toggle="pill">What's Inside?</a>
+            </li>
+          </ul>
 
-          <!-- Table -->
-          <table class="table">
-            <tr>
-                <td><i class="fa fa-video-camera"></i></td>
-                <td>Part 1: Java 7 vs Java 8</td>
-                <td>4m 47s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 2: Comparing with Comparator</td>
-                <td>6m 28s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 3: Battling Orcs with Function</td>
-                <td>10m 38s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 4: Filtering Orcs with Predicate</td>
-                <td>10m 41s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 5: Insulting Orcs with Consumer</td>
-                <td>6m 25s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 6: Simplifying with ForEach</td>
-                <td>2m 5s</td>
-            </tr>
-            <tr>
-                <td>
-                    <i class="fa fa-video-camera"></i>
-                </td>
-                <td>Part 7: In Review and Looking Forward</td>
-                <td>1m 37s</td>
-            </tr>
-          </table>
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="description">
+                <h1>Are You Missing Out on One of Java’s Coolest New Features?</h1>
+                <p>We've got your back.</p>
+                <p class="lead">This series will get you up to speed on Lambdas, one of the most exciting features ever added to Java. If
+                    the lambda syntax is unknown, unfamiliar, or confusing to you now, then you are in the right place; by
+                    the end of this lesson you will know it like the back of your hand.</p>
+                <p>Whether you are a hardened Java veteran, a fresh college graduate just getting your feet wet, or are a
+                    programmer no Java specific experience at all, this series will reveal the power and flexibility of
+                    Lambdas in Java 8 using entertaining examples and common scenarios. Together we will explore how we can
+                    turn verbose and brittle code into terse and reusable functions by incrementally improving Java 7-style
+                    code using functional programming inspired Lambdas.</p>
+                <p>So don't get left in the dust&mdash;check out this series and wow your friends (and your boss) with your new
+                    Lambda chops. </p>
+
+                <h2>What You’ll Learn In This Series</h2>
+
+                <ul>
+                    <li>Learn how you can leverage lambdas in existing Java 7-style code</li>
+                    <li>Understand how lambdas work in the background, and when they are appropriate to use</li>
+                    <li>See how the tried-and-true Comparator interface can become a one-line lambda</li>
+                    <li>Discover the power and versatility of the Function, Consumer, and Predicate functional interfaces,
+                        and how you can utilize them to refactor obtuse code into elegant, reusable lambdas
+                    </li>
+                    <li>Pick up some of the useful optimizations available in Java 8, like method references and the forEach
+                        default method, and see how they can make your code cleaner and more efficient
+                    </li>
+                </ul>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="series-details">
+                <h2>What's Included</h2>
+                <div class="panel panel-default">
+                  <!-- Default panel contents -->
+                  <div class="panel-heading">Course Overview</div>
+
+                  <!-- Table -->
+                  <table class="table course-overview">
+                    <tr>
+                        <td><a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a></td>
+                        <td>
+                            <p class="title">Part 1: Java 7 vs Java 8</p>
+                            <p class="desc">Out with the old, in with the new</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 4m 47s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 2: Comparing with Comparator</p>
+                            <p class="desc">Using Java's Comparator interface as a lambda</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 6m 28s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 3: Battling Orcs with Function</p>
+                            <p class="desc">Learning the "Function" functional interface</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 10m 38s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 4: Filtering Orcs with Predicate</p>
+                            <p class="desc">Learning the "Predicate" functional interface</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 10m 41s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 5: Insulting Orcs with Consumer</p>
+                            <p class="desc">Learning the "Consumer" functional interface</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 6m 25s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 6: Simplifying with ForEach</p>
+                            <p class="desc">Learn to use the new Collections helper methods</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 2m 5s</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                        </td>
+                        <td>
+                            <p class="title">Part 7: In Review and Looking Forward</p>
+                            <p class="desc">Wrapping up and looking forward to streams</p>
+                        </td>
+                        <td><i class="fa fa-clock-o"></i> 1m 37s</td>
+                    </tr>
+                  </table>
+                </div>
+            </div>
+          </div>
         </div>
-
-        <h2>What You’ll Learn In This Series</h2>
-
-        <ul>
-            <li>Learn how you can leverage lambdas in existing Java 7-style code</li>
-            <li>Understand how lambdas work in the background, and when they are appropriate to use</li>
-            <li>See how the tried-and-true Comparator interface can become a one-line lambda</li>
-            <li>Discover the power and versatility of the Function, Consumer, and Predicate functional interfaces,
-                and how you can utilize them to refactor obtuse code into elegant, reusable lambdas
-            </li>
-            <li>Pick up some of the useful optimizations available in Java 8, like method references and the forEach
-                default method, and see how they can make your code cleaner and more efficient
-            </li>
-        </ul>
     </div>
     <aside class="col-md-4">
         <h3>About the Authors</h3>

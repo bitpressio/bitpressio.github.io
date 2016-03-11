@@ -45,6 +45,54 @@ table {
     }
 }
 
+.nav-pills {
+    > li {
+        margin-right: 1em;
+    }
+
+    > li {
+        > a {
+            color: white;
+        }
+    }
+
+    > li.active {
+        a, a:focus {
+            background: #454545;
+        }
+    }
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus {
+    background: #454545;
+}
+
+.nav-pills > li.active > a:hover,
+.nav-pills > li > a:hover {
+    background: #555;
+}
+
+.nav-pills > li > a {
+    font-size: 1.2em;
+}
+
+.course-overview {
+    p {
+        padding: 0;
+        margin: 0;
+    }
+    
+    .title {
+        
+    }
+
+    .desc {
+        color: #949494;
+        font-size: .9em;
+    }
+}
+
 i {
     color: #FFC40E;
 }
