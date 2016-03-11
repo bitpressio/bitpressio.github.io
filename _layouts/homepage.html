@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Patua+One" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"> -->
     <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png">
@@ -31,13 +31,13 @@
     <meta name="msapplication-TileImage" content="/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-    <meta property="fb:app_id"               content="1340583409291516" />
-    <meta property="og:url"                  content="http://bitpress.io" />
-    <meta property="og:type"                 content="business.business" />
-    <meta property="og:title"                content="BitPress - High Quality Screencasts and Books" />
-    <meta property="og:description"          content="Learn Java, PHP, JavaScript, and other modern web development tools with our books and screencasts." />
-    <meta property="og:image" content="http://bitpress.io/assets/images/watermark-large-black@2x.png">
-    <meta property="og:image:width" content="594">
+    <meta property="fb:app_id"       content="1340583409291516" />
+    <meta property="og:url"          content="http://bitpress.io" />
+    <meta property="og:type"         content="business.business" />
+    <meta property="og:title"        content="BitPress - High Quality Screencasts and Books" />
+    <meta property="og:description"  content="Learn Java, PHP, JavaScript, and other modern web development tools with our books and screencasts." />
+    <meta property="og:image"        content="http://bitpress.io/assets/images/watermark-large-black@2x.png">
+    <meta property="og:image:width"  content="594">
     <meta property="og:image:height" content="176">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
@@ -45,9 +45,10 @@
   </head>
 
 
-  <body>
+  <body class="homepage">
     <div class="container">
       {{ content }}
     </div>
+    {% include tracking.html %}
   </body>
 </html>

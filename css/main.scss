@@ -15,6 +15,20 @@ body {
     padding-top: 170px;
     background: #333;
     color: #DADADA;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+body.homepage {
+    padding-top: 2em;
+    color: #C5C5C5;
+    font-size: 2em;
+}
+
+.homepage {
+    color: #c5c5c5;
+    p {
+        line-height: 2em;
+    }
 }
 
 a {
@@ -59,6 +73,12 @@ li {
 @media screen and (min-width: 768px) {
     body {
         padding-top: 70px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .nav-pills > li > a {
+        font-size: 1em !important;
     }
 }
 
