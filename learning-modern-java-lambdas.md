@@ -1,6 +1,7 @@
 ---
 layout: series
 title: Learning Modern Java - Lambdas
+excerpt: Learn how to apply functional programming in Java 8 with Lambdas
 permalink: /learning-modern-java/
 ---
 <script src="https://gumroad.com/js/gumroad.js"></script>
