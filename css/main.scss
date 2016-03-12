@@ -43,6 +43,9 @@ body.homepage {
 .new-products {
     h3,h2 {
         color: white;
+        a {
+            text-decoration: none;
+        }
     }
     .thumbnail {
         min-height: 540px;
