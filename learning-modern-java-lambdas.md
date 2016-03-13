@@ -14,7 +14,7 @@ permalink: /learning-modern-java/
                 An introductory video course on applying functional programming in Java 8 with Lambdas.
             </p>
             <p>
-                <a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a>
+                <a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true"><i class="fa fa-lock"></i> Buy now for $5</a>
             </p>
         </div>
         <div class="col-md-6">
@@ -148,7 +148,7 @@ permalink: /learning-modern-java/
                 </div>
             </div>
           </div>
-          <p><a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true">Buy now for $5</a></p>
+          <p><a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true"><i class="fa fa-lock"></i> Buy now for $5</a></p>
         </div>
     </div>
     <aside class="col-md-4">

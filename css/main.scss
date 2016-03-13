@@ -82,10 +82,19 @@ a:visited {
 .buy-now {
     &:hover {
         background-color: #FFDD75;
-        color: #333;
+        color: #444;
     }
+
+    &:visited {
+        color: #333;
+        background-color: #FFC40E;
+    }
+
     background-color: #FFC40E;
     text-decoration: none;
+    i {
+        color: #333;
+    }
     color: #333;
     border: none;
 }
