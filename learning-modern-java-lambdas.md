@@ -22,7 +22,7 @@ permalink: /learning-modern-java/
         </div>
         <div class="col-md-6">
             <div class="intro-video video-wrapper">
-                <iframe src="https://player.vimeo.com/video/158359808?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>            </div>
+                <iframe src="https://player.vimeo.com/video/159667516?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" class="video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>            </div>
         </div>
     </div>
 </div>
