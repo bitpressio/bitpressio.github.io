@@ -4,6 +4,7 @@ title:  "How to Accept JSON POST Requests in Laravel and Lumen"
 date:   2016-02-16 12:14:46 -0700
 author: Paul Redmond
 categories: php laravel
+excerpt: Learn how to accept a JSON payload in your Lumen API with a middleware
 published: true
 ---
 Sending a JSON encoded entity to a RESTful API is a common need, and a JSON payload is actually pretty slick and convenient. It eases the pain of form-encoded strings when sending post data, and makes it easier to structure complex data that’s more readable. It can also make documentation easier to follow when you share cURL examples of making requests to your API. JSON is much easier for readers to digest compared to form encoded request params.
