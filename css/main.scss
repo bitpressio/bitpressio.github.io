@@ -64,6 +64,11 @@ a {
     text-decoration: underline;
 }
 
+footer a {
+    color: white !important;
+    text-decoration: underline;
+}
+
 a.btn,
 .nav-pills a {
     text-decoration: none;
@@ -318,18 +323,69 @@ footer {
 }
 
 .newsletter-signup {
-        margin-bottom: 1em;
-        input[type=text] {
-            background: #666;
+    margin-bottom: 1em;
+    input[type=text] {
+        background: #666;
+        border: 1px solid #111;
+        color: #eee;
+    }
+
+    .input-group-btn {
+        button {
+            //background: #666;
             border: 1px solid #111;
-            color: #eee;
+        }
+    }
+}
+
+
+body.post {
+    .page-content {
+        a {
+            color: #ad141e;
+            text-decoration: none;
+            box-shadow: 0 1px 0 0 lighten(#ad141e, 50%);
+            transition: color 0.1s linear;
         }
 
-        .input-group-btn {
-            button {
-                //background: #666;
-                border: 1px solid #111;
-            }
+        a:visited {
+            color: #ad141e;
+        }
+
+        a:hover {
+            box-shadow: 0 1px 0 0 rgba(173,20,30,0.6);
         }
     }
 
+    h1, h2, h3, h4, h5, h6 {
+        color: #000;
+    }
+
+    background: #fff;
+    color: #444;
+
+    > .container {
+        max-width: 750px;
+    }
+
+    .post-header {
+        margin: 0 0 2em;
+        padding: 2em;
+        text-align: center;
+        border-bottom: 1px solid #dedede;
+    }
+
+    .author-card img.avatar {
+        width: 100px;
+        height: 100px;
+    }
+
+}
+
+article.post {
+    .author-card {
+        p.post-bio {
+            margin-left: 150px;
+        }
+    }
+}

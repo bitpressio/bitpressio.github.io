@@ -15,5 +15,30 @@ url: "http://bitpress.io" # the base hostname & protocol for your site
 twitter_username: bitpressio
 github_username:  bitpressio
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "BitPress Team"
+
+authors:
+  Jacob Jensen:
+    name: Jacob Jensen
+    bio: Jacob is a software engineer with a passion for teaching and deep experience in web development,design patterns, object oriented design, and a multitude of programming languages and platforms.
+    gravitarId: 5460f254e076aea5d21e338b31c8ff36
+    link: https://github.com/jjensen90
+    github: https://github.com/jjensen90
+  Paul Redmond:
+    name: Paul Redmond
+    bio: Paul is a full stack developer, author of <a target="_blank" href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, and a lover of PHP, Ruby, Node.js, DevOps, Docker, and tests.
+    gravitarId: d9691184a54bfa1defe3dc7d625bc959
+    link: https://github.com/paulredmond
+    github: https://github.com/paulredmond
