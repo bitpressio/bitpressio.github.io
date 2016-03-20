@@ -11,10 +11,13 @@ permalink: /learning-modern-java/
             <h1>Learning Modern Java: Lambdas</h1>
             <h5>By Jacob Jensen</h5>
             <p>
-                An introductory video course on applying functional programming in Java 8 with Lambdas.
+                A free introductory video course on applying functional programming in Java 8 with Lambdas.
             </p>
             <p>
-                <a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true"><i class="fa fa-lock"></i> Buy now for $5</a>
+                Click below to signup for our newsletter and get this course delivered to you at no cost. 
+            </p>
+            <p>
+                <a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi/freelambda?wanted=true">Get It Free!</a>
             </p>
         </div>
         <div class="col-md-6">
@@ -77,7 +80,7 @@ permalink: /learning-modern-java/
                   <!-- Table -->
                   <table class="table course-overview">
                     <tr>
-                        <td><a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a></td>
+                        <td><a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a></td>
                         <td>
                             <p class="title">Part 1: Java 7 vs Java 8</p>
                             <p class="desc">Out with the old, in with the new</p>
@@ -86,7 +89,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 2: Comparing with Comparator</p>
@@ -96,7 +99,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 3: Battling Orcs with Function</p>
@@ -106,7 +109,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 4: Filtering Orcs with Predicate</p>
@@ -116,7 +119,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 5: Insulting Orcs with Consumer</p>
@@ -126,7 +129,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 6: Simplifying with ForEach</p>
@@ -136,7 +139,7 @@ permalink: /learning-modern-java/
                     </tr>
                     <tr>
                         <td>
-                            <a href="https://gum.co/Ljpi?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
+                            <a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a>
                         </td>
                         <td>
                             <p class="title">Part 7: In Review and Looking Forward</p>
@@ -148,7 +151,7 @@ permalink: /learning-modern-java/
                 </div>
             </div>
           </div>
-          <p><a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi?wanted=true"><i class="fa fa-lock"></i> Buy now for $5</a></p>
+          <p><a class="btn btn-lg btn-primary buy-now" href="https://gum.co/Ljpi/freelambda?wanted=true">Get It Free!</a></p>
         </div>
     </div>
     <aside class="col-md-4">
