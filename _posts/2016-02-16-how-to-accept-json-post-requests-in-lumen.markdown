@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Accept JSON POST Requests in Laravel and Lumen"
+title:  "How to Accept JSON POST Requests in Lumen"
 date:   2016-02-16 12:14:46 -0700
 author: Paul Redmond
 categories: php laravel
