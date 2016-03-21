@@ -74,15 +74,30 @@ permalink: /learning-modern-java/
             <div role="tabpanel" class="tab-pane" id="series-details">
                 <h2>What's Included</h2>
                 <div class="panel panel-default">
+                
+                <!-- Modal -->
+                <div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Preview Video: Part 1: Java 7 vs Java 8</h4>
+                      </div>
+                      <div class="modal-body">
+                        <iframe src="https://player.vimeo.com/video/159859244" width="100%" height="350px"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                   <!-- Default panel contents -->
                   <div class="panel-heading">Course Overview</div>
 
                   <!-- Table -->
                   <table class="table course-overview">
                     <tr>
-                        <td><a href="https://gum.co/Ljpi/freelambda?wanted=true" title="Buy Now"><i class="fa fa-video-camera"></i></a></td>
+                        <td><a href="javascript:void(0);" data-toggle="modal" data-target="#myModal" title="Buy Now"><i class="fa fa-video-camera"></i></a></td>
                         <td>
-                            <p class="title">Part 1: Java 7 vs Java 8</p>
+                            <p class="title"><a href="javascript:void(0);" data-toggle="modal" data-target="#myModal">Part 1: Java 7 vs Java 8 <small><em>(Click to view!)</em></small></a></p>
                             <p class="desc">Out with the old, in with the new</p>
                         </td>
                         <td><i class="fa fa-clock-o"></i> 4m 47s</td>
@@ -204,3 +219,13 @@ permalink: /learning-modern-java/
         </div>
     </aside>
 </div>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".modal").on('hidden.bs.modal', function(e) {
+        $iframe = $(this).find( "iframe" );
+        $iframe.attr("src", $iframe.attr("src"));
+    }); 
+});
+</script>

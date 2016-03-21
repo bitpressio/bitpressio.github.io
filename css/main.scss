@@ -389,3 +389,16 @@ article.post {
         }
     }
 }
+
+.modal {
+    .modal-content {
+        background-color: #444444;
+    }
+    .modal-header {
+        border-bottom: #676767;
+
+        button.close {
+            color: #fff;
+        }
+    }
+}
