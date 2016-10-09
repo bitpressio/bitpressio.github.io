@@ -1,0 +1,25 @@
+---
+layout: blog
+---
+{% for post in site.posts %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <h1 class="post-title" itemprop="name headline">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+        </a>
+    </h1>
+    <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d,
+            %Y" }}
+        </time>
+        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a
+            href="{{author.link}}"><span itemprop="name">{{ author.name }}</span></a></span>{% endif %}
+    </p>
+    <div class="post-content" itemprop="articleBody">
+        {{ post.content }}
+    </div>
+</article>
+</a>
+<hr class="section-divider">
+{% endfor %}
