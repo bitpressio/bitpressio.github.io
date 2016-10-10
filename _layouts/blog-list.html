@@ -1,0 +1,43 @@
+---
+layout: blog
+paginate: true
+title: "The BitPress Blog"
+---
+{% for post in paginator.posts %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <h1 class="post-title" itemprop="name headline">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+        </a>
+    </h1>
+    <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d,
+            %Y" }}
+        </time>
+        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a
+            href="{{author.link}}"><span itemprop="name">{{ author.name }}</span></a></span>{% endif %}
+    </p>
+    <div class="post-content" itemprop="articleBody">
+        <p>{{ post.short_description }}</p>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
+    </div>
+</article>
+</a>
+<hr class="section-divider">
+{% endfor %}
+
+<nav aria-label="More articles">
+  <ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path }}" class="previous"><span aria-hidden="true">&larr;</span> Newer</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path }}" class="next">Older <span aria-hidden="true">&rarr;</span></a>
+    {% endif %}
+    </li>
+  </ul>
+</nav>
