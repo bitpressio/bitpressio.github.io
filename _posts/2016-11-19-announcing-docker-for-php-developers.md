@@ -29,7 +29,7 @@ I've cut my teeth along the way and refined my approach with each new project. D
 
 <span class="clearfix"></span>
 
-I don't feel my workflow perfect, but my Docker workflow with PHP satisifes some requirements I think are very important to my productivity:
+I don't feel my workflow perfect, but my Docker workflow with PHP satisfies some requirements I think are very important to my productivity:
 
 * Make my Docker workflow feel (almost) the same as developing locally
 * Modify files locally that are immediately reflected in my application environment
