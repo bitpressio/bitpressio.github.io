@@ -6,6 +6,7 @@ author: Paul Redmond
 categories: php docker
 excerpt: We are excited to announce an upcoming book! We are hard at work on a new book titled "Docker for PHP Developers".
 published: true
+short_description: I am excited to announce our next book title at Bitpress, Docker for PHP Developers! We want to help you learn Docker and start using it in your daily development workflow.
 ---
 I am excited to announce our next book title at Bitpress, [Docker for PHP Developers](https://leanpub.com/docker-for-php-developers)! Docker has grown on me over the last two years, but I realize that not all PHP developers have experimented with it yet. Google produces lots of tutorials and projects using Docker with PHP, but you will be hard-pressed to find a complete guide that takes you from __beginner to using Docker full time every day__.
 
