@@ -19,3 +19,7 @@ Check out my package on [Atom.io Packages](https://atom.io/packages/larasnippets
 I like how I was able to easily break up snippets into separate `.cson` (CoffeeScript-Object-Notation) files, so its easy for developers to peek around at various snippet files instead of cramming them all into one file. I've tried to logically separate them in a way that makes it easy to find things.
 
 I don't plan on making an exhaustive list of snippets for Laravel; I just have a hand-full I go for that I use often. Since I write tests often, it makes sense for me to tab complete `test` and generate a new PHP unit test. I can also generate a new test case with `testcase` that imports Laravel's migration traits. While I still bounce between PhpStorm and text editors, Atom is really starting to feel polished.
+
+**Update**
+
+I decided to [automate generated snippet documentation](/php/laravel/2017/02/13/atom-cson-snippet-documentation-generator/), learn more about how you can generate documentation for all your Atom plugin's CSON snippets.
