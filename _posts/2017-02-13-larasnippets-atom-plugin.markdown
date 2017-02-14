@@ -12,7 +12,7 @@ published: true
 I've been using the [Atom text editor](https://atom.io/) lately, which is getting really solid. I decided to port some of my Laravel and PHP snippets into an Atom package
 to get a feel for how to create packages and snippets in Atom. I am pleased with how easy it was to get started. I just typed `Command + Shift + P` and selected `Package Generator: Generate Package`. Specifically, check out [Hacking Atom](http://flight-manual.atom.io/hacking-atom/) in the [Atom flight manual](http://flight-manual.atom.io/) to get started.
 
-Check out my package at https://github.com/paulredmond/atom-larasnippets or install it with APM: apm install larasnippets. You can also search “larasnippets” in the Atom settings and install it from the UI.
+Check out my package on [Atom.io Packages](https://atom.io/packages/larasnippets), the source code on [Github](https://github.com/paulredmond/atom-larasnippets) or install it with APM: apm install larasnippets. You can also search “larasnippets” in the Atom settings and install it from the UI.
 
 [![Larasnippets Atom Package](/assets/images/blog/larasnippets-factory-example.gif)](https://github.com/paulredmond/atom-larasnippets)
 
