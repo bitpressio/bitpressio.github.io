@@ -22,4 +22,4 @@ I don't plan on making an exhaustive list of snippets for Laravel; I just have a
 
 **Update**
 
-I decided to [automate generated snippet documentation](/php/laravel/2017/02/13/atom-cson-snippet-documentation-generator/), learn more about how you can generate documentation for all your Atom plugin's CSON snippets.
+I decided to [automate generated snippet documentation](/php/laravel/2017/02/14/atom-cson-snippet-documentation-generator/), learn more about how you can generate documentation for all your Atom plugin's CSON snippets.
