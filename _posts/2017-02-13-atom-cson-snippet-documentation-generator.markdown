@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generate Markdown Documentation from Atom CSON Snippets"
+title:  "How to Create Automated Documentation for Atom Text Editor Snippets"
 date:   2017-02-13 22:11:00 -0700
 author: Paul Redmond
 categories: php laravel
