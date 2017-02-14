@@ -11,7 +11,7 @@ published: true
 
 I wrote this quick bash script that automatically increments the version of my Atom text editor plugins, pushes everything to your git remote, and then finally publishes the new version to Atom via [apm](https://github.com/atom/apm):
 
-<script src="https://gist.github.com/paulredmond/9dbae7e6c83b98db3a369e181acea1bc"></script>
+<script src="https://gist.github.com/paulredmond/9dbae7e6c83b98db3a369e181acea1bc.js"></script>
 
 Drop this file in the root of your Atom package (see [my example](https://github.com/paulredmond/atom-larasnippets/blob/master/publish)) and make sure the file is executable with `chmod u+x ./publish`. In my example, I also generate the [latest snippet documentation](http://bitpress.io/php/laravel/2017/02/14/atom-cson-snippet-documentation-generator/) before incrementing a new version, pushing tags, and finally publishing the new version with APM.
 
