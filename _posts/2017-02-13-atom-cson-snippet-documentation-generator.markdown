@@ -9,7 +9,7 @@ short_description: Learn how to generate markdown documentation from your Atom p
 published: true
 ---
 
-While [building an Laravel snippet plugin](/php/laravel/2017/02/13/larasnippets-atom-plugin/) for the Atom text editor, I thought it would be helpful to produce human-friendly documentation for all the snippets contained in my plugin. This post is a quick tutorial demonstrating how to parse CSON files and produce documentation for your Atom plugin.
+While [building an Laravel snippet plugin](/php/laravel/2017/02/13/larasnippets-atom-plugin/) for the [Atom text editor](https://atom.io/), I thought it would be helpful to produce human-friendly documentation for all the snippets contained in my plugin. This post is a quick tutorial demonstrating how to parse CSON files and produce documentation for your Atom plugin.
 
 Atom's [snippets](http://flight-manual.atom.io/using-atom/sections/snippets/) use CSON (CoffeeScript-Object-Notation), which is a readable enough format, but I wanted to combine all snippets into a generated, human-readable markdown document.
 
