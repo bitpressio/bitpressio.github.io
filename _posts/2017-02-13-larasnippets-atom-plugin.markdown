@@ -16,4 +16,6 @@ Check out my package at https://github.com/paulredmond/atom-larasnippets or inst
 
 [![Larasnippets Atom Package](/assets/images/blog/larasnippets-factory-example.gif)](https://github.com/paulredmond/atom-larasnippets)
 
+I like how I was able to easily break up snippets into separate `.cson` (CoffeeScript-Object-Notation) files, so its easy for developers to peek around at various snippet files instead of cramming them all into one file. I've tried to logically separate them in a way that makes it easy to find things.
+
 I don't plan on making an exhaustive list of snippets for Laravel; I just have a hand-full I go for that I use often. Since I write tests often, it makes sense for me to tab complete `test` and generate a new PHP unit test. I can also generate a new test case with `testcase` that imports Laravel's migration traits. While I still bounce between PhpStorm and text editors, Atom is really starting to feel polished.
