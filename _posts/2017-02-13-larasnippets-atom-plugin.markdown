@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Accept JSON POST Requests in Lumen"
+title:  "Larasnippets: My Collection of Laravel and PHP Snippets for the Atom Editor"
 date:   2017-02-13 16:51:00 -0700
 author: Paul Redmond
 categories: php laravel
