@@ -64,7 +64,7 @@ body.post {
             color: #fff;
         }
         .caption {
-            color: #dadada;            
+            color: #dadada;
         }
     }
 }
@@ -185,9 +185,9 @@ table {
         padding: 0;
         margin: 0;
     }
-    
+
     .title {
-        
+
     }
 
     .desc {
@@ -264,7 +264,7 @@ i {
 }
 
 .author-card {
-    
+
     margin: 2em 0;
 
     .name {
@@ -376,6 +376,7 @@ body.post {
     }
 
     .post-title {
+        line-height: 1.4em;
         a, a:visited {
             color: #000;
             box-shadow: 0 1px 0 0 lighten(#000, 70%);
