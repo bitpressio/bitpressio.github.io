@@ -13,7 +13,7 @@ The most significant change between Guzzle 5 and 6 is moving away from the [even
 
 > Instead of using the event system to listen for things like the before event, you now create a stack based middleware function that intercepts a request on the way in and the promise of the response on the way out. This is a much simpler and more predictable approach than the event system and works nicely with PSR-7 middleware.
 
-I prefer to keep my dependencies as up-to-date as possible so I decided to learn Guzzle 6 and become more familiar with the middleware. The concepts are pretty straitforward and I have a few patterns that I like to use when building out middleware within my Laravel applications.
+I prefer to keep my dependencies as up-to-date as possible so I decided to learn Guzzle 6 and become more familiar with the middleware. The concepts are pretty straightforward and I have a few patterns that I like to use when building out middleware within my [Laravel](https://laravel.com/) applications.
 
 I actually had a real need to build out [HMAC](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code). The following code illustrates how you might go about building HMAC authorization by sending a signed `Authorization` header with a Guzzle middleware:
 
@@ -25,7 +25,7 @@ The middleware uses PHP's [`__invoke` magic method](http://php.net/manual/en/lan
 Authorization: Signature keyId="key",algorithm="hmac-sha1",signature="za3U%2BbsQX4otneqSfYZuJuZP%2FrY%3D"
 ```
 
-Next, you can resolve tagged middleware with Laravel's container with the following `AppServiceProvider` example:
+Next, you can resolve tagged middleware with Laravel's service container. We will define these services within `\App\Providers\AppServiceProvider`:
 
 <script src="https://gist.github.com/paulredmond/509fdbf46d97c6d09498d246082f439f.js"></script>
 
