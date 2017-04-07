@@ -25,7 +25,7 @@ The middleware uses PHP's [`__invoke` magic method](http://php.net/manual/en/lan
 Authorization: Signature keyId="key",algorithm="hmac-sha1",signature="za3U%2BbsQX4otneqSfYZuJuZP%2FrY%3D"
 ```
 
-Next, you can resolve tagged middleware with Laravel's service container. We will define these services within `\App\Providers\AppServiceProvider`:
+Next, you can resolve tagged middleware with Laravel's service container:
 
 <script src="https://gist.github.com/paulredmond/509fdbf46d97c6d09498d246082f439f.js"></script>
 
