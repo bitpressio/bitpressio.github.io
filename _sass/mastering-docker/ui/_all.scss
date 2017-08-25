@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+body {
+  border-top: 3px solid rgba(20, 128, 204, 0.5);
+}
+
+.pad-t {
+  padding-top: 1rem !important;
+}
+.pad-b {
+  padding-bottom: 1rem !important;
+}
+
+.title {
+  .fa, .icon {
+    vertical-align: middle;
+  }
+}
+
+.buy-button {
+  span {
+    background: rgba(255,255,255, 0.1);
+    border: 1px solid rgba(255,255,255,0.15);
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-right: 8px;
+  }
+}
+
+.header {
+  padding-bottom: 0;
+}
+
+.intro {
+  background: url('/assets/images/docker-book/cloud-repeat.png') repeat-x bottom center;
+  .title {
+    line-height: 1.25em;
+  }
+  .subtitle {
+    line-height: 1.5em;
+  }
+}
+
+.section {
+  padding: 1.5rem;
+}
+
+img.avatar {
+  border-radius: 50%;
+  padding: 3px;
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+
+.about-author {
+  background: url('/assets/images/docker-book/using-cloud.png') no-repeat top right;
+
+  >.container {
+    background: rgba(255,255,255, 0.1);
+  }
+
+}
+.email-signup {
+  border: solid rgba(20,128,204, 0.5);
+  border-width: 3px 0 0;
+}
+
+.book-contents {
+  border: solid rgba(20,128,204, 0.5);
+  border-width: 3px 0;
+  background: rgba(20, 128, 204, 0.1);
+}
+
+.footer {
+  border-top: 5px solid rgba(0, 0, 0, 0.05);
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .w-100-mobile {
+    width: 100%;
+  }
+  .mb-1-mobile {
+    margin-bottom: 1em;
+  }
+
+  .no-bg-image-mobile {
+    background-image: none;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
