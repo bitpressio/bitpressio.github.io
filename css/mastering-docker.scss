@@ -3,14 +3,8 @@
 ---
 @charset "utf-8";
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "font-awesome";
-@import 'overrides';
-@import "mastering-docker/bulma/utilities/_all";
-@import "mastering-docker/bulma/base/_all";
-@import "mastering-docker/bulma/elements/_all";
-@import "mastering-docker/bulma/components/_all";
-@import "mastering-docker/bulma/grid/_all";
-@import "mastering-docker/bulma/layout/_all";
-@import 'mastering-docker/ui/all';
+@import 'mastering-docker/overrides';
+@import "mastering-docker/bulma/bulma";
+@import 'mastering-docker/ui/_all';

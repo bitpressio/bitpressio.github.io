@@ -6,101 +6,95 @@ permalink: /mastering-docker/
     <div class="container">
         <div class="columns">
             <div class="column is-10 is-offset-1 ">
-                <h1 class="title size-medium is-spaced is-intro">Master Docker Development for PHP</h1>
-                <h2 class="subtitle">A hands-on guide to developing PHP applications with Docker</h2>
+                <h1 class="title size-medium is-spaced is-intro">Master Docker for <strong>PHP Development</strong></h1>
+                <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
             </div>
+        </div>
+        <div class="columns">
+            <!-- <div class="column is-half is-offset-one-quarter">
+                <p>
+                    Learn modern approaches to using Docker as a PHP development environment. You will be able to develop, debug, and master your local environment with this book. Your company is probably thinking about—or is already—using Docker. <strong>Are you ready?</strong>
+                </p>
+            </div> -->
         </div>
     </div>
 </section>
+
 <section class="hero section is-small intro">
-    <div class="container" style="">
+    <div class="container is-fullhd" style="">
         <div class="columns level">
-            <div class="column is-offset-1-desktop is-5-desktop is-4-tablet has-text-centered level-left">
-                <img src="/assets/images/docker-book/book-cover-screen-shaded.png" />
+            <div class="column is-8-desktop is-6-tablet has-text-centered level-left">
+                <div class="columns">
+                    <div class="column is-10-desktop is-offset-1-desktop">
+                        <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" />
+                    </div>
+                </div>
             </div>
-            <div class="column is-5-desktop is-8-tablet has-text-left level-right">
+            <div class="column is-4-desktop is-6-tablet has-text-left level-right">
                 <p class="title is-4 is-spaced">
-                    <em>Docker for PHP Developers</em> is the <strong>book I wish I had</strong> when I started using Docker.
+                    <em>"Mastering Docker"</em> is a guide that will teach you how to use Docker and PHP to create <strong style="background: #FFF9C4">clean, simple, repeatable development environments</strong> that are easy to understand.
                 </p>
                 <p class="pad-b">
-                    The goal of this book is to provide you with <strong>answers to most common challenges</strong> you will face as a PHP developer starting with Docker. I want to help Docker feel as <strong>close to local development as possible</strong>.
-                </p>
-                <p class="pad-b">
-                    Docker feels complicated, but you will see just how simple it can be to bootstrap your current application with Docker.
+                    Learn how Docker can simplify your PHP development setup and make it <em style="background: #FFF9C4">simple to share your environment with others</em>. You will learn how to set up, manage, and deploy Docker applications built with PHP 7.
                 </p>
                 <p>
-                    <a class="button is-info buy-button mb-1-mobile w-100-mobile" href="https://leanpub.com/docker-for-php-developers" target="_blank">
+                   <!-- <a class="button is-info buy-button mb-1-mobile w-100-mobile" href="https://leanpub.com/docker-for-php-developers" target="_blank">
                         <span>$9</span>
                         Early Access Version
+                    </a> -->
+                    <a class="button is-info mb-1-mobile w-100-mobile" href="#contents">
+                        Learn More
                     </a>
-                    <a class="button mb-1-mobile w-100-mobile">Get a Sample</a>
+                    <a class="button mb-1-mobile w-100-mobile" href="#sample">Get a Sample</a>
                 </p>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section is-medium email-signup">
+<section class="section email-signup" id="sample">
     <div class="container">
         <div class="content">
             <div class="columns">
-                <div class="column is-half is-offset-one-quarter">
-                    <form action="https://www.getdrip.com/forms/89116884/submissions" method="post" data-drip-embedded-form="89116884">
-                        <h3 data-drip-attribute="headline">Sign up for Early Release Updates!</h3>
-                        <div data-drip-attribute="description">
+                <div class="column is-offset-3 is-6">
+                    <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+                    <div id="ck_success_msg" class="notification is-success"  style="display:none;">
+                      <p>Success! Check your email for a sample soon.</p>
+                    </div>
+                    <!--  Form starts here  -->
+                    <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
+                      <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
+                      <input type="hidden" name="id" value="251217" id="landing_page_id">
+                        <h3>Get a Free Book Sample</h3>
+                        <div>
                             <p class="pad-b">
-                                Docker for PHP Developers is an Early Release. We will send you book progress updates, discounts, and news related to our book launch.
+                                <em>"Mastering Docker"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <em style="background: #FFF9C4">let you know when it's ready so you can get a discount</em>!
                             </p>
                         </div>
-                        <div class="field has-addons">
-                            <p class="control is-expanded">
-                                <input class="input" type="email" name="fields[email]" value="" placeholder="Email Address" />
-                            </p>
-                            <p class="control">
-                                <button class="button is-primary" type="submit">Sign Up</button>
-                            </p>
-                        </div>
+                    <div id="ck_error_msg" class="notification is-danger" style="display:none;">
+                      <p>There was an error submitting your subscription. Please try again.</p>
+                    </div>
+                      <div class="field has-addons">
+                          <p class="control is-expanded">
+                              <input class="input" type="email" name="email" value="" required placeholder="Email Address" />
+                          </p>
+                          <p class="control">
+                              <button class="button is-primary" type="submit" id="ck_subscribe_button">Sign Up</button>
+                          </p>
+                      </div>
                     </form>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<hr>
-<section class="section video">
+
+<section class="section book-contents" id="contents">
     <div class="container">
         <div class="content">
-            <div class="columns">
-                <div class="column is-half is-offset-one-quarter">
-                    <h1 class="title">
-                        Docker is an overwhelming technology
-                    </h1>
-                    <p>No doubt, when I was starting using Docker it was overwhelming. The Internet has endless tutorials on using Docker, but as the user it's left up to you to string them all together.</p>
-                    <div style="margin-bottom: 2rem; margin-left: 2rem;">
-                        <p><em>"How do I run this thing!?"</em></p>
-                        <p><em>"How do I edit files locally and have them show up in Docker?"</em></p>
-                        <p><em>"How do I connect to a database?"</em></p>
-                        <p><em>"How do I 'jump' inside a running container?"</em></p>
-                        <p><em>"Can I use Xdebug with Docker in development, but remove it in production?"</em></p>
-                        <p><em>"How do I organize my projects with Docker?"</em></p>
-                    </div>
-
-                    <p>These are all questions I had when I started and I had to string together all the answers through trial and error <strong>over a period of two years</strong>.</p>
-
-                    <h1 class="title">You Don't Have to Go Through All That Pain!</h1>
-                    <p>That's why I've combined everything I know about developing applications with Docker into one book!</p>
-                    <p>It's everything I know about using Docker as a development environment, focusing on <strong>developer productivity first and foremost</strong>.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="section book-contents">
-    <div class="container">
-        <div class="content">
-            <header class="column is-8-desktop is-offset-2-desktop has-text-centered">
-                <h2 class="title has-text-centered">What does the Book Cover?</h2>
+            <header class="column is-6-desktop is-offset-3-desktop">
+                <h2 class="title has-text-centered">What does the Guide Cover?</h2>
+                <p style="margin-bottom: 2rem"><em>Mastering Docker</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
             </header>
             <div class="whats-inside columns is-multiline">
                 <div class="column is-3-desktop is-6-tablet">
@@ -108,6 +102,7 @@ permalink: /mastering-docker/
                         <p class="title is-4">
                             Development Tools
                         </p>
+                        <!-- <p>One of the toughest challenges when trying out Docker is learning how to get comfortable with Docker.</p> -->
                         <ul>
                             <li>Easily manage containers</li>
                             <li>Learn how to use Docker Compose</li>
@@ -128,7 +123,7 @@ permalink: /mastering-docker/
                             <li>Customize the php.ini file</li>
                             <li>Install PHP modules</li>
                             <li>Manage module INI files in Docker</li>
-                            <li>Custom dev environment configuration</li>
+                            <li>Learn how to configure per-environment</li>
                         </ul>
                     </div>
                 </div>
@@ -168,15 +163,8 @@ permalink: /mastering-docker/
                 <span class="icon">
                     <i class="fa fa-list" aria-hidden="true"></i>
                 </span>
-                Table of Contents
+                Book Table of Contents
             </h1>
-            <div class="columns">
-                <div class="column is-12 has-text-centered">
-                    <p>
-                        <em>* The Table of Contents is a work in progress, it might change.</em>
-                    </p>
-                </div>
-            </div>
             <div class="columns">
                 <div class="column is-10 is-offset-1">
                     <div class="columns">
@@ -288,20 +276,18 @@ permalink: /mastering-docker/
         </div>
     </div>
 </section>
-
 <hr>
-
 <section class="section video">
     <div class="container">
-        <div class="content has-text-centered">
+        <div class="content">
             <div class="columns">
                 <div class="column is-half is-offset-one-quarter">
-                    <h1 class="title">
+                    <h1 class="title has-text-centered">
                         <i class="fa fa-television" aria-hidden="true"></i>
-                        Video
+                        Videos
                     </h1>
-                    <p>I am planning on video tutorials that will walk you through setting up popular frameworks like <strong>Laravel</strong> and <strong>Symfony</strong>. I haven't fleshed out the product packages yet, but I plan on bundling them and allowing customers to buy them à la carte.</p>
-                    <p>More info to come, sign up for the newsletter to be the first to know!</p>
+                    <p>I am working vigorously on finalizing the video outline. My goal is to make sure the videos compliment the text, so that both video and book will reinforce your understanding of Docker for PHP development.</p>
+                    <p><a href="#sample">Sign up</a> and I'll send regular updates on the course!</p>
                 </div>
             </div>
             <div class="columns">
@@ -318,7 +304,7 @@ permalink: /mastering-docker/
             <div class="column is-9 is-offset-1 is-7-desktop is-offset-2-desktop">
                 <div class="columns">
                     <div class="column is-3 has-text-centered">
-                        <img class="avatar image is-128x128" src="/img/paul-redmond.jpeg" alt="Paul Redmond" />
+                        <img class="avatar image is-128x128" src="/assets/images/docker-book/paul-redmond.jpeg" alt="Paul Redmond" />
                     </div>
                     <div class="column is-9">
                         <div class="content">
@@ -336,4 +322,3 @@ permalink: /mastering-docker/
 <section class="section footer has-text-centered">
     <p>&copy; <a href="http://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
 </section>
-
