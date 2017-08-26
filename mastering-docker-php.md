@@ -1,12 +1,12 @@
 ---
 layout: mastering-docker
-permalink: /mastering-docker/
+permalink: /docker-for-php-developers/
 ---
 <section class="hero section header is-small has-text-centered">
     <div class="container">
         <div class="columns">
             <div class="column is-10 is-offset-1 ">
-                <h1 class="title size-medium is-spaced is-intro">Master Docker for <strong>PHP Development</strong></h1>
+                <h1 class="title size-medium is-spaced is-intro">Docker for <strong>PHP Developers</strong></h1>
                 <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
             </div>
         </div>
@@ -23,19 +23,19 @@ permalink: /mastering-docker/
 <section class="hero section is-small intro">
     <div class="container is-fullhd" style="">
         <div class="columns level">
-            <div class="column is-8-desktop is-6-tablet has-text-centered level-left">
+            <div class="column is-7-desktop is-6-tablet has-text-centered level-left">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
-                        <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" />
+                        <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" />
                     </div>
                 </div>
             </div>
-            <div class="column is-4-desktop is-6-tablet has-text-left level-right">
+            <div class="column is-5-desktop is-6-tablet has-text-left level-right">
                 <p class="title is-4 is-spaced">
-                    <em>"Mastering Docker"</em> is a guide that will teach you how to use Docker and PHP to create <strong style="background: #FFF9C4">clean, simple, repeatable development environments</strong> that are easy to understand.
+                    <em>"Docker for PHP Developers"</em> is a guide that will teach you how to use Docker and PHP to create clean, <strong>repeatable development environments</strong> that are easy to understand.
                 </p>
                 <p class="pad-b">
-                    Learn how Docker can simplify your PHP development setup and make it <em style="background: #FFF9C4">simple to share your environment with others</em>. You will learn how to set up, manage, and deploy Docker applications built with PHP 7.
+                    Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to set up, manage, and deploy Docker applications with confidence.
                 </p>
                 <p>
                    <!-- <a class="button is-info buy-button mb-1-mobile w-100-mobile" href="https://leanpub.com/docker-for-php-developers" target="_blank">
@@ -68,7 +68,7 @@ permalink: /mastering-docker/
                         <h3>Get a Free Book Sample</h3>
                         <div>
                             <p class="pad-b">
-                                <em>"Mastering Docker"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <em style="background: #FFF9C4">let you know when it's ready so you can get a discount</em>!
+                                <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <em class="highlight">let you know when it's ready so you can get a discount</em>!
                             </p>
                         </div>
                     <div id="ck_error_msg" class="notification is-danger" style="display:none;">
@@ -94,7 +94,7 @@ permalink: /mastering-docker/
         <div class="content">
             <header class="column is-6-desktop is-offset-3-desktop">
                 <h2 class="title has-text-centered">What does the Guide Cover?</h2>
-                <p style="margin-bottom: 2rem"><em>Mastering Docker</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
+                <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
             </header>
             <div class="whats-inside columns is-multiline">
                 <div class="column is-3-desktop is-6-tablet">
@@ -286,7 +286,7 @@ permalink: /mastering-docker/
                         <i class="fa fa-television" aria-hidden="true"></i>
                         Videos
                     </h1>
-                    <p>I am working vigorously on finalizing the video outline. My goal is to make sure the videos compliment the text, so that both video and book will reinforce your understanding of Docker for PHP development.</p>
+                    <p>I am working on finalizing the video outline. My goal is to make sure the videos compliment the text, so that both video and book will reinforce your understanding of Docker for PHP development.</p>
                     <p><a href="#sample">Sign up</a> and I'll send regular updates on the course!</p>
                 </div>
             </div>
