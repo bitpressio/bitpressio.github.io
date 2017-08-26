@@ -23,14 +23,14 @@ permalink: /docker-for-php-developers/
 <section class="hero section is-small intro">
     <div class="container is-fullhd" style="">
         <div class="columns level">
-            <div class="column is-7-desktop is-6-tablet has-text-centered level-left">
+            <div class="column is-8-desktop is-6-tablet has-text-centered level-left">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
                         <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" />
                     </div>
                 </div>
             </div>
-            <div class="column is-5-desktop is-6-tablet has-text-left level-right">
+            <div class="column is-4-desktop is-6-tablet has-text-left level-right">
                 <p class="title is-4 is-spaced">
                     <em>"Docker for PHP Developers"</em> is a guide that will teach you how to use Docker and PHP to create clean, <strong>repeatable development environments</strong> that are easy to understand.
                 </p>
