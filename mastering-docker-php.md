@@ -38,38 +38,40 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 
-<section class="section email-signup med-grey-bg" id="sample">
+<section class="section email-signup med-grey-bg pb-5" id="sample">
     <div class="container">
         <div class="content">
             <div class="columns">
                 <div class="column is-8 is-offset-2">
-                    <div class="column is-8 is-offset-2">
-                        <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
-                        <div id="ck_success_msg" class="notification is-success"  style="display:none;">
-                          <p>Success! Check your email for a sample soon.</p>
-                        </div>
-                        <!--  Form starts here  -->
-                        <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
-                          <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
-                          <input type="hidden" name="id" value="251217" id="landing_page_id">
-                            <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
-                            <div>
-                                <p class="pb-2">
-                                    <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <strong>let you know when it's ready so you can get a discount</strong>!
-                                </p>
+                    <div class="columns">
+                        <div class="column is-8 is-offset-2">
+                            <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+                            <div id="ck_success_msg" class="notification is-success"  style="display:none;">
+                              <p>Success! Check your email for a sample soon.</p>
                             </div>
-                        <div id="ck_error_msg" class="notification is-danger" style="display:none;">
-                          <p>There was an error submitting your subscription. Please try again.</p>
+                            <!--  Form starts here  -->
+                            <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
+                              <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
+                              <input type="hidden" name="id" value="251217" id="landing_page_id">
+                                <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
+                                <div>
+                                    <p class="pb-2">
+                                        <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <strong>let you know when it's ready so you can get a discount</strong>!
+                                    </p>
+                                </div>
+                            <div id="ck_error_msg" class="notification is-danger" style="display:none;">
+                              <p>There was an error submitting your subscription. Please try again.</p>
+                            </div>
+                              <div class="field has-addons email-signup-field">
+                                  <div class="control is-expanded">
+                                      <input class="input is-medium signup-input" type="email" name="email" value="" required placeholder="Enter your email" />
+                                  </div>
+                                  <div class="control">
+                                      <button class="button is-primary is-medium signup-button" type="submit" id="ck_subscribe_button">Sign Up</button>
+                                  </div>
+                              </div>
+                            </form>
                         </div>
-                          <div class="field has-addons">
-                              <p class="control is-expanded">
-                                  <input class="input is-medium" type="email" name="email" value="" required placeholder="Enter your email" />
-                              </p>
-                              <p class="control">
-                                  <button class="button is-primary is-medium" type="submit" id="ck_subscribe_button">Sign Up</button>
-                              </p>
-                          </div>
-                        </form>
                     </div>
                 </div>
             </div>
@@ -80,11 +82,15 @@ permalink: /docker-for-php-developers/
 <section class="section book-contents is-dark dark-grey-bg pb-5" id="contents">
     <div class="container">
         <div class="content">
-            <div class="column is-6-desktop is-offset-3-desktop">
-                <header class="column is-10-desktop is-offset-1-desktop has-text-centered">
-                    <h2 class="title">What does the Guide Cover?</h2>
-                    <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
-                </header>
+            <div class="columns">
+                <div class="column is-6-desktop is-offset-3-desktop">
+                    <div class="columns">
+                        <header class="column is-10-desktop is-offset-1-desktop has-text-centered">
+                            <h2 class="title">What does the Guide Cover?</h2>
+                            <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
+                        </header>
+                    </div>
+                </div>
             </div>
             <div class="whats-inside columns is-multiline">
                 <div class="column is-3-desktop is-6-tablet">
@@ -199,14 +205,7 @@ permalink: /docker-for-php-developers/
                                     <strong>Chapter 1: Introduction to Docker</strong>
                                     <ul>
                                         <li>Docker Introduction</li>
-                                        <li>
-                                            Installing Docker
-                                            <ul>
-                                                <li>Mac OS</li>
-                                                <li>Windows</li>
-                                                <li>Linux</li>
-                                            </ul>
-                                        </li>
+                                        <li>Installing Docker</li>
                                         <li>Get Up and Running</li>
                                     </ul>
                                 </li>

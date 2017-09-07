@@ -257,6 +257,17 @@ figure.icon {
 }
 
 @media screen and (max-width: 768px) {
+  .field.has-addons.email-signup-field {
+    display: block;
+    .signup-input {
+      margin-bottom: 1rem;
+    }
+    .signup-button {
+      display: block;
+      width: 100%;
+      border-radius: $radius;
+    }
+  }
   .w-100-mobile {
     width: 100%;
   }
