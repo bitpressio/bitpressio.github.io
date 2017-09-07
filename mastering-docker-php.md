@@ -90,6 +90,7 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
+                            <figure class="icon fa fa-code"></figure>
                             Development Tools
                         </h4>
                         <!-- <p>One of the toughest challenges when trying out Docker is learning how to get comfortable with Docker.</p> -->
@@ -112,6 +113,7 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
+                            <figure class="icon fa fa-linux"></figure>
                             PHP Environment
                         </h4>
                         <!-- <p>Learn through examples that walk you through installing PHP modules, INI files, and running web servers.</p> -->
@@ -134,6 +136,7 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
+                            <figure class="icon fa fa-clock-o"></figure>
                             Legacy Applications
                         </h4>
                         <!-- <p>Let's face it, most of us have worked with that old PHP application running on legacy hardware.</p> -->
@@ -153,6 +156,7 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info">
                         <h4 class="title is-4">
+                            <figure class="icon fa fa-github"></figure>
                             Build and Deployment
                         </h4>
                         <!-- <p>You need to eventually build images and deploy them to production. We will automate builds and walk through deploying to the cloud.</p> -->
