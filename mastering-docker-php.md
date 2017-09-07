@@ -96,7 +96,9 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
-                            <figure class="icon fa fa-code"></figure>
+                            <figure class="zicon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 16v4h-2v-4h-2v-3h6v3h-2zM1 9h6v3H1V9zm6-4h6v3H7V5zM3 0h2v8H3V0zm12 0h2v12h-2V0zM9 0h2v4H9V0zM3 12h2v8H3v-8zm6-4h2v12H9V8z"/></svg>
+                            </figure>
                             Development Tools
                         </h4>
                         <!-- <p>One of the toughest challenges when trying out Docker is learning how to get comfortable with Docker.</p> -->
@@ -119,7 +121,9 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
-                            <figure class="icon fa fa-linux"></figure>
+                            <figure class="zicon icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 12v8A10 10 0 0 1 8.17.17L10 2h5a5 5 0 0 1 5 4.99v9.02A4 4 0 0 1 16 20v-2a2 2 0 1 0 0-4h-4l-2-2zm5.5-3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+                            </figure>
                             PHP Environment
                         </h4>
                         <!-- <p>Learn through examples that walk you through installing PHP modules, INI files, and running web servers.</p> -->
@@ -142,7 +146,10 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
                         <h4 class="title is-4">
-                            <figure class="icon fa fa-clock-o"></figure>
+                            <figure class="zicon icon">
+                                <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17.4 18H20v2H0v-2h2.6L8 0h4l5.4 18zm-3.2-4H5.8l-1.2 4h10.8l-1.2-4zm-2.4-8H8.2L7 10h6l-1.2-4z"/></svg> -->
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 10.27V4.99a1 1 0 0 0-2 0V15a5 5 0 0 1-10 0v-1.08A6 6 0 0 1 0 8V2C0 .9.9 0 2 0h1a1 1 0 0 1 1 1 1 1 0 0 1-1 1H2v6a4 4 0 1 0 8 0V2H9a1 1 0 0 1-1-1 1 1 0 0 1 1-1h1a2 2 0 0 1 2 2v6a6 6 0 0 1-5 5.92V15a3 3 0 0 0 6 0V5a3 3 0 0 1 6 0v5.27a2 2 0 1 1-2 0z"/></svg>
+                            </figure>
                             Legacy Applications
                         </h4>
                         <!-- <p>Let's face it, most of us have worked with that old PHP application running on legacy hardware.</p> -->
@@ -162,7 +169,9 @@ permalink: /docker-for-php-developers/
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info">
                         <h4 class="title is-4">
-                            <figure class="icon fa fa-github"></figure>
+                            <figure class="zicon icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4.34 15.66A7.97 7.97 0 0 0 9 17.94V10H5V8h4V5.83a3 3 0 1 1 2 0V8h4v2h-4v7.94a7.97 7.97 0 0 0 4.66-2.28l-1.42-1.42h5.66l-2.83 2.83a10 10 0 0 1-14.14 0L.1 14.24h5.66l-1.42 1.42zM10 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></svg>
+                            </figure>
                             Build and Deployment
                         </h4>
                         <!-- <p>You need to eventually build images and deploy them to production. We will automate builds and walk through deploying to the cloud.</p> -->
