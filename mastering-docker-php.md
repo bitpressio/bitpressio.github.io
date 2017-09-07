@@ -2,39 +2,25 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section class="hero section header is-small has-text-centered">
+<section class="hero section header is-small has-text-centered pt-2 pb-5">
     <div class="container">
-        <div class="columns">
-            <div class="column is-10 is-offset-1 ">
-                <h1 class="title size-medium is-spaced is-intro">Docker for <strong>PHP Developers</strong></h1>
-                <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
-            </div>
-        </div>
-        <div class="columns">
-            <!-- <div class="column is-half is-offset-one-quarter">
-                <p>
-                    Learn modern approaches to using Docker as a PHP development environment. You will be able to develop, debug, and master your local environment with this book. Your company is probably thinking about—or is already—using Docker. <strong>Are you ready?</strong>
-                </p>
-            </div> -->
-        </div>
-    </div>
-</section>
-
-<section class="hero section is-small intro">
-    <div class="container is-fullhd" style="">
-        <div class="columns level">
-            <div class="column is-8-desktop is-6-tablet has-text-centered level-left">
+        <header class="column is-10 is-offset-1 pb-5">
+            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers</h1>
+            <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
+        </header>
+        <div class="columns intro">
+            <div class="column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
                         <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" />
                     </div>
                 </div>
             </div>
-            <div class="column is-4-desktop is-6-tablet has-text-left level-right">
-                <p class="title is-4 is-spaced">
-                    <em>"Docker for PHP Developers"</em> is a guide that will teach you how to use Docker and PHP to create clean, <strong>repeatable development environments</strong> that are easy to understand.
+            <div class="column is-5-desktop is-6-tablet has-text-left">
+                <p class="title is-6 is-spaced">
+                    <em>"Docker for PHP Developers"</em> is a guide that will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
                 </p>
-                <p class="pad-b">
+                <p class="size-6 pb-2">
                     Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to set up, manage, and deploy Docker applications with confidence.
                 </p>
                 <p>
@@ -42,7 +28,7 @@ permalink: /docker-for-php-developers/
                         <span>$9</span>
                         Early Access Version
                     </a> -->
-                    <a class="button is-info mb-1-mobile w-100-mobile" href="#contents">
+                    <a class="button is-primary mb-1-mobile w-100-mobile mr-1" href="#contents">
                         Learn More
                     </a>
                     <a class="button mb-1-mobile w-100-mobile" href="#sample">Get a Sample</a>
@@ -52,102 +38,137 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 
-<section class="section email-signup" id="sample">
+<section class="section email-signup med-grey-bg" id="sample">
     <div class="container">
         <div class="content">
             <div class="columns">
-                <div class="column is-offset-3 is-6">
-                    <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
-                    <div id="ck_success_msg" class="notification is-success"  style="display:none;">
-                      <p>Success! Check your email for a sample soon.</p>
-                    </div>
-                    <!--  Form starts here  -->
-                    <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
-                      <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
-                      <input type="hidden" name="id" value="251217" id="landing_page_id">
-                        <h3>Get a Free Book Sample</h3>
-                        <div>
-                            <p class="pad-b">
-                                <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <em class="highlight">let you know when it's ready so you can get a discount</em>!
-                            </p>
+                <div class="column is-8 is-offset-2">
+                    <div class="column is-8 is-offset-2">
+                        <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+                        <div id="ck_success_msg" class="notification is-success"  style="display:none;">
+                          <p>Success! Check your email for a sample soon.</p>
                         </div>
-                    <div id="ck_error_msg" class="notification is-danger" style="display:none;">
-                      <p>There was an error submitting your subscription. Please try again.</p>
+                        <!--  Form starts here  -->
+                        <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
+                          <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
+                          <input type="hidden" name="id" value="251217" id="landing_page_id">
+                            <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
+                            <div>
+                                <p class="pb-2">
+                                    <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <strong>let you know when it's ready so you can get a discount</strong>!
+                                </p>
+                            </div>
+                        <div id="ck_error_msg" class="notification is-danger" style="display:none;">
+                          <p>There was an error submitting your subscription. Please try again.</p>
+                        </div>
+                          <div class="field has-addons">
+                              <p class="control is-expanded">
+                                  <input class="input is-medium" type="email" name="email" value="" required placeholder="Enter your email" />
+                              </p>
+                              <p class="control">
+                                  <button class="button is-primary is-medium" type="submit" id="ck_subscribe_button">Sign Up</button>
+                              </p>
+                          </div>
+                        </form>
                     </div>
-                      <div class="field has-addons">
-                          <p class="control is-expanded">
-                              <input class="input" type="email" name="email" value="" required placeholder="Email Address" />
-                          </p>
-                          <p class="control">
-                              <button class="button is-primary" type="submit" id="ck_subscribe_button">Sign Up</button>
-                          </p>
-                      </div>
-                    </form>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section book-contents" id="contents">
+<section class="section book-contents is-dark dark-grey-bg pb-5" id="contents">
     <div class="container">
         <div class="content">
-            <header class="column is-6-desktop is-offset-3-desktop">
-                <h2 class="title has-text-centered">What does the Guide Cover?</h2>
-                <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
-            </header>
+            <div class="column is-6-desktop is-offset-3-desktop">
+                <header class="column is-10-desktop is-offset-1-desktop has-text-centered">
+                    <h2 class="title">What does the Guide Cover?</h2>
+                    <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
+                </header>
+            </div>
             <div class="whats-inside columns is-multiline">
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
-                        <p class="title is-4">
+                        <h4 class="title is-4">
                             Development Tools
-                        </p>
+                        </h4>
                         <!-- <p>One of the toughest challenges when trying out Docker is learning how to get comfortable with Docker.</p> -->
                         <ul>
-                            <li>Easily manage containers</li>
-                            <li>Learn how to use Docker Compose</li>
-                            <li>Learn a minimalist Docker LAMP Setup</li>
-                            <li>Use XDebug with Docker for Debugging and Profiling</li>
-                            <li>Use PHP Composer with Docker</li>
-                            <li>Configure Web Server Containers</li>
-                            <li>Automated docker builds</li>
+                            <li>
+                                <span>Learn how to manage containers</span>
+                            </li>
+                            <li>
+                                <span>Learn how to use Docker Compose</span>
+                            </li>
+                            <li>
+                                <span>Use XDebug with Docker</span>
+                            </li>
+                            <li>
+                                <span>PHP Composer with Docker</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
-                        <p class="title is-4">PHP Environment</p>
+                        <h4 class="title is-4">
+                            PHP Environment
+                        </h4>
                         <!-- <p>Learn through examples that walk you through installing PHP modules, INI files, and running web servers.</p> -->
                         <ul>
-                            <li>Build PHP containers from scratch</li>
-                            <li>Customize the php.ini file</li>
-                            <li>Install PHP modules</li>
-                            <li>Manage module INI files in Docker</li>
-                            <li>Learn how to configure per-environment</li>
+                            <li>
+                                <span>Build PHP containers from scratch</span>
+                            </li>
+                            <li>
+                                <span>Install PHP modules &amp; customize config</span>
+                            </li>
+                            <li>
+                                <span>Manage module INI files</span>
+                            </li>
+                            <li>
+                                <span>Per-environment configuration</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info-box">
-                        <p class="title is-4">Legacy Applications</p>
+                        <h4 class="title is-4">
+                            Legacy Applications
+                        </h4>
                         <!-- <p>Let's face it, most of us have worked with that old PHP application running on legacy hardware.</p> -->
                         <ul>
-                            <li>Install an old version of PHP</li>
-                            <li>Hands-on example in the book getting a legacy version of a PHP app running</li>
-                            <li>Installing older package versions of PHP</li>
-                            <li>Hardening older versions of PHP</li>
+                            <li>
+                                <span>Installing an older version of PHP</span>
+                            </li>
+                            <li>
+                                <span>Hands-on example in the book getting a legacy version of a PHP app running</span>
+                            </li>
+                            <li>
+                                <span>Security hardening</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
                 <div class="column is-3-desktop is-6-tablet">
                     <div class="content info">
-                        <p class="title is-4">Build and Deployment</p>
+                        <h4 class="title is-4">
+                            Build and Deployment
+                        </h4>
                         <!-- <p>You need to eventually build images and deploy them to production. We will automate builds and walk through deploying to the cloud.</p> -->
                         <ul>
-                            <li>Automated builds with Docker Cloud and Github</li>
-                            <li>Use private registries</li>
-                            <li>Automate a build pipeline with Gitlab Docker registry</li>
-                            <li>Deploy an application with Digital Ocean and Rancher</li>
+                            <li>
+                                <span>Automated builds with Docker Cloud</span>
+                            </li>
+                            <li>
+                                <span>Private registries</span>
+                            </li>
+                            <li>
+                                <span>GitLab Docker Builds</span>
+                            </li>
+                            <li>
+                                <span>Application Deployment to Digital Ocean</span>
+                            </li>
                         </ul>
                     </div>
                 </div>
