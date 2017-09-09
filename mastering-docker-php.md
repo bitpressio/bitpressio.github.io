@@ -196,7 +196,63 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 
-<section class="section table-of-contents">
+<!-- Spiel -->
+
+<section class="section white-bg">
+    <div class="container">
+        <div class="content">
+            <div class="columns">
+                <div class="column is-6 is-offset-3">
+                    <h3 class="title">
+                        When I starting using Docker with PHP it was overwhelming.
+                    </h3>
+                    <p>
+                        Docker doesn't provide a set of conventions on <em>how</em> to use Docker with PHP projects. Not only are you responsible for learning how Docker works, but you also have to figure things out like file organization, connecting to a database, and setting up a development workflow.
+                    </p>
+                    <p>
+                        Docker is different than working with other popular tools like Virtualbox and Vagrant, so you might be asking questions like:
+                    </p>
+                    <div class="ml-1">
+                        <p class="mb-1">
+                            <em>"What exactly is Docker?"</em>
+                        </p>
+                        <p class="mb-1">
+                            <em>"What makes Docker better than Vagrant?"</em>
+                        </p>
+                        <p class="mb-1">
+                            <em>"How do I run this thing with my project!?"</em>
+                        </p>
+                        <p class="mb-1">
+                            "How do I edit files locally and have them show up in Docker?"
+                        </p>
+                        <p class="mb-1">
+                            "How do I connect to a database?"
+                        </p>
+                    </div>
+                    <p>
+                        <strong><em>Docker for PHP Developers</em> is the guide I wish I had when I started learning Docker</strong>. It's everything I've learned and refined using Docker on dozens of projects over the last three years combined into one course.
+                    </p>
+                    <p>
+                        I've spent over 6 months building this guide, with the goal of presenting the best possible course that focuses on teaching <em>developers</em> how to use Docker.
+                    </p>
+                    <p>
+                        Instead of piecing everything together yourself, you can <strong>start being productive with PHP and Docker in a few days</strong>.
+                    </p>
+                    <h3 class="title">No Complicated Tools Required</h3>
+                    <p>
+                        Learning Docker <strong>doesn't have to be complicated</strong>. In fact, I think the <strong>goal of Docker should be to simplify your application environment, not increase complexity</strong>. I'll show you how to build practical, simple, clean Docker images from scratch without extra 3rd party tools or libraries—just Docker.
+                    </p>
+                    <p>
+                        Learn how to build environments that take minutes to install instead of hours or days. Thing of Docker images with PHP code as a single artifact that is ready to run your application. Your application deployments will be extremely predictable and reliable. I personally work with <strong>leading PHP frameworks like Laravel and Symfony</strong>, so you'll be able to use PHP frameworks you love with Docker after going through this guide.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- TOC -->
+<section class="section table-of-contents med-grey-bg">
     <div class="container">
         <div class="content">
             <h1 class="title has-text-centered">
@@ -446,7 +502,6 @@ permalink: /docker-for-php-developers/
         </div>
     </div>
 </section>
-<hr>
 <section class="section video">
     <div class="container">
         <div class="content">
@@ -480,7 +535,6 @@ permalink: /docker-for-php-developers/
                         <div class="content">
                             <h3 class="title">About the Author</h3>
                             <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a>, <a href="https://vuejs.org/">Vue.js</a>, and <a href="https://www.docker.com/">Docker</a>. I am passionate about being productive, writing clean code, and creating simple infrastructure.</p>
-
                             <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="http://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a>. You can find me on Twitter as <a href="https://twitter.com/paulredmond">@paulredmond</a>.</p>
                         </div>
                     </div>
