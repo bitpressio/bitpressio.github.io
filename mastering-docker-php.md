@@ -204,13 +204,13 @@ permalink: /docker-for-php-developers/
             <div class="columns">
                 <div class="column is-6 is-offset-3">
                     <h3 class="title">
-                        When I starting using Docker with PHP it was overwhelming.
+                        When I starting using Docker with PHP, it was overwhelming.
                     </h3>
                     <p>
                         Docker doesn't provide a set of conventions on <em>how</em> to use Docker with PHP projects. Not only are you responsible for learning how Docker works, but you also have to figure things out like file organization, connecting to a database, and setting up a development workflow.
                     </p>
                     <p>
-                        Docker is different than working with other popular tools like Virtualbox and Vagrant, so you might be asking questions like:
+                        Docker is different than working with other tools like Virtualbox and Vagrant so you might be asking questions like:
                     </p>
                     <div class="ml-1">
                         <p class="mb-1">
@@ -233,7 +233,7 @@ permalink: /docker-for-php-developers/
                         <strong><em>Docker for PHP Developers</em> is the guide I wish I had when I started learning Docker</strong>. It's everything I've learned and refined using Docker on dozens of projects over the last three years combined into one course.
                     </p>
                     <p>
-                        I've spent over 6 months building this guide, with the goal of presenting the best possible course that focuses on teaching <em>developers</em> how to use Docker.
+                        I've spent over six months building this guide, with the goal of presenting the best possible course that focuses on <strong>teaching <em>developers</em> how to use Docker</strong>.
                     </p>
                     <p>
                         Instead of piecing everything together yourself, you can <strong>start being productive with PHP and Docker in a few days</strong>.
@@ -243,7 +243,7 @@ permalink: /docker-for-php-developers/
                         Learning Docker <strong>doesn't have to be complicated</strong>. In fact, I think the <strong>goal of Docker should be to simplify your application environment, not increase complexity</strong>. I'll show you how to build practical, simple, clean Docker images from scratch without extra 3rd party tools or libraries—just Docker.
                     </p>
                     <p>
-                        Learn how to build environments that take minutes to install instead of hours or days. Thing of Docker images with PHP code as a single artifact that is ready to run your application. Your application deployments will be extremely predictable and reliable. I personally work with <strong>leading PHP frameworks like Laravel and Symfony</strong>, so you'll be able to use PHP frameworks you love with Docker after going through this guide.
+                        Learn how to create environments that take minutes to install instead of hours or days. Think of Docker images with PHP code as a single artifact that is ready to run your application. Your application deployments will be extremely predictable and reliable. I work with <strong>leading frameworks like Laravel and Symfony</strong>, so you'll be able to use the PHP frameworks you love with Docker after going through this guide.
                     </p>
                 </div>
             </div>
@@ -512,7 +512,11 @@ permalink: /docker-for-php-developers/
                         Videos
                     </h1>
                     <p>I am working on finalizing the video outline. My goal is to make sure the videos compliment the text, so that both video and book will reinforce your understanding of Docker for PHP development.</p>
-                    <p><a href="#sample">Sign up</a> and I'll send regular updates on the course!</p>
+                    <p>I plan on video guides for setting up applications for Laravel and Symfony, and also cloud deployment videos. The official video outline is still being planned and may change slightly.</p>
+                    <p>Sign up and I'll send regular updates on the course, including updates to the video outline!</p>
+                    <p>
+                        <a href="#sample" class="button is-primary is-medium signup-button">Sign Up Now</a>
+                    </p>
                 </div>
             </div>
             <div class="columns">
