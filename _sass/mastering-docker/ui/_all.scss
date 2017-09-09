@@ -298,6 +298,11 @@ figure.zicon {
   }
 }
 
+.product-img-container {
+  background: url('/assets/images/docker-book/cloud-repeat.png');
+  background-size: contain;
+}
+
 .dark-grey-bg {
   background-color: $dark-bg;
   .content {

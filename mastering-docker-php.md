@@ -9,7 +9,7 @@ permalink: /docker-for-php-developers/
             <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
         </header>
         <div class="columns intro">
-            <div class="column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
+            <div class="product-img-container column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
                         <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" />
