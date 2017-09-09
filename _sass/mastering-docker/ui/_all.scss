@@ -261,7 +261,12 @@ figure.zicon {
 }
 
 .table-of-contents {
-  .box {
+  .chapter-summary {
+    > .column {
+      display: flex;
+    }
+  }
+  .card {
     display:flex;
     flex-direction: column;
     height: 100%;
