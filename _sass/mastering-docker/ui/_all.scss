@@ -167,6 +167,15 @@ body {
   }
 }
 
+.header {
+  header {
+    .title {
+      font-size: 2rem;
+      font-weight: 700;
+    }
+  }
+}
+
 .buy-button {
   span {
     background: rgba(255,255,255, 0.1);
@@ -242,6 +251,36 @@ figure.zicon {
   }
 }
 
+.heading-zicon > svg {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: .5em;
+    vertical-align: middle;
+    fill: darken($cover-blue, 20%);
+}
+
+.table-of-contents {
+  .box {
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    .chapter {
+      display: block;
+      top: -1px;
+      right: -1px;
+      position: absolute;
+      border-left: 1px solid rgba(10, 10, 10, 0.1);
+      border-bottom: 1px solid rgba(10, 10, 10, 0.1);
+      padding: .6rem;
+      border-bottom-left-radius: 5px;
+      border-top-right-radius: 5px;
+      font-size: .8rem;
+    }
+  }
+}
+
 .dark-grey-bg {
   background-color: $dark-bg;
   .content {
@@ -294,5 +333,10 @@ figure.zicon {
 
   img {
     max-width: 100%;
+  }
+  .table-of-contents {
+    .box {
+      padding-top: 2rem;
+    }
   }
 }
