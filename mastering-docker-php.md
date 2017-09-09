@@ -215,7 +215,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 0l6 4 8-4 6 4v16l-6-4-8 4-6-4V0zm7 6v11l6-3V3L7 6z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 1</span> Introduction to Docker
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 1
+                                        </span>
+                                        Introduction to Docker
                                     </h4>
                                     <!-- <ul>
                                             <li>Docker Introduction</li>
@@ -233,7 +237,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12.26 11.74L10 14H8v2H6v2l-2 2H0v-4l8.26-8.26a6 6 0 1 1 4 4zm4.86-4.62A3 3 0 0 0 15 2a3 3 0 0 0-2.12.88l4.24 4.24z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 2</span> PHP Container Basics
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 2
+                                        </span>
+                                        PHP Container Basics
                                     </h4>
                                     <!-- <ul>
                                         <li>Running PHP Containers</li>
@@ -252,7 +260,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 12v8A10 10 0 0 1 8.17.17L10 2h5a5 5 0 0 1 5 4.99v9.02A4 4 0 0 1 16 20v-2a2 2 0 1 0 0-4h-4l-2-2zm5.5-3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 3</span> LAMP with Docker
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 3
+                                        </span>
+                                        LAMP with Docker
                                     </h4>
                                     <p>
                                         Learn how simple it is to build your own LAMP stack with Docker, without any 3rd party tools. You will also learn how to install and configure PHP modules, all while versioning your configuration in your projects.
@@ -273,7 +285,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M6.47 9.8A5 5 0 0 1 .2 3.22l3.95 3.95 2.82-2.83L3.03.41a5 5 0 0 1 6.4 6.68l10 10-2.83 2.83L6.47 9.8z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 4</span> Development Tools
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 4
+                                        </span>
+                                        Development Tools
                                     </h4>
                                     <p>
                                         Learn how to master Xdebug with Docker with a step-by-step guide that shows you how to install Xdebug with a reusable configuration. You'll also learn how to remove Xdebug when you deploy Docker to production environments.
@@ -294,7 +310,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 2C0 .9.9 0 2 0h16a2 2 0 0 1 2 2v2H0V2zm1 3h18v13a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V5zm6 2v2h6V7H7z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 5</span> Composer PHP
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 5
+                                        </span>
+                                        Composer PHP
                                     </h4>
                                     <!-- <ul>
                                         <li>Installing Composer in a Docker image</li>
@@ -314,7 +334,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 3c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3zm2 2v12h16V5H2z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 6</span> PHP-FPM and Webservers
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 6
+                                        </span>
+                                        PHP-FPM and Webservers
                                     </h4>
                                     <!-- <ul>
                                         <li>Setting up Nginx with Docker</li>
@@ -333,7 +357,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 10.27V4.99a1 1 0 0 0-2 0V15a5 5 0 0 1-10 0v-1.08A6 6 0 0 1 0 8V2C0 .9.9 0 2 0h1a1 1 0 0 1 1 1 1 1 0 0 1-1 1H2v6a4 4 0 1 0 8 0V2H9a1 1 0 0 1-1-1 1 1 0 0 1 1-1h1a2 2 0 0 1 2 2v6a6 6 0 0 1-5 5.92V15a3 3 0 0 0 6 0V5a3 3 0 0 1 6 0v5.27a2 2 0 1 1-2 0z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 7</span> Legacy PHP Applications
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 7
+                                        </span>
+                                        Legacy PHP Applications
                                     </h4>
                                     <!-- <ul>
                                         <li>Install an old version of PHP</li>
@@ -352,7 +380,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M6.59 12.83L4.4 15c-.58.58-1.59 1-2.4 1H0v-2h2c.29 0 .8-.2 1-.41l2.17-2.18 1.42 1.42zM16 4V1l4 4-4 4V6h-2c-.29 0-.8.2-1 .41l-2.17 2.18L9.4 7.17 11.6 5c.58-.58 1.59-1 2.41-1h2zm0 10v-3l4 4-4 4v-3h-2c-.82 0-1.83-.42-2.41-1l-8.6-8.59C2.8 6.21 2.3 6 2 6H0V4h2c.82 0 1.83.42 2.41 1l8.6 8.59c.2.2.7.41.99.41h2z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 8</span> Custom Commands
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 8
+                                        </span>
+                                        Custom Commands
                                     </h4>
                                     <!-- <ul>
                                         <li>Customize Docker container execution</li>
@@ -370,7 +402,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 12h-6v4h1v4H8v-4h1v-4H3v4h1v4H0v-4h1v-4a2 2 0 0 1 2-2h6V6H7V0h6v6h-2v4h6a2 2 0 0 1 2 2v4h1v4h-4v-4h1v-4z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 9</span> Docker Registry Builds
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 9
+                                        </span>
+                                        Docker Registry Builds
                                     </h4>
                                     <!-- <ul>
                                         <li>Push your images to Docker Hub</li>
@@ -389,7 +425,11 @@ permalink: /docker-for-php-developers/
                                         <span class="heading-zicon">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4.34 15.66A7.97 7.97 0 0 0 9 17.94V10H5V8h4V5.83a3 3 0 1 1 2 0V8h4v2h-4v7.94a7.97 7.97 0 0 0 4.66-2.28l-1.42-1.42h5.66l-2.83 2.83a10 10 0 0 1-14.14 0L.1 14.24h5.66l-1.42 1.42zM10 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></svg>
                                         </span>
-                                        <span class="chapter">Chapter 10</span> Deploying Docker
+                                        <span class="chapter">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
+                                            Chapter 10
+                                        </span>
+                                        Deploying Docker
                                     </h4>
                                     <!-- <ul>
                                         <li>Example hands-on deployment on Digital Ocean</li>

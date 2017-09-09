@@ -272,6 +272,12 @@ figure.zicon {
     height: 100%;
     position: relative;
     .chapter {
+      > svg {
+        width: 10px;
+        height: 10px;
+        display: inline-block;
+        margin-right: 3px;
+      }
       display: block;
       top: -1px;
       right: -1px;
