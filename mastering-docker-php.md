@@ -402,7 +402,7 @@ permalink: /docker-for-php-developers/
                                         <li>Serving Static Assets</li>
                                         <li>Learn how to use Caddy Server with PHP-FPM</li>
                                     </ul> -->
-                                    <p>Running a Webserver in Docker is a little different than on a traditional server. We cover installing Nginx and PHP-FPM and how they communicate in between Docker containers. We also go through using Caddy Server, an HTTP/2 web server.</p>
+                                    <p>Running a Webserver in Docker is a little different than on a traditional server. We cover installing Nginx and PHP-FPM and how they communicate in between Docker containers. We also walk through using Caddy Server, an HTTP/2 web server with automatic HTTPS.</p>
                                 </div>
                             </div>
                         </div>
