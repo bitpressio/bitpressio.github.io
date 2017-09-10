@@ -305,7 +305,7 @@ permalink: /docker-for-php-developers/
                                         <li>Customize the php.ini file in Docker</li>
                                     </ul> -->
                                     <p>
-                                        Learn your way around Docker with hands-on commands. We'll start of with the basics so you can learn how build your first Docker image from scratch and how to run it. We'll then go over customizing the PHP INI file.</p>
+                                        Learn your way around Docker with hands-on commands. We'll start off with the basics so you can learn how build your first Docker image from scratch and how to run it. We'll then go over customizing a PHP INI file.</p>
                                 </div>
                             </div>
                         </div>
