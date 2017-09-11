@@ -539,7 +539,7 @@ permalink: /docker-for-php-developers/
                         <div class="content">
                             <h3 class="title">About the Author</h3>
                             <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a>, <a href="https://vuejs.org/">Vue.js</a>, and <a href="https://www.docker.com/">Docker</a>. I am passionate about being productive, writing clean code, and creating simple infrastructure.</p>
-                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="http://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a>. You can find me on Twitter as <a href="https://twitter.com/paulredmond">@paulredmond</a>.</p>
+                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="https://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a>. You can find me on Twitter as <a href="https://twitter.com/paulredmond">@paulredmond</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -548,5 +548,5 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 <section class="section footer has-text-centered">
-    <p>&copy; <a href="http://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
+    <p>&copy; <a href="https://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
 </section>
