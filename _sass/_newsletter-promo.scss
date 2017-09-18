@@ -1,0 +1,20 @@
+.content-upgrade-container {
+    background: #FBFBFB;
+    border: 5px solid #27B4F5;
+    border-width: 5px 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    .title {
+        font-family: 24px;
+        font-weight: 300;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;        
+    }
+    .btn-primary {
+        background-color: #27b4f5;
+        border-color: #27b4f5;
+        &:focus {
+            background-color: darken(#27b4f5, 8%);
+            border-color: darken(#27b4f5, 8%);
+        }
+    }
+}

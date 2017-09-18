@@ -8,7 +8,9 @@
 @import
         "overrides",
         "bootstrap",
-        "font-awesome"
+        "font-awesome",
+        "utils",
+        "newsletter-promo"
 ;
 
 body {
@@ -267,32 +269,54 @@ i {
     padding: 7px 15px !important;
 }
 
-.author-card {
+body.post {
+    .author-card {
 
-    margin: 2em 0;
+        margin: 2em 0;
 
-    .name {
-        margin: 0 0 0.5em;
-    }
+        .name {
+            margin: 0 0 0.5em;
+        }
 
-    .role {
-        text-transform: uppercase;
-        margin: 0 0 0.5em;
-    }
+        .role {
+            text-transform: uppercase;
+            margin: 0 0 0.5em;
+        }
 
-    img.avatar {
-        border-radius: 50%;
-        padding: 2px;
-        border: 1px solid #ccc;
-        float: left;
-        margin: 0 10px 0 0;
-        width: 75px;
-        height: 75px;
-    }
+        img.avatar {
+            border-radius: 50%;
+            padding: 2px;
+            border: 1px solid #ccc;
+            float: left;
+            margin: 0 10px 0 0;
+            width: 75px;
+            height: 75px;
+        }
 
-    .bio {
-        clear: both;
-        margin-top: 0.75em;
+        .bio {
+            clear: both;
+            margin-top: 0.75em;
+        }
+        
+        i {
+            &.fa.fa-github {
+                color: black;
+            }
+            &.fa.fa-twitter {
+                color: #27B4F5;
+            }
+
+            color: #27B4F5;
+        }
+        
+        .links {
+            a {
+                text-decoration: none !important;
+                box-shadow: none !important;
+                transition: none !important;
+                color: black;
+            }
+        }
     }
 }
 

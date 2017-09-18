@@ -40,7 +40,10 @@ authors:
     github: https://github.com/jjensen90
   Paul Redmond:
     name: Paul Redmond
-    bio: Paul is a full stack developer, author of <a target="_blank" href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, and a lover of PHP, Ruby, Node.js, DevOps, Docker, and tests.
+    bio: Hey, I'm Paul. I am a full stack developer. I write books like <a href="/docker-for-php-developers/">Docker for PHP Developers</a> and <a target="_blank" href="http://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a> (Apress), and I write for <a href="https://laravel-news.com/@paulredmond">Laravel News</a>. I love PHP, Ruby, Node.js, DevOps, and Docker. 
     gravitarId: d9691184a54bfa1defe3dc7d625bc959
     link: https://github.com/paulredmond
     github: https://github.com/paulredmond
+    github_handle: "paulredmond"
+    twitter: https://twitter.com/paulredmond
+    twitter_handle: "@paulredmond"

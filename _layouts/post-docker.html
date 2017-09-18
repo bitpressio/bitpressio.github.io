@@ -1,0 +1,72 @@
+---
+layout: blog
+---
+{% assign author = site.authors[page.author] %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        <p class="post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d,
+                %Y" }}
+            </time>
+            {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><a
+                href="{{author.link}}"><span itemprop="name">{{ author.name }}</span></a></span>{% endif %}
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+
+    {% include docker-sample-chapter.html %}
+
+    <div class="author">
+        <div class="author-card clearfix">
+            <img class="avatar"
+                 src="https://en.gravatar.com/avatar/{{author.gravitarId}}?s=200" class="img-rounded author-image"
+                 alt="{{author.name}}">
+            <div style="padding-left: 120px;">
+                <h3 class="name">{{author.name}}</h3>
+                <p>{{author.bio}}</p>
+                <div class="links">
+                    <p>
+                        <a href="{{author.github}}" class="github">
+                            <i class="fa fa-github" aria-hidden="true"></i>
+                            {{author.github_handle}}
+                        </a>
+                    </p>
+                    <p>
+                        <a href="{{author.twitter}}" class="twitter">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                            {{author.twitter_handle}}
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% if page.comments %}
+    <div class="comments">
+        <h3>Comments</h3>
+        <div id="disqus_thread"></div>
+        <script>
+            var disqus_config = function () {
+                this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+                this.page.identifier = "{{ page.id }}";
+            };
+
+            (function () { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+
+                s.src = '//bitpressio.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments
+            powered by Disqus.</a></noscript>
+    </div>
+    {% endif %}
+</article>
