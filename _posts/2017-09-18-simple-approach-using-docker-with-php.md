@@ -8,7 +8,7 @@ categories:
     - docker
     - laravel
     - php
-excerpt: Using Guzzle 6 Middleware in a Laravel Application
+excerpt: A simple approach to using Docker with PHP and Laravel
 short_description: I'm going to show you a straightforward Docker setup that you can use to get started on a new project. Come along with me and give Docker and PHP a shot as I walk you through setting up a Laravel application with an easy Docker setup!
 published: true
 ---
