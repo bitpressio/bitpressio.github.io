@@ -29,7 +29,7 @@ defaults:
     values:
       layout: "post"
       author: "BitPress Team"
-      comments: true
+      comments: false
 
 authors:
   Jacob Jensen:

@@ -11,6 +11,7 @@ categories:
 excerpt: A simple approach to using Docker with PHP and Laravel
 short_description: I'm going to show you a straightforward Docker setup that you can use to get started on a new project. Come along with me and give Docker and PHP a shot as I walk you through setting up a Laravel application with an easy Docker setup!
 published: true
+comments: false
 ---
 
 Getting started with Docker and PHP can still be a steep learning curve. You might feel that you don't need something like Docker and that Vagrant or full local development work just fine. I still use local development on some projects because the barrier to entry is small.
