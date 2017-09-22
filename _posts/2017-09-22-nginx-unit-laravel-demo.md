@@ -8,10 +8,11 @@ categories:
     - docker
     - laravel
     - php
-excerpt: Learn about the upcoming Nginx Unit
+excerpt: Learn about the Nginx Unit web application server and try it out with Docker, PHP, and Laravel.
 short_description: Learn about the upcoming Nginx Unit web application server and take it for a spin with Docker, PHP7, and Laravel.
 published: true
 comments: false
+twitter_image: /assets/images/blog/social-images/nginx-unit.png
 ---
 
 As part of the announced [Nginx Platform](https://www.nginx.com/products/), Nginx is working on a dynamic web application server, [Nginx Unit](https://www.nginx.com/products/nginx-unit/). Unit supports fully dynamic reconfiguration using a RESTful JSON API, supports multiple application languages and versions can run simultaneously. Right now Unit supports Python, PHP, and Go; with planned support for JavaScript/Node.js, Java, and Ruby.
