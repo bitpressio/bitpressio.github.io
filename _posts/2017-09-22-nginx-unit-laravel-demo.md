@@ -35,4 +35,4 @@ And here's my demo configuration object for the Laravel application:
 
 <script src="https://gist.github.com/paulredmond/130ca521052ed4cf2415d286063136c7.js"></script>
 
-Take me repo for a spin and let me know what you think [@paulredmond](https://twitter.com/paulredmond)!
+Take [my repo](https://github.com/paulredmond/nginx-unit-demo) for a spin and let me know what you think [@paulredmond](https://twitter.com/paulredmond)!
