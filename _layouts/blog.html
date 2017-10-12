@@ -32,7 +32,9 @@
     <meta name="theme-color" content="#ffffff">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script src="/javascripts/bootstrap.min.js"></script>
-    <meta name="twitter:card" content="summary">
+    {% if page.twtter_card_type %}
+    <meta name="twitter:card" content="{{ page.twtter_card_type }}">
+    {% endif %}
     <meta name="twitter:site" content="@paulredmond">
     <meta name="twitter:title" content="{{ page.title | escape }}">
     <meta name="twitter:description" content="{{ page.excerpt | escape }}">

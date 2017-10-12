@@ -8,10 +8,12 @@ categories:
     - docker
     - caddy
     - php
-excerpt: How to use the Caddy web server with Docker and PHP
+excerpt: I have found Caddy to be my go-to server for running PHP Docker containers in production. Learn how to run Caddy with Laravel in a PHP container.
 short_description: I have found Caddy to be my go-to server for running PHP Docker containers in production. Using the official PHP-FPM image, we can run Caddy and start PHP-FPM in the background within the same container.
 published: true
 comments: false
+twtter_card_type: summary_large_image
+twitter_image: /assets/images/blog/social-images/docker-caddy-php.png
 ---
 
 Caddy is an excellent HTTP/2 web server with automatic HTTPS. The configuration is simple and approachable, providing secure defaults and self-contained binaries that run on every platform.
