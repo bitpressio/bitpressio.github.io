@@ -204,11 +204,12 @@ permalink: /docker-for-php-developers/
             <div class="columns">
                 <div class="column is-6 is-offset-3">
                     <h3 class="title">
-                        When I started using Docker with PHP, it was overwhelming.
+                        When I started using Docker with PHP, it was an overwhelming change in my development workflow.
                     </h3>
                     <p>
-                        Docker doesn't provide a set of conventions on <em>how</em> to use Docker with PHP projects. Not only are you responsible for learning how Docker works, but you also have to figure things out like file organization, connecting to a database, and setting up a development workflow.
+                        While Docker is a powerful way to build and deploy applications with PHP, you still need to figure out Docker the nuances and conventions of <em>how</em> to use Docker with PHP projects. Not only are you responsible for learning how Docker works, but you also have to figure things out like project organization, connecting to a database, and setting up a development workflow.
                     </p>
+                    <p>Once you master these things, the payoff for using Docker is huge. It's more lightweight than Vagrant, and more consistent than local development.</p>
                     <p>
                         Docker is different than working with other tools like Virtualbox and Vagrant so you might be asking questions like:
                     </p>
