@@ -20,6 +20,15 @@ body {
   padding-left: 2.5em;
 }
 
+.button-buy-now {
+  .price {
+    margin-left: 1rem;
+    padding-left: 1rem;
+    border-left: 1px solid lighten($cover-blue, 20%);
+    font-weight: bold;
+  }
+}
+
 // Margin Utils
 .mt-5 {
   margin-top: 5rem !important;

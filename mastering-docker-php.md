@@ -527,7 +527,42 @@ permalink: /docker-for-php-developers/
         </div>
     </div>
 </section>
-<hr>
+
+<!-- Early release buy now -->
+<section class="section buy-now white-bg">
+    <div class="container">
+        <div class="content">
+            <h1 class="title has-text-centered">
+                Get Docker for PHP Developers
+            </h1>
+            <h2 class="has-text-centered mb-5" style="font-weight: 300">Get an early release copy at a discount</h2>
+            <div class="columns">
+                <div class="column is-10 is-offset-1">
+                    <div class="columns is-multiline chapter-summary">
+                        <div class="column is-5 has-text-centered">
+                            <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Essentials" class="img-fit" />
+                        </div>
+                        <div class="column is-7 pt-3">
+                            <h3>Starter Edition</h3>
+                            <ul class="mb-3">
+                                <li>The 222-page Docker for PHP Developers Book</li>
+                                <li>Beautiful handcrafted PDF design</li>
+                                <li>Basic ePub and Mobi formats included</li>
+                            </ul>
+                            <div>
+                                <a class="button is-primary button-buy-now" href="#contents">
+                                    Buy Now
+                                    <span class="price">$34.99</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="section about-author is-small no-bg-image-mobile">
     <div class="container">
         <div class="columns">
