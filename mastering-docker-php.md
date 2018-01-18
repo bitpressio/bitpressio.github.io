@@ -28,10 +28,12 @@ permalink: /docker-for-php-developers/
                         <span>$9</span>
                         Early Access Version
                     </a> -->
-                    <a class="button is-primary mb-1-mobile w-100-mobile mr-1" href="#contents">
-                        Learn More
+                    <a class="button is-primary mb-1-mobile w-100-mobile mr-1" href="#packages">
+                        Buy the Course
                     </a>
-                    <a class="button mb-1-mobile w-100-mobile" href="#sample">Get a Sample</a>
+                    <a class="button mb-1-mobile w-100-mobile" href="#sample">
+                        Get a Sample
+                    </a>
                 </p>
             </div>
         </div>
@@ -531,7 +533,7 @@ permalink: /docker-for-php-developers/
 <hr>
 
 <!-- Early release buy now -->
-<section class="section buy-now white-bg">
+<section class="section buy-now white-bg" id="packages">
     <div class="container">
         <div class="content">
             <h1 class="title has-text-centered" style="font-size: 2.5rem">
@@ -542,10 +544,31 @@ permalink: /docker-for-php-developers/
                 <div class="column is-10 is-offset-1">
                     <div class="columns is-multiline chapter-summary">
                         <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Essentials" class="img-fit" />
+                            <img src="/assets/images/docker-book/package-premium-edition2.png" alt="Docker for PHP Developers Premium Edition" class="img-fit" />
+                        </div>
+                        <div class="column is-7 pt-3">
+                            <h3>Premium Edition</h3>
+                            <p>Comes with everything from the Stater Edition, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <ul class="mb-3">
+                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup</li>
+                                <li>The 222-page Docker for PHP Developers Book</li>
+                                <li>Beautiful handcrafted PDF design</li>
+                                <li>Basic ePub and Mobi formats included</li>
+                            </ul>
+                            <div>
+                                <a class="button is-primary is-buy-now is-medium" href="https://gum.co/docker-php/laravel-news">
+                                    Buy Now
+                                    <span class="price">$49.99</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="column is-12 mt-2 mb-2"><hr></div>
+                        <div class="column is-5 has-text-centered">
+                            <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Starter Edition" class="img-fit" />
                         </div>
                         <div class="column is-7 pt-3">
                             <h3>Starter Edition</h3>
+                            <p>Learn how to use Docker as a full-time development environment for PHP, with a beautiful, handcrafted book that will help you get from zero experience to Docker user quickly.</p>
                             <ul class="mb-3">
                                 <li>The 222-page Docker for PHP Developers Book</li>
                                 <li>Beautiful handcrafted PDF design</li>
