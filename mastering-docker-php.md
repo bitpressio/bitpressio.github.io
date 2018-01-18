@@ -528,14 +528,16 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 
+<hr>
+
 <!-- Early release buy now -->
 <section class="section buy-now white-bg">
     <div class="container">
         <div class="content">
-            <h1 class="title has-text-centered">
+            <h1 class="title has-text-centered" style="font-size: 2.5rem">
                 Get Docker for PHP Developers
             </h1>
-            <h2 class="has-text-centered mb-5" style="font-weight: 300">Get an early release copy at a discount</h2>
+            <h2 class="has-text-centered mb-5" style="font-weight: 300; font-size: 1.25rem">Get an early release copy at a discount price!</h2>
             <div class="columns">
                 <div class="column is-10 is-offset-1">
                     <div class="columns is-multiline chapter-summary">
@@ -550,9 +552,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary button-buy-now" href="#contents">
+                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/laravel-news">
                                     Buy Now
-                                    <span class="price">$34.99</span>
+                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$34.99</span>
                                 </a>
                             </div>
                         </div>
@@ -562,6 +564,8 @@ permalink: /docker-for-php-developers/
         </div>
     </div>
 </section>
+
+<hr>
 
 <section class="section about-author is-small no-bg-image-mobile">
     <div class="container">
@@ -586,3 +590,4 @@ permalink: /docker-for-php-developers/
 <section class="section footer has-text-centered">
     <p>&copy; <a href="https://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
 </section>
+<script src="https://gumroad.com/js/gumroad.js"></script>
