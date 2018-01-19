@@ -548,7 +548,7 @@ permalink: /docker-for-php-developers/
                         </div>
                         <div class="column is-7 pt-3">
                             <h3>Premium Edition</h3>
-                            <p>Comes with everything from the Stater Edition, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <p>Comes with everything from the Starter Edition, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
                                 <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup</li>
                                 <li>The 222-page Docker for PHP Developers Book</li>
