@@ -59,7 +59,7 @@ permalink: /docker-for-php-developers/
                                 <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
                                 <div>
                                     <p class="pb-2">
-                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you two sample PDFs from the book. Learn how to set up Xdebug and Composer in Docker.
+                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you two sample PDFs from the book. I will also let you know when new bundles are available!
                                     </p>
                                 </div>
                             <div id="ck_error_msg" class="notification is-danger" style="display:none;">
@@ -519,7 +519,7 @@ permalink: /docker-for-php-developers/
                     <p>I plan on video guides for setting up applications for Laravel and Symfony, and also cloud deployment videos. The official video outline is still being planned and may change slightly.</p>
                     <p>Sign up and I'll send regular updates on the course, including updates to the video outline!</p>
                     <p>
-                        <a href="#sample" class="button is-primary is-medium signup-button">Sign Up Now</a>
+                        <a href="#sample" class="button is-primary is-medium signup-button">Sign up to Get Notified</a>
                     </p>
                 </div>
             </div>
