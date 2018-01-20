@@ -12,7 +12,8 @@ permalink: /docker-for-php-developers/
             <div class="product-img-container column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
-                        <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" />
+                        <!-- <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" /> -->
+                        <img src="/assets/images/docker-book/lead-product.png" class="img-fit" />
                     </div>
                 </div>
             </div>
