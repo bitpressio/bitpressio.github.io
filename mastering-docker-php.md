@@ -59,7 +59,7 @@ permalink: /docker-for-php-developers/
                                 <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
                                 <div>
                                     <p class="pb-2">
-                                        <em>"Docker for PHP Developers"</em> is still being finished up. Enter your email address and I'll send you a book sample, insider information, and progress updates. I'll also <strong>let you know when it's ready so you can get a discount</strong>!
+                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you two sample PDFs from the book. Learn how to set up Xdebug and Composer in Docker.
                                     </p>
                                 </div>
                             <div id="ck_error_msg" class="notification is-danger" style="display:none;">
