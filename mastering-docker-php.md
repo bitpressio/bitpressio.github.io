@@ -558,9 +558,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium" href="https://gum.co/docker-php-starter-bundle/early-release">
+                                <a class="button is-primary is-buy-now is-medium" href="https://gumroad.com/l/docker-php-starter-bundle/early-release">
                                     Buy Now
-                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$44.99</span>
+                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
                             </div>
                         </div>
@@ -579,7 +579,7 @@ permalink: /docker-for-php-developers/
                             <div>
                                 <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release">
                                     Buy Now
-                                    <span class="price">$34.99&nbsp;&nbsp;&nbsp;<strike>$39.99</strike></span>
+                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
                                 </a>
                             </div>
                         </div>
