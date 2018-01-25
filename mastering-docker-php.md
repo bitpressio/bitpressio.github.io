@@ -552,7 +552,7 @@ permalink: /docker-for-php-developers/
                             <h3>Starter Bundle</h3>
                             <p>Comes with everything from the Essential Edition, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
-                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup</li>
+                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong> with <strong>PHP 7.2</strong>, based on my professional Docker setup</li>
                                 <li>The 222-page Docker for PHP Developers Book</li>
                                 <li>Beautiful handcrafted PDF design</li>
                                 <li>Basic ePub and Mobi formats included</li>
