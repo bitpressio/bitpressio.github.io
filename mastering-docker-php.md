@@ -507,6 +507,46 @@ permalink: /docker-for-php-developers/
         </div>
     </div>
 </section>
+<section class="section dark-grey-bg">
+    <div class="container">
+        <div class="content">
+            <h1 class="title has-text-centered">
+                <span class="icon">
+                    <i class="fa fa-trophy" aria-hidden="true"></i>
+                </span>
+                Nice Stuff People are Saying
+            </h1>
+            <div class="columns">
+                <div class="column is-10 is-offset-1">
+                    <div class="columns is-multiline chapter-summary">
+                        <div class="column is-6">
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">📘Just read through the first few chapters of <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>’s book. It’s such a smooth read, and he makes Docker seem a lot more accessible. If you&#39;re interested in learning Docker, you should pick it up!<a href="https://t.co/hjJQTkPtdU">https://t.co/hjJQTkPtdU</a></p>&mdash; Chris Gmyr (@cmgmyr) <a href="https://twitter.com/cmgmyr/status/956644987504128002?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just bought Docker for PHP Developers by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>. 😍<br>A great way to start using <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> in <a href="https://twitter.com/symfony?ref_src=twsrc%5Etfw">@symfony</a> / <a href="https://twitter.com/laravelphp?ref_src=twsrc%5Etfw">@laravelphp</a> projects 👍<a href="https://twitter.com/hashtag/dockerphp?src=hash&amp;ref_src=twsrc%5Etfw">#dockerphp</a></p>&mdash; Mr. PReimers (@MrPReimers) <a href="https://twitter.com/MrPReimers/status/956806077563195392?ref_src=twsrc%5Etfw">January 26, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Really loving the Docker for PHP Developers book (<a href="https://t.co/3NEIgFrpmo">https://t.co/3NEIgFrpmo</a>) by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>, thanks for such an awesome book and the laravel starter project is excellent! Awesome stuff 👍</p>&mdash; Liam Norman (@liamjnorman) <a href="https://twitter.com/liamjnorman/status/956431458473738240?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+                            </div>
+                        </div>
+                        <div class="column is-6">
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a> really great book! Totally worth the wait. Feels like having you explain everything beside me. Would recommend for anyone that wants an excellent way of developing locally and deploying with ease! <a href="https://twitter.com/hashtag/dockerphp?src=hash&amp;ref_src=twsrc%5Etfw">#dockerphp</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/books?src=hash&amp;ref_src=twsrc%5Etfw">#books</a></p>&mdash; Chris Stadler (@cstadler333) <a href="https://twitter.com/cstadler333/status/956053573527375879?ref_src=twsrc%5Etfw">January 24, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I spent so many hours trying to figure this things out by myself and you make it look so easy 👌. This is gold for beginners. Next stop, chapter 6 🔥.</p>&mdash; Jose Barbosa (@josesabarbosa) <a href="https://twitter.com/josesabarbosa/status/956720618480775169?ref_src=twsrc%5Etfw">January 26, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I’ve already got through 2 chapters! It’s so easy to follow! Definitely pick this up! I have confidence that I can figure this out. Thanks <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a> 🔥🔥🔥 <a href="https://t.co/aXs8WVNxn8">https://t.co/aXs8WVNxn8</a></p>&mdash; Vince Mitchell (@vmitchell85) <a href="https://twitter.com/vmitchell85/status/956565192212668417?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section video">
     <div class="container">
         <div class="content">
@@ -615,4 +655,5 @@ permalink: /docker-for-php-developers/
 <section class="section footer has-text-centered">
     <p>&copy; <a href="https://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
 </section>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="https://gumroad.com/js/gumroad.js"></script>
