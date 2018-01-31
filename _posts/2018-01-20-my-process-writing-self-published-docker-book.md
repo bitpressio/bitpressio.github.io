@@ -23,8 +23,6 @@ Within the first three days I sold **233 copies** and **284 copies** in the firs
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Docker for PHP Developers book is available right now! The launch price for the next three days is 25% off! 🎉💖<a href="https://t.co/zJKLWPMDds">https://t.co/zJKLWPMDds</a></p>&mdash; Paul Redmond 🐳 (@paulredmond) <a href="https://twitter.com/paulredmond/status/955815200166326272?ref_src=twsrc%5Etfw">January 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I love self-publishing books so I wanted to share my rough process to hopefully inspire others that aspire to write a technical book.
-
 I approached this course differently than my first book—[Writing APIs With Lumen](https://leanpub.com/lumen-apis)—and I thought I'd share how I produced the text in my course from start to finish. 
 
 ## Outlining My Ideas
