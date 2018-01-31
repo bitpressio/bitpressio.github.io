@@ -53,7 +53,7 @@ Instead, I grab a few of my colleagues (pick people that you trust to tell you t
 
 My goal here is to cut, cut, and cut more. In this process for Docker for PHP Developers, I went down from 16 chapters to 10. Some of the sections I cut were good ideas; however, I want a concise book that tries to get to the point.
 
-Some of the good ideas that got cut will make better screencasts anyway, and I am trying to position my products as a *course* and not just a book. I never throw my ideas away; I just file them away in Google Drive so I can reference them later.
+Some of the good ideas that got cut will make better screencasts anyway, and I am trying to position my products as a *course* and not just a book.
 
 ## Organizing the Manuscript
 
