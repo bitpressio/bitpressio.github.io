@@ -31,7 +31,7 @@ The course has been in my head for about three years, and my first commit was ba
 
 !["Docker for PHP Developers" first commit](/assets/images/blog/writing-docker-php-developers/first-commit.png)
 
-I am kind of glad that I didn't start getting serious about the course until about a year ago because Docker has changed tremendously over the course of the last three years.
+I am kind of glad that I didn't start getting serious about the course until about a year ago because Docker has changed tremendously.
 
 When I start writing a new book, my first goal is to provide a **high-level chapter outline**. At this point in the process, I throw out as many chapters as I can, even if the number is in the teens or even twenties.
 
