@@ -1,7 +1,7 @@
 ---
 layout: post-docker
 title:  "My Process for Writing Docker for PHP Developers"
-date:   2017-10-11 20:00:00 -0700
+date:   2018-01-31 6:00:00 -0700
 author: Paul Redmond
 permalink: /my-process-writing-docker-for-php-developers/
 categories:
@@ -9,6 +9,7 @@ categories:
     - caddy
     - php
 excerpt: On January 23rd I released my third book, Docker for PHP Developers, that teaches PHP developers how to use Docker as a development environment. I thought I'd share my rough process for creating independantly published books for my courses from start to finish.
+short_description: On January 23rd I released my third book, Docker for PHP Developers, that teaches PHP developers how to use Docker as a development environment. I thought I'd share my rough process for creating independantly published books for my courses from start to finish.
 published: true
 comments: false
 twtter_card_type: summary_large_image
