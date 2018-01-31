@@ -437,6 +437,9 @@ body.post {
         height: 100px;
     }
 
+    .post-content {
+        img { max-width: 100%; margin-top: 1em; margin-bottom: 1em; padding: 5px; border: 1px solid #efefef; border-width: 1px 0; }
+    }
 }
 
 article.post {
