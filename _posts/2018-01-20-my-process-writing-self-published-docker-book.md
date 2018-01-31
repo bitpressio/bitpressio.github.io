@@ -18,10 +18,10 @@ twitter_image: /assets/images/blog/social-images/creating-self-published-docker-
 
 On January 23rd I released my third book, [Docker for PHP Developers](https://bitpress.io/docker-for-php-developers/), that teaches PHP developers how to use Docker as a development environment.
 
+Within the first three days I sold **233 copies** and **284 copies** in the first week, my best release so far! 
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Docker for PHP Developers book is available right now! The launch price for the next three days is 25% off! 🎉💖<a href="https://t.co/zJKLWPMDds">https://t.co/zJKLWPMDds</a></p>&mdash; Paul Redmond 🐳 (@paulredmond) <a href="https://twitter.com/paulredmond/status/955815200166326272?ref_src=twsrc%5Etfw">January 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Within the first three days I sold **233 copies** and **284 copies** in the first week, my best release so far! 
 
 I love self-publishing books so I wanted to share my rough process to hopefully inspire others that aspire to write a technical book.
 
