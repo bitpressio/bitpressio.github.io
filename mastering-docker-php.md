@@ -521,13 +521,16 @@ permalink: /docker-for-php-developers/
                     <div class="columns is-multiline chapter-summary">
                         <div class="column is-6">
                             <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I first met Paul when he was writing his book on testing Lumen APIs. I learnt a lot from that book, and I’ve learnt a lot from his writing on <a href="https://twitter.com/laravelnews?ref_src=twsrc%5Etfw">@laravelnews</a>. <br><br>I can confidently say that if you were wanting to learn about Docker as a PHP developer, this is a great place to start! <a href="https://t.co/1HbMundpbT">https://t.co/1HbMundpbT</a></p>&mdash; Michael Dyrynda (@michaeldyrynda) <a href="https://twitter.com/michaeldyrynda/status/955903645333229574?ref_src=twsrc%5Etfw">January 23, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Holy smokes! Great deal!  Paul&#39;s book is fantastic, HIGHLY recommend it! <a href="https://t.co/e2MU5bUp4t">https://t.co/e2MU5bUp4t</a></p>&mdash; TJ Miller 🐳🐘 (@SIXLIV3) <a href="https://twitter.com/SIXLIV3/status/955820455553896449?ref_src=twsrc%5Etfw">January 23, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">📘Just read through the first few chapters of <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>’s book. It’s such a smooth read, and he makes Docker seem a lot more accessible. If you&#39;re interested in learning Docker, you should pick it up!<a href="https://t.co/hjJQTkPtdU">https://t.co/hjJQTkPtdU</a></p>&mdash; Chris Gmyr (@cmgmyr) <a href="https://twitter.com/cmgmyr/status/956644987504128002?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
                             </div>
                             <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just bought Docker for PHP Developers by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>. 😍<br>A great way to start using <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> in <a href="https://twitter.com/symfony?ref_src=twsrc%5Etfw">@symfony</a> / <a href="https://twitter.com/laravelphp?ref_src=twsrc%5Etfw">@laravelphp</a> projects 👍<a href="https://twitter.com/hashtag/dockerphp?src=hash&amp;ref_src=twsrc%5Etfw">#dockerphp</a></p>&mdash; Mr. PReimers (@MrPReimers) <a href="https://twitter.com/MrPReimers/status/956806077563195392?ref_src=twsrc%5Etfw">January 26, 2018</a></blockquote>
-                            </div>
-                            <div class="mb-2">
-                                <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Really loving the Docker for PHP Developers book (<a href="https://t.co/3NEIgFrpmo">https://t.co/3NEIgFrpmo</a>) by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>, thanks for such an awesome book and the laravel starter project is excellent! Awesome stuff 👍</p>&mdash; Liam Norman (@liamjnorman) <a href="https://twitter.com/liamjnorman/status/956431458473738240?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
                             </div>
                         </div>
                         <div class="column is-6">
@@ -539,6 +542,9 @@ permalink: /docker-for-php-developers/
                             </div>
                             <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I’ve already got through 2 chapters! It’s so easy to follow! Definitely pick this up! I have confidence that I can figure this out. Thanks <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a> 🔥🔥🔥 <a href="https://t.co/aXs8WVNxn8">https://t.co/aXs8WVNxn8</a></p>&mdash; Vince Mitchell (@vmitchell85) <a href="https://twitter.com/vmitchell85/status/956565192212668417?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Really loving the Docker for PHP Developers book (<a href="https://t.co/3NEIgFrpmo">https://t.co/3NEIgFrpmo</a>) by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>, thanks for such an awesome book and the laravel starter project is excellent! Awesome stuff 👍</p>&mdash; Liam Norman (@liamjnorman) <a href="https://twitter.com/liamjnorman/status/956431458473738240?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
                             </div>
                         </div>
                     </div>
