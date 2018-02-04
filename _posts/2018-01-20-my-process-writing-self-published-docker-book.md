@@ -191,7 +191,7 @@ As a bonus, writing the first few chapters last allows you to tie the whole intr
 
 With that being said, I like to start around chapter three or four, or maybe even a little later. I have an idea of the cohesive whole, without the details of the manuscript on paper.
 
-I look for the point in the text that could be equated to the [rising action](https://en.wikipedia.org/wiki/Plot_(narrative)#Rising_action) part of [Freytag's pyramid](Freytag's pyramid). At the action stage of the story, the reader will have passed the introduction and set out to dive more deeply into the topic at hand.
+I look for the point in the text that could be equated to the [rising action](https://en.wikipedia.org/wiki/Plot_(narrative)#Rising_action) part of [Freytag's pyramid](https://en.wikipedia.org/wiki/Dramatic_structure#Freytag's_analysis). At the action stage of the story, the reader will have passed the introduction and set out to dive more deeply into the topic at hand.
 
 This is the part where you/they should **catch the bug and really connect**.
 
