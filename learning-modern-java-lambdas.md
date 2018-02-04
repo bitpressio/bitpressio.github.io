@@ -180,7 +180,7 @@ permalink: /learning-modern-java/
         <div class="author-card">
             <header class="clearfix">
                 <img class="avatar"
-                     src="http://www.gravatar.com/avatar/5460f254e076aea5d21e338b31c8ff36?default=identicon&size=100"
+                     src="https://www.gravatar.com/avatar/5460f254e076aea5d21e338b31c8ff36?default=identicon&size=100"
                      alt="Jacob Jensen">
                 <div class="role">Your Host</div>
                 <h3 class="name">Jacob Jensen</h3>
