@@ -604,9 +604,13 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium" href="https://gumroad.com/l/docker-php-starter-bundle/early-release">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/docker-php-starter-bundle/early-release">
                                     Buy Now
                                     <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
+                                </a>
+                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams">
+                                    Buy a Team License
+                                    <span class="price"><span style="font-weight: normal;">From</span> $199</span>
                                 </a>
                             </div>
                         </div>
