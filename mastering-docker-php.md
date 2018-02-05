@@ -604,14 +604,14 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/docker-php-starter-bundle/early-release">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/docker-php-starter-bundle/early-release" data-gumroad-single-product="true">
                                     Buy Now
                                     <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
-                                <!-- <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams">
+                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
                                     <span class="price"><span style="font-weight: normal;">From</span> $199</span>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
                         <div class="column is-12 mt-2 mb-2"><hr></div>
@@ -627,7 +627,7 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release">
+                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release" data-gumroad-single-product="true">
                                     Buy Now
                                     <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
                                 </a>
