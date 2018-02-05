@@ -608,10 +608,10 @@ permalink: /docker-for-php-developers/
                                     Buy Now
                                     <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
-                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams">
+                                <!-- <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams">
                                     Buy a Team License
                                     <span class="price"><span style="font-weight: normal;">From</span> $199</span>
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                         <div class="column is-12 mt-2 mb-2"><hr></div>
