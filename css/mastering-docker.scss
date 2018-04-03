@@ -15,3 +15,17 @@
     border-left: 1px solid lighten($cover-blue, 20%);
     font-weight: 700;
   }
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}

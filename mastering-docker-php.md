@@ -200,6 +200,31 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 
+<section class="section email-signup med-grey-bg pb-5 has-text-centered" id="screencast-sample">
+    <div class="container">
+        <div class="content">
+            <div class="columns">
+                <div class="column is-10 is-offset-1">
+                    <div class="columns">
+                        <div class="column is-8 is-offset-2">
+                            <h1>A Quick Sample</h1>
+                            <h5 class="subtitle" style="line-height: 1.8em">I am working on screencasts to compliment the book. Get a taste of my teaching style and what's to come when I release the screencasts.</h5>
+                        </div>
+                    </div>
+                    <div class="video-responsive mb-3">
+                        <iframe width="896" height="504" src="https://www.youtube.com/embed/QeepkWC-qM0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                    <div class="columns">
+                        <div class="column is-8 is-offset-2">
+                            <p>* <em>The book-only packages are available for purchase now. If you purchase the book, I will provide an upgrade coupon for a good deal on the complete course (book + screencasts) once I finish the screencasts.</em></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Spiel -->
 
 <section class="section white-bg">
@@ -599,7 +624,7 @@ permalink: /docker-for-php-developers/
                         </div>
                         <div class="column is-7 pt-3">
                             <h3>Starter Bundle</h3>
-                            <p>Comes with everything from the Essential Edition, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <p>Comes with the book, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
                                 <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
                                 <li>The 222-page Docker for PHP Developers Book</li>
