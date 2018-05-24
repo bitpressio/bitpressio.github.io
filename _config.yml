@@ -18,6 +18,9 @@ paginate_path: "/blog/page:num/"
 paginate: 10
 permalink: pretty
 
+plugins:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 
