@@ -2,11 +2,6 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section style="background: #efefef; padding: 1em; text-align: center;">
-    <div class="container">
-        <p>Happy Memorial Day! <strong>Save $15</strong> through Monday, May 28th!&nbsp;&nbsp;<a href="#packages">View Packages</a></p>
-    </div>
-</section>
 <section class="hero section header is-small has-text-centered pt-2 pb-5">
     <div class="container">
         <!-- Header -->
@@ -640,9 +635,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/memorial-day" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/docker-php-starter-bundle/early-release" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$34.99</span>
+                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -663,9 +658,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/memorial-day" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$24.99</span>
+                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
                                 </a>
                             </div>
                         </div>
