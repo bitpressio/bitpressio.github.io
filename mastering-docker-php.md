@@ -57,10 +57,10 @@ permalink: /docker-for-php-developers/
                             <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
                               <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
                               <input type="hidden" name="id" value="251217" id="landing_page_id">
-                                <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
+                                <h3 class="has-text-centered mb-2">Get Free Book Samples</h3>
                                 <div>
                                     <p class="pb-2">
-                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you two sample PDFs from the book. I will also let you know when new bundles are available!
+                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>two sample PDFs</strong> from my book and a few <strong>short videos and posts</strong> over the next week about using Docker with PHP. You'll also get semi-regular tips about Docker and updates on any course announcements.
                                     </p>
                                 </div>
                             <div id="ck_error_msg" class="notification is-danger" style="display:none;">
