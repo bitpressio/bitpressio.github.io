@@ -25,7 +25,7 @@ We'll use a Laravel PHP project to walk through some common steps I take to opti
 
 <div class="media-breakout-lg mt-3 mb-3">
     <div class="video-responsive">
-        <iframe width="854" height="480" src="https://www.youtube.com/embed/VmP1doIv9-E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="854" height="480" src="https://www.youtube.com/embed/OrYQO57ygqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 
