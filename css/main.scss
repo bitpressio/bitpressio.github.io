@@ -462,3 +462,29 @@ article.post {
         }
     }
 }
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+@media screen and (min-width: 768px) {
+    .media-breakout-lg {
+        margin-left: -5rem;
+        margin-right: -5rem;
+    }
+
+    .media-breakout {
+        margin-left: -3rem;
+        margin-right: -3rem;   
+    }
+}
