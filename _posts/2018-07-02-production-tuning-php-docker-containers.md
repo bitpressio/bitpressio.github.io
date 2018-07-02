@@ -31,6 +31,6 @@ We'll use a Laravel PHP project to walk through some common steps I take to opti
 
 ## Learn More
 
-If you enjoyed this screencast, I wrote Docker for PHP Developers, a book about building amazing, flexible, PHP containers.
+If you enjoyed this screencast, I wrote Docker for PHP Developers, a course about building wondrous, flexible, PHP containers.
 
 [Check out my course page](https://bitpress.io/docker-for-php-developers/) to learn more!
