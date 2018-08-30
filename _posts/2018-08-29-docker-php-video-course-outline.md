@@ -61,7 +61,7 @@ We walk through the basics of getting started with Docker.
 
 *The module is available in the __Complete Video Bundle__.*
 
-A full series on building a Docker environment with a Laravel project, helping you learn the ins and outs of setting up Docker within a PHP project. I am planning two additional modules for those that purcase the __Complete Video Bundle__: WordPress and Kubernetes deployments with Google Cloud.
+A full series on building a Docker environment with a Laravel project, helping you learn the ins and outs of setting up Docker within a PHP project.
 
 1. Getting Started
 2. Copying files in and out of Docker images
@@ -86,7 +86,9 @@ A full series on building a Docker environment with a Laravel project, helping y
 21. Configuring Automated application builds with GitLab - Part 1
 22. Configuring Automated application builds with GitLab - Part 2
 
-For those who purchase the __Complete Video Bundle__, you will get access to any future videos and modules added to the Docker for PHP Developers course. If you buy the __Starter Video Bundle__, you get access to the first 30 videos and any additional videos that get added to the main Docker PHP Basics modules.
+For those who purchase the __Complete Video Bundle__, you will get access to any future videos and modules added to the Docker for PHP Developers course. I am planning two additional modules for those that purcase the __Complete Video Bundle__: WordPress and Kubernetes deployments with Google Cloud.
+
+If you buy the __Starter Video Bundle__, you get access to the first 30 videos and any additional videos that get added to the main Docker PHP Basics modules.
 
 *The course outline is complete, although I might have a few minor alterations leading up to the launch.*
 
