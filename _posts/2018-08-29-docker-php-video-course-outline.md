@@ -101,7 +101,7 @@ At the time of launching Docker for PHP Developers, I am offering two video bund
 ~~$129~~ $99
 
 * Stream and Download the first __30 lessons__
-* Starter project source code for Laravel 5.5 and Symfony 4
+* Starter project source code for __Laravel 5__ and __Symfony 4__
 * The 222-page Docker for PHP Developers Book
 * Beautiful handcrafted PDF design
 * Basic ePub and Mobi formats included
