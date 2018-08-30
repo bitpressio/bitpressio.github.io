@@ -86,7 +86,10 @@ A full series on building a Docker environment with a Laravel project, helping y
 21. Configuring Automated application builds with GitLab - Part 1
 22. Configuring Automated application builds with GitLab - Part 2
 
-For those who purchase the __Complete Video Bundle__, you will get access to any future videos and modules added to the Docker for PHP Developers course. I am planning two additional modules for those that purcase the __Complete Video Bundle__: WordPress and Kubernetes deployments with Google Cloud.
+For those who purchase the __Complete Video Bundle__, you will get access to any future videos and modules added to the Docker for PHP Developers course. I am planning two additional modules for those that purcase the __Complete Video Bundle__: 
+
+1. A WordPress development workflow with Docker
+2. Deploying Docker to Google Cloud with Kubernetes
 
 If you buy the __Starter Video Bundle__, you get access to the first 30 videos and any additional videos that get added to the main Docker PHP Basics modules.
 
