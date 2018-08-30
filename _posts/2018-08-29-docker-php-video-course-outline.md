@@ -94,9 +94,9 @@ For those who purchase the __Complete Video Bundle__, you will get access to any
 
 At the time of launching Docker for PHP Developers, I am offering two video bundles with special introductory launch pricing:
 
-### Starter Video Package - $89
+### Starter Video Package - $99
 
-~~$129~~ $89
+~~$129~~ $99
 
 * Stream and Download the first __30 lessons__
 * Starter project source code for Laravel 5.5 and Symfony 4
