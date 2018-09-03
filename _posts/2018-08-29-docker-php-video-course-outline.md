@@ -59,7 +59,7 @@ We walk through the basics of getting started with Docker.
 
 ### Laravel Setup for Docker
 
-*The module is available in the __Complete Video Bundle__.*
+*This module is available in the __Complete Video Bundle__.*
 
 A full series on building a Docker environment with a Laravel project, helping you learn the ins and outs of setting up Docker within a PHP project.
 
