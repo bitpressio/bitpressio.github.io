@@ -1078,17 +1078,33 @@ permalink: /docker-for-php-developers/
                                 <li>Beautiful handcrafted PDF design</li>
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
-                            <div>
+                            <div class="mb-2">
                                 <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/launch" data-gumroad-single-product="true">
                                     Buy Now
                                     <span class="price"><strike>$249.99</strike>&nbsp;&nbsp;&nbsp;$139.99</span>
                                 </a>
+                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
+                                    Buy a Team License
+                                    <span class="price"><span style="font-weight: normal;">From</span> $350</span>
+                                </a>
+                            </div>
+                            <div>
+                                Here's the breakdown for team pricing:
+                                <ul>
+                                    <li>3 Developers — $345</li>
+                                    <li>5 Developers — $575</li>
+                                    <li>8 Developers — $880</li>
+                                    <li>10 Developers — $1,100</li>
+                                    <li>15 Developers — $1,575</li>
+                                    <li>20 Developers — $1,980</li>
+                                    <li>25 Developers — $2,475</li>
+                                </ul>
                             </div>
                         </div>
                         <div class="column is-12 mt-2 mb-2"><hr></div>
                         <!-- Starter Video Bundle -->
                         <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-video-course-feature.png" alt="Docker for PHP Developers - Complete Video Bundle" class="img-fit" />
+                            <img src="/assets/images/docker-book/docker-video-course-feature.png" alt="Docker for PHP Developers - Starter Video Bundle" class="img-fit" />
                         </div>
                         <div class="column is-7 pt-3">
                             <h2>
