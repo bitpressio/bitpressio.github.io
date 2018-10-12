@@ -1120,7 +1120,7 @@ permalink: /docker-for-php-developers/
                             <div>
                                 <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$129.99</strike>&nbsp;&nbsp;&nbsp;$87.00</span>
+                                    <span class="price"><strike>$139.99</strike>&nbsp;&nbsp;&nbsp;$87.00</span>
                                 </a>
                             </div>
                         </div>
