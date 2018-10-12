@@ -1069,7 +1069,7 @@ permalink: /docker-for-php-developers/
                                 </figure>
                                 Complete Video Bundle
                             </h1>
-                            <p>Comes with all the screencasts from the Basic Video Bundle, plus a full series on using Docker with Laravel. Comes with the book, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <p>Comes with full series of <strong>60+ videos</strong> on getting started with Docker (34 videos) and setting up Docker for Laravel (24 videos). Comes with the Docker for PHP Developers eBook, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
                                 <li>Stream and Download all <strong>60+ lessons</strong></li>
                                 <li>Access to <strong>any future videos</strong> added to the course</li>
@@ -1108,20 +1108,19 @@ permalink: /docker-for-php-developers/
                         </div>
                         <div class="column is-7 pt-3">
                             <h2>
-                                Starter Video Bundle
+                                Video-only Bundle
                             </h2>
-                            <p>Comes with the first 36 screencasts about using Docker with PHP that compliment the book. Comes with the book, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <p>Comes with full series of <strong>60+ videos</strong> on getting started with Docker (34 videos) and setting up Docker for Laravel (24 videos). Comes with the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
-                                <li>Stream and Download the <strong>first 36 lessons</strong> (4.5 hours of content)</li>
+                                <li>Stream and Download all <strong>60+ lessons</strong></li>
+                                <li>Access to <strong>any future videos</strong> added to the course</li>
                                 <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
-                                <li>The 222-page Docker for PHP Developers Book</li>
-                                <li>Beautiful handcrafted PDF design</li>
-                                <li>Basic ePub and Mobi formats included</li>
+                                <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/GBPyZ/launch" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$129.99</strike>&nbsp;&nbsp;&nbsp;$99.99</span>
+                                    <span class="price"><strike>$129.99</strike>&nbsp;&nbsp;&nbsp;$87.00</span>
                                 </a>
                             </div>
                         </div>
