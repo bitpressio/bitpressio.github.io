@@ -1020,6 +1020,9 @@ permalink: /docker-for-php-developers/
                             <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I spent so many hours trying to figure this things out by myself and you make it look so easy 👌. This is gold for beginners. Next stop, chapter 6 🔥.</p>&mdash; Jose Barbosa (@josesabarbosa) <a href="https://twitter.com/josesabarbosa/status/956720618480775169?ref_src=twsrc%5Etfw">January 26, 2018</a></blockquote>
                             </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That feeling when you finally get <a href="https://twitter.com/laravelphp?ref_src=twsrc%5Etfw">@laravelphp</a> up and running in <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> 🙌🏻🙌🏻. Thanks <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a> for making it all possible!! <a href="https://twitter.com/hashtag/containers?src=hash&amp;ref_src=twsrc%5Etfw">#containers</a> <a href="https://twitter.com/hashtag/whales?src=hash&amp;ref_src=twsrc%5Etfw">#whales</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/imsoexcited?src=hash&amp;ref_src=twsrc%5Etfw">#imsoexcited</a></p>&mdash; Alexander Six (@alexandersix_) <a href="https://twitter.com/alexandersix_/status/1061127960239972352?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote>
+                            </div>
                         </div>
                         <div class="column is-6">
                             <div class="mb-2">
@@ -1039,6 +1042,9 @@ permalink: /docker-for-php-developers/
                             </div>
                             <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just finished &quot;Docker for PHP Developers&quot; by <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a>. What a fantastic read! If you&#39;ve wanted to learn more about Docker this book is a great way to do it. I wish I had this book several months ago when I first started working with Docker - so many things are clearer now.</p>&mdash; John Madrak (@johnmadrak) <a href="https://twitter.com/johnmadrak/status/1038975664064479232?ref_src=twsrc%5Etfw">September 10, 2018</a></blockquote>
+                            </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;m loving your ebook! What a great reference! Never used Docker before this and I have Laravel apps and legacy apps running. <br><br>I just bought the video bundle because of your great work! Thanks for all you do in the Laravel community! To our favorite human, cheers!</p>&mdash; Corey Coburn (@coreycoburn) <a href="https://twitter.com/coreycoburn/status/1060296729772212224?ref_src=twsrc%5Etfw">November 7, 2018</a></blockquote>
                             </div>
                         </div>
                     </div>
