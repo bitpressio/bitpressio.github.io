@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="countdown-timer" id="js-countdownTimer">
-        🐳 Special Black Friday + Cyber Monday <a href="#packages">Prices!</a> Deal ends in 
+        🐳 Black Friday <a href="#packages">Sale!</a> Extended Through Friday!
         <span id="pageTimerDays"></span>:
         <span id="pageTimerHours"></span>:
         <span id="pageTimerMinutes"></span>:
@@ -50,8 +50,8 @@
                 .not('[href="#0"]')
                 .click(function(event) {
                     if (
-                        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
-                        && 
+                        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+                        &&
                         location.hostname == this.hostname
                     ) {
                         var target = $(this.hash);
@@ -74,9 +74,8 @@
                 var pageTimerSeconds = document.getElementById('pageTimerSeconds');
                 var timer = document.getElementById('js-countdownTimer');
                 var timerId = countdown(
-                    new Date(2018, 10, 27),
+                    new Date(2018, 11, 1),
                     function(ts) {
-                        
                         if (timer.style.display != 'block') {
                             timer.style.display = 'block';
                         };

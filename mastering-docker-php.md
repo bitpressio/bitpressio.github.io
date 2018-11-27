@@ -2,7 +2,7 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section class="hero section header is-small has-text-centered pt-5 pb-5">
+<section class="hero section header is-small has-text-centered pb-5" style="padding-top: 9em;">
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
