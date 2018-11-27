@@ -23,10 +23,10 @@
 <body>
     <div class="countdown-timer" id="js-countdownTimer">
         🐳 Black Friday <a href="#packages">Sale!</a> Extended Through Friday!
-        <span id="pageTimerDays"></span>d:
-        <span id="pageTimerHours"></span>h:
-        <span id="pageTimerMinutes"></span>m:
-        <span id="pageTimerSeconds"></span>s
+        <span id="pageTimerDays"></span>:
+        <span id="pageTimerHours"></span>:
+        <span id="pageTimerMinutes"></span>:
+        <span id="pageTimerSeconds"></span>
         Remaining
     </div>
     {{ content }}
@@ -81,10 +81,10 @@
                             timer.style.display = 'block';
                         };
 
-                        pageTimerDays.innerHTML = ts.days;
-                        pageTimerHours.innerHTML = ts.hours;
-                        pageTimerMinutes.innerHTML = ts.minutes;
-                        pageTimerSeconds.innerHTML = ts.seconds;
+                        pageTimerDays.innerHTML = ts.days > 0 ? ts.days + 'd' : 0;
+                        pageTimerHours.innerHTML = ts.hours > 0 ? ts.hours + 'h' : 0;
+                        pageTimerMinutes.innerHTML = ts.minutes > 0 ? ts.minutes + 'm' : 0;
+                        pageTimerSeconds.innerHTML = ts.seconds + 's';
                     },
                     countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS
                 );
