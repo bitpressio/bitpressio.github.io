@@ -272,7 +272,7 @@ permalink: /docker-for-php-developers/
         <div class="content">
             <div class="columns">
                 <div class="column is-half is-offset-one-quarter has-text-centered">
-                    <h1 class="title mb-3">
+                    <h1 class="title mb-3" id="the-videos">
                         <i class="fa fa-television" aria-hidden="true"></i>
                         The Docker PHP Videos
                     </h1>
