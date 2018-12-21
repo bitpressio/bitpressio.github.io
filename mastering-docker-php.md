@@ -1153,9 +1153,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle" data-gumroad-single-product="true">
-                                    Buy Now
-                                    <span class="price">$49.99</span>
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/holidays-2018" data-gumroad-single-product="true">
+                                    🎄 Buy Now
+                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1176,9 +1176,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release" data-gumroad-single-product="true">
-                                    Buy Now
-                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
+                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/holidays-2018" data-gumroad-single-product="true">
+                                    🎄 Buy Now
+                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$19.99</span>
                                 </a>
                             </div>
                         </div>
