@@ -21,14 +21,14 @@
     <link rel="stylesheet" href="/css/mastering-docker.css">
 </head>
 <body>
-    <div class="countdown-timer" id="js-countdownTimer">
+    <!-- <div class="countdown-timer" id="js-countdownTimer">
         🎄 Holiday <a href="#packages">Sale</a> through the end of 2018!
         <span id="pageTimerDays"></span>:
         <span id="pageTimerHours"></span>:
         <span id="pageTimerMinutes"></span>:
         <span id="pageTimerSeconds"></span>
         Remaining
-    </div>
+    </div> -->
     {{ content }}
 
         <script>
@@ -40,7 +40,7 @@
             ga('create', 'UA-74504252-2', 'auto');
             ga('send', 'pageview');
         </script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/countdown/2.6.0/countdown.min.js"></script>
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/countdown/2.6.0/countdown.min.js"></script> -->
         <script
             src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
@@ -68,31 +68,32 @@
                     }
                 });
 
-            (function (countdown) {
-                var pageTimerDays = document.getElementById('pageTimerDays');
-                var pageTimerHours = document.getElementById('pageTimerHours');
-                var pageTimerMinutes = document.getElementById('pageTimerMinutes');
-                var pageTimerSeconds = document.getElementById('pageTimerSeconds');
-                var timer = document.getElementById('js-countdownTimer');
-                var timerId = countdown(
-                    new Date(2019, 0, 1),
-                    function(ts) {
-                        if (timer.style.display != 'block') {
-                            timer.style.display = 'block';
-                        };
+            // Countdown timer
+            // (function (countdown) {
+            //     var pageTimerDays = document.getElementById('pageTimerDays');
+            //     var pageTimerHours = document.getElementById('pageTimerHours');
+            //     var pageTimerMinutes = document.getElementById('pageTimerMinutes');
+            //     var pageTimerSeconds = document.getElementById('pageTimerSeconds');
+            //     var timer = document.getElementById('js-countdownTimer');
+            //     var timerId = countdown(
+            //         new Date(2019, 0, 1),
+            //         function(ts) {
+            //             if (timer.style.display != 'block') {
+            //                 timer.style.display = 'block';
+            //             };
 
-                        pageTimerDays.innerHTML = ts.days > 0 ? ts.days + 'd' : 0;
-                        pageTimerHours.innerHTML = ts.hours > 0 ? ts.hours + 'h' : 0;
-                        pageTimerMinutes.innerHTML = ts.minutes > 0 ? ts.minutes + 'm' : 0;
-                        pageTimerSeconds.innerHTML = ts.seconds + 's';
-                    },
-                    countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS
-                );
+            //             pageTimerDays.innerHTML = ts.days > 0 ? ts.days + 'd' : 0;
+            //             pageTimerHours.innerHTML = ts.hours > 0 ? ts.hours + 'h' : 0;
+            //             pageTimerMinutes.innerHTML = ts.minutes > 0 ? ts.minutes + 'm' : 0;
+            //             pageTimerSeconds.innerHTML = ts.seconds + 's';
+            //         },
+            //         countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS
+            //     );
 
-                // later on this timer may be stopped
-                // window.clearInterval(timerId);
-                // console.log(c);
-            })(countdown);
+            //     // later on this timer may be stopped
+            //     // window.clearInterval(timerId);
+            //     // console.log(c);
+            // })(countdown);
         </script>
     </body>
 </html>

@@ -2,7 +2,7 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section class="hero section header is-small has-text-centered pb-5" style="padding-top: 9em;">
+<section class="hero section header is-small has-text-centered pb-5">
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
@@ -1088,9 +1088,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div class="mb-2">
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/holidays-2018" data-gumroad-single-product="true">
-                                    🎄 Buy Now
-                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$79</span>
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/launch" data-gumroad-single-product="true">
+                                    Buy Now
+                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1127,9 +1127,9 @@ permalink: /docker-for-php-developers/
                                 <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/holidays-2018" data-gumroad-single-product="true">
-                                    🎄 Buy Now
-                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$69</span>
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
+                                    Buy Now
+                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$79</span>
                                 </a>
                             </div>
                         </div>
@@ -1153,9 +1153,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/holidays-2018" data-gumroad-single-product="true">
-                                    🎄 Buy Now
-                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle" data-gumroad-single-product="true">
+                                    Buy Now
+                                    <span class="price">$49.99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1176,9 +1176,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/holidays-2018" data-gumroad-single-product="true">
-                                    🎄 Buy Now
-                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$19.99</span>
+                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php" data-gumroad-single-product="true">
+                                    Buy Now
+                                    <span class="price">$39.99</span>
                                 </a>
                             </div>
                         </div>
@@ -1212,7 +1212,7 @@ permalink: /docker-for-php-developers/
     </div>
 </section>
 <section class="section footer has-text-centered">
-    <p>&copy; <a href="https://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
+    <p>&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> <a href="https://bitpress.io/">Bitpress</a>. All Rights Reserved.</p>
 </section>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="https://gumroad.com/js/gumroad.js"></script>
