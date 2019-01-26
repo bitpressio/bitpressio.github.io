@@ -9,7 +9,7 @@
 title: High Quality Screencasts for PHP, Java, web development, DevOps, and programming skills
 email: team@bitpress.io
 description: > # this means to ignore newlines until "baseurl:"
-  High Quality Screencasts for PHP, Java, web development, DevOps, and programming skills
+  High Quality Screencasts for PHP, JavaScript, Web Development, DevOps, and programming skills
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bitpress.io" # the base hostname & protocol for your site
 twitter_username: bitpressio
