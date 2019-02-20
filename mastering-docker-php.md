@@ -1023,6 +1023,9 @@ permalink: /docker-for-php-developers/
                             <div class="mb-2">
                                 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That feeling when you finally get <a href="https://twitter.com/laravelphp?ref_src=twsrc%5Etfw">@laravelphp</a> up and running in <a href="https://twitter.com/Docker?ref_src=twsrc%5Etfw">@Docker</a> 🙌🏻🙌🏻. Thanks <a href="https://twitter.com/paulredmond?ref_src=twsrc%5Etfw">@paulredmond</a> for making it all possible!! <a href="https://twitter.com/hashtag/containers?src=hash&amp;ref_src=twsrc%5Etfw">#containers</a> <a href="https://twitter.com/hashtag/whales?src=hash&amp;ref_src=twsrc%5Etfw">#whales</a> <a href="https://twitter.com/hashtag/docker?src=hash&amp;ref_src=twsrc%5Etfw">#docker</a> <a href="https://twitter.com/hashtag/imsoexcited?src=hash&amp;ref_src=twsrc%5Etfw">#imsoexcited</a></p>&mdash; Alexander Six (@alexandersix_) <a href="https://twitter.com/alexandersix_/status/1061127960239972352?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote>
                             </div>
+                            <div class="mb-2">
+                                <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Bought the book yesterday around the middle of the day, and today I already understand docker for development and automatic deployments, even tried the whole process. <br>Good job</p>&mdash; Shpëtim Islami ⚡ (@itsshpetim) <a href="https://twitter.com/itsshpetim/status/1072120592495710209?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote>
+                            </div>
                         </div>
                         <div class="column is-6">
                             <div class="mb-2">
