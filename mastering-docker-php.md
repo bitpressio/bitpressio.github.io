@@ -14,7 +14,7 @@ permalink: /docker-for-php-developers/
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
                         <!-- <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" /> -->
-                        <img src="/assets/images/docker-book/docker-video-course-feature.png" class="img-fit" />
+                        <img src="/assets/images/docker-book/docker-video-course-feature-st-pattys.png" class="img-fit" />
                     </div>
                 </div>
             </div>
