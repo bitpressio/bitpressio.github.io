@@ -31,17 +31,28 @@
 }
 
 .countdown-timer {
+    a, a:link, a:visited {
+        color: #86f527 !important;
+    }
+
     a:hover {
-        color: $cover-blue;
+        color: #86f527;
         text-decoration: underline;
     }
 
-    border-top: 8px solid $cover-blue;
+    // a:hover {
+    //     color: $cover-blue;
+    //     text-decoration: underline;
+    // }
+
+    // border-top: 8px solid $cover-blue;
+    border-top: 8px solid #0d963c;
     position: fixed;
     z-index: 1000;
     width: 100%;
     display: none;
-    background-color: #105e82;
+    // background-color: #105e82;
+    background-color: #095808;
     padding: .75em 0;
     text-align: center;
     font-size: 1.5em;
