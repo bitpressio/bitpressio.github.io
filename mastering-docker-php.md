@@ -2,7 +2,7 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section class="hero section header is-small has-text-centered pt-6 pb-5">
+<section class="hero section header is-small has-text-centered pb-5">
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
@@ -14,7 +14,7 @@ permalink: /docker-for-php-developers/
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
                         <!-- <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" /> -->
-                        <img src="/assets/images/docker-book/docker-video-course-feature-st-pattys.png" class="img-fit" />
+                        <img src="/assets/images/docker-book/docker-video-course-feature.png" class="img-fit" />
                     </div>
                 </div>
             </div>
@@ -1079,7 +1079,7 @@ permalink: /docker-for-php-developers/
                                 <figure class="heading-zicon" style="display: inline-block">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M19 11a7.5 7.5 0 0 1-3.5 5.94L10 20l-5.5-3.06A7.5 7.5 0 0 1 1 11V3c3.38 0 6.5-1.12 9-3 2.5 1.89 5.62 3 9 3v8zm-9 1.08l2.92 2.04-1.03-3.41 2.84-2.15-3.56-.08L10 5.12 8.83 8.48l-3.56.08L8.1 10.7l-1.03 3.4L10 12.09z"/></svg>
                                 </figure>
-                                Complete Video Bundle - Save 55%!
+                                Complete Video Bundle
                             </h1>
                             <p>Comes with full series of <strong>60+ videos</strong> on getting started with Docker (34 videos) and setting up Docker for Laravel (24 videos). Comes with the Docker for PHP Developers eBook, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
                             <ul class="mb-3">
@@ -1091,9 +1091,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div class="mb-2">
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/docker6bday" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$65</span>
+                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1130,9 +1130,9 @@ permalink: /docker-for-php-developers/
                                 <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/docker6bday" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$55</span>
+                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$79</span>
                                 </a>
                             </div>
                         </div>
@@ -1156,9 +1156,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/docker6bday" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$34</span>
+                                    <span class="price">$49.99</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1179,9 +1179,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php/docker6bday" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$25</span>
+                                    <span class="price">$39.99</span>
                                 </a>
                             </div>
                         </div>
