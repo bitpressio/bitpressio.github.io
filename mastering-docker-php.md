@@ -1082,9 +1082,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div class="mb-2">
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/black-friday-2018" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/blackfriday" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$139.99</strike>&nbsp;&nbsp;&nbsp;$87.00</span>
+                                    <span class="price"><strike>$139.99</strike>&nbsp;&nbsp;&nbsp;$80.00</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1121,9 +1121,9 @@ permalink: /docker-for-php-developers/
                                 <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/blackfriday2018" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/blackfriday" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$87.00</strike>&nbsp;&nbsp;&nbsp;$65.00</span>
+                                    <span class="price"><strike>$99.00</strike>&nbsp;&nbsp;&nbsp;$60.00</span>
                                 </a>
                             </div>
                         </div>
@@ -1147,9 +1147,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/blackfriday2018" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle/blackfriday" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$29.00</span>
+                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$30.00</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1170,9 +1170,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/early-release" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now" href="https://gum.co/docker-php/blackfriday" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$29.99</span>
+                                    <span class="price"><strike>$39.99</strike>&nbsp;&nbsp;&nbsp;$25.00</span>
                                 </a>
                             </div>
                         </div>
