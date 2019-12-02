@@ -14,6 +14,52 @@ published: true
 comments: false
 ---
 
+<div class="content-upgrade mt-3 mb-3">
+  <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+  <div class="row content-upgrade-container pt-3 pb-3">
+    <div class="col-sm-5">
+      <img class="img-fit" src="/assets/images/docker-book/docker-newsletter-product.png" alt="Docker for PHP Developers">
+    </div>
+    <div class="col-sm-7">
+      <div id="ck_success_msg" class="alert alert-info" role="alert" style="display:none;">
+        <p>Success! Check your email for a sample soon.</p>
+      </div>
+      <div id="ck_error_msg" class="alert alert-danger" role="alert" style="display:none;">
+        <p>There was an error submitting your subscription. Please try again.</p>
+      </div>
+      <!--  Form starts here  -->
+      <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/269993/subscribe" data-remote="true">
+        <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
+        <input type="hidden" name="id" value="269993" id="landing_page_id">
+          <h3 class="title mb-2 mt-0">Master Docker for PHP</h3>
+          <div>
+              <p>
+                <a href="/docker-for-php-developers/">Docker for PHP Developers</a> is my eight hour video + book course that will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
+              </p>
+              <p>
+                If you would like to check out a sample chapter, subscribe and I’ll send it to you right away!
+              </p>
+          </div>
+        <div class="field has-addons email-signup-field">
+            <div class="form-group">
+                <input class="form-control" type="email" name="email" value="" required placeholder="Enter your email" />
+            </div>
+            <div class="form-group">
+                <button
+                  class="btn btn-block btn-primary"
+                  type="submit"
+                  id="ck_subscribe_button"
+                >
+                  Send me a Sample Chapter
+                </button>
+            </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
 Getting started with Docker and PHP can still be a steep learning curve. You might feel that you don't need something like Docker and that Vagrant or full local development work just fine. I still use local development on some projects because the barrier to entry is small.
 
 You will likely face scenarios where you require different versions of PHP, work with multiple developers, and seek consistency between environments. When you're working with a team, you need a consistent way to develop. I've been on teams where different versions of PHP and MySQL varied between developers. I want to show you how Docker can fill the gap of providing consistent development environments, and do so without a huge amount of added complexity.
