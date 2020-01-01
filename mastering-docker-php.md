@@ -2,6 +2,7 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
+
 <section class="hero section header is-small has-text-centered pb-5">
     <div class="container">
         <!-- Header -->
@@ -224,49 +225,6 @@ permalink: /docker-for-php-developers/
         </div>
     </div>
 </section>
-
-<!-- Spiel -->
-
-<section class="section white-bg">
-    <div class="container">
-        <div class="content">
-            <div class="columns">
-                <div class="column is-6 is-offset-3" style="line-height: 2em">
-                    <h3 class="title" style="line-height: 1.75em;">Let me tell you about the time I first picked up Docker to use it in a PHP project:</h3>
-                    <p>It was hard learning how to use Docker because not only did I have to get used to the Docker environment—which has its own set of learning curves and challenges—I had to learn how to work with PHP, web servers, PHP modules, dependencies, and so forth in this new thing called a “container.”</p>
-                    <p>I had to learn the nuances between Docker and a Vagrant virtual machine (which I was using at the time), how they are similar, and how they are different.</p>
-                    <p><strong>Docker presents some significant paradigm changes to how you think about a PHP environment.</strong></p>
-                    <p>PHP has some specific needs, because of the way PHP’s module system works, and how to properly configure PHP modules for different environments. In development, I need a particular configuration, and in production, I need another configuration.</p>
-                    <p>I wanted a way to build a base image that I can use across all my projects.</p>
-                    <p>Besides the runtime, <strong>“what are some ‘best practices’ for organizing my infrastructure code inside my project?”</strong></p>
-                    <p>Or in other words, “where do I put all this Docker-specific configuration and code within my project’s version control?”</p>
-                    <p>I struggled for many hours across multiple types of project honing my code, configuration, PHP setup, and Nginx configurations.</p>
-                    <p>Further, I struggled at first to adapt Laravel’s scheduler and queue patterns to Docker, because it’s much different than the traditional way of running everything on one virtual machine. The idea of using crontab in a container feels weird.</p>
-                    <p>You have to break parts of your Laravel application into multiple containers, and figure out how to share the same Docker image between multiple types of containers that need the same Laravel code.</p>
-                    <p>Fast forward to today, the tools around Docker have improved drastically. No longer will you need to dread moving your application to production or another machine.</p>
-                    <p>Your container will be identical in production and development, and you can work on PHP 5.6 projects and PHP 7, without destroying your local machine’s setup.</p>
-                    <p>You can use one Laravel image to run your web app, scheduler jobs, and queues across multiple containers running the same image. <strong>And my course can show you how, as we walk through setting up an entire Laravel app with Docker from scratch!</strong></p>
-                    <p>That’s why I’ve been working on my course Docker for PHP Developers since November 2016.</p>
-                    <p>I have spent the time smoothing out the rough edges of adopting Docker with PHP, so you don’t have to. It will save you hours of searching stack overflow, and reading outdated tutorials, and you can learn how to level-up your Docker and DevOps skills in a couple of afternoons.</p>
-                    <p><strong>I’ve distilled three years of learning into an eight-hour course and a 220-page book!</strong></p>
-                    <p>
-                        <em>Docker for PHP Developers</em> is the guide I wish I had when I started learning Docker. It's everything I've learned and refined using Docker on dozens of projects over the last three years combined into one course.
-                    </p>
-                    <h3 class="title">No Complicated Tools Required</h3>
-                    <p>
-                        Learning Docker <strong>doesn't have to be complicated</strong>. In fact, I think the <strong>goal of Docker should be to simplify your application environment, not increase complexity</strong>. I'll show you how to build practical, simple, clean Docker images from scratch without extra 3rd party tools or libraries—just Docker.
-                    </p>
-                    <p>
-                        Learn how to create environments that take minutes to install instead of hours or days. Think of Docker images with PHP code as a single artifact that is ready to run your application.
-                    </p>
-                    <p>Your application deployments will be extremely predictable and reliable. I work with <strong>leading frameworks like Laravel and Symfony</strong>, so you'll be able to use the PHP frameworks you love with Docker after going through this guide.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<hr>
 <section class="section video">
     <div class="container">
         <div class="content">
