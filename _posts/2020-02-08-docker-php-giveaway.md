@@ -14,8 +14,6 @@ twtter_card_type: summary_large_image
 twitter_image: /assets/images/blog/social-images/docker-php-developers-giveaway.png
 ---
 
-# Docker for PHP Deveopers Giveaway
-
 Enter for a chance to win a copy of the [Docker for PHP Developers](https://bitpress.io/docker-for-php-developers/) complete video course, which includes 7+ hours of videos and a 200+ page book. The course is focused on teaching you how to build your own PHP environments with Docker.
 
 Thousands of developers have already taken my course, enter for a chance to get it for free. The catch is that the more you share this giveaway, the more chances you have for winning a free copy!
