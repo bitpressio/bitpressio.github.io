@@ -2,7 +2,8 @@
 layout: mastering-docker
 permalink: /docker-for-php-developers/
 ---
-<section class="hero section header is-small has-text-centered pt-5 pb-5">
+
+<section class="hero section header is-small has-text-centered pb-5">
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
@@ -1042,14 +1043,15 @@ permalink: /docker-for-php-developers/
                             <ul class="mb-3">
                                 <li>Stream and Download all <strong>60+ lessons</strong></li>
                                 <li>Access to <strong>any future videos</strong> added to the course</li>
+                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
                                 <li>The 222-page Docker for PHP Developers Book</li>
                                 <li>Beautiful handcrafted PDF design</li>
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div class="mb-2">
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/zGSzR/blackfriday-2020" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$50.00</span>
+                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$99.00</span>
                                 </a>
                                 <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
                                     Buy a Team License
@@ -1069,6 +1071,7 @@ permalink: /docker-for-php-developers/
                                 </ul>
                             </div>
                         </div>
+                        <div class="column is-12 mt-2 mb-2"><hr></div>
                         <!-- Starter Video Bundle -->
                         <div class="column is-5 has-text-centered">
                             <img src="/assets/images/docker-book/docker-video-course-feature.png" alt="Docker for PHP Developers - Starter Video Bundle" class="img-fit" />
@@ -1081,15 +1084,47 @@ permalink: /docker-for-php-developers/
                             <ul class="mb-3">
                                 <li>Stream and Download all <strong>60+ lessons</strong></li>
                                 <li>Access to <strong>any future videos</strong> added to the course</li>
+                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
                                 <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gumroad.com/l/zspKL/blackfriday-2020" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$40</span>
+                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$79</span>
                                 </a>
                             </div>
                         </div>
+                        <div class="column is-12 mt-2 mb-2 has-text-centered">
+                            <hr>
+                            <h1 class="title" style="font-size: 2.5rem">
+                                Book-only Options
+                            </h1>
+                        </div>
+                        <!-- Starter Book Bundle -->
+                        <div class="column is-5 has-text-centered">
+                            <img src="/assets/images/docker-book/package-premium-edition2.png" alt="Docker for PHP Developers Premium Edition" class="img-fit" />
+                        </div>
+                        <div class="column is-7 pt-3">
+                            <h3>Starter Book Bundle <small>(book + code)</small></h3>
+                            <p>Comes with the book, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
+                            <ul class="mb-3">
+                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
+                                <li>The 222-page Docker for PHP Developers Book</li>
+                                <li>Beautiful handcrafted PDF design</li>
+                                <li>Basic ePub and Mobi formats included</li>
+                            </ul>
+                            <div>
+                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle" data-gumroad-single-product="true">
+                                    Buy Now
+                                    <span class="price">$49.99</span>
+                                </a>
+                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
+                                    Buy a Team License
+                                    <span class="price"><span style="font-weight: normal;">From</span> $199</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="column is-12 mt-2 mb-2"><hr></div>
                         <div class="column is-5 has-text-centered">
                             <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Starter Edition" class="img-fit" />
                         </div>
@@ -1102,9 +1137,9 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php/blackfriday-2020" data-gumroad-single-product="true">
+                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price"><strike>$39.99</strike> $19.00</span>
+                                    <span class="price">$39.99</span>
                                 </a>
                             </div>
                         </div>
