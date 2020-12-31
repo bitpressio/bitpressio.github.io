@@ -1023,7 +1023,7 @@ permalink: /docker-for-php-developers/
                 Get Docker for PHP Developers
             </h1>
             <h2 class="has-text-centered mb-5" style="font-weight: 300; font-size: 1.25rem">
-                Get an early release copy at a discount price on the new video courses!
+                Options available for Videos + Book, Videos Only, and Book Only
             </h2>
             <div class="columns">
                 <div class="column is-10 is-offset-1">
@@ -1096,35 +1096,7 @@ permalink: /docker-for-php-developers/
                         </div>
                         <div class="column is-12 mt-2 mb-2 has-text-centered">
                             <hr>
-                            <h1 class="title" style="font-size: 2.5rem">
-                                Book-only Options
-                            </h1>
                         </div>
-                        <!-- Starter Book Bundle -->
-                        <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/package-premium-edition2.png" alt="Docker for PHP Developers Premium Edition" class="img-fit" />
-                        </div>
-                        <div class="column is-7 pt-3">
-                            <h3>Starter Book Bundle <small>(book + code)</small></h3>
-                            <p>Comes with the book, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
-                            <ul class="mb-3">
-                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
-                                <li>The 222-page Docker for PHP Developers Book</li>
-                                <li>Beautiful handcrafted PDF design</li>
-                                <li>Basic ePub and Mobi formats included</li>
-                            </ul>
-                            <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/docker-php-starter-bundle" data-gumroad-single-product="true">
-                                    Buy Now
-                                    <span class="price">$49.99</span>
-                                </a>
-                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/docker-php-starter-teams" data-gumroad-single-product="true">
-                                    Buy a Team License
-                                    <span class="price"><span style="font-weight: normal;">From</span> $199</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="column is-12 mt-2 mb-2"><hr></div>
                         <div class="column is-5 has-text-centered">
                             <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Starter Edition" class="img-fit" />
                         </div>
