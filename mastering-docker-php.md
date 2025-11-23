@@ -7,24 +7,23 @@ permalink: /docker-for-php-developers/
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
-            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers</h1>
-            <h2 class="subtitle">Learn How to Make PHP Development with Docker Feel like <strong>127.0.0.1</strong></h2>
+            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers, Second Edition <sup>(2025)</sup></h1>
+            <h2 class="subtitle">Updated for <strong>PHP 8</strong></h2>
         </header>
         <div class="columns intro">
             <div class="product-img-container column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
-                        <!-- <img src="/assets/images/docker-book/docker-php-lead-product-no-phone.png" class="img-fit" /> -->
-                        <img src="/assets/images/docker-book/docker-video-course-feature.png" class="img-fit" />
+                        <img src="/assets/images/docker-book/docker-book-stack-v2.png" class="img-fit" />
                     </div>
                 </div>
             </div>
             <div class="column is-5-desktop is-6-tablet has-text-left">
                 <p class="title is-6 is-spaced">
-                    <em>"Docker for PHP Developers"</em> is a book and video course that will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
+                    <em>"Docker for PHP Developers"</em> will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
                 </p>
                 <p class="size-6 pb-2">
-                    Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to set up, manage, and deploy Docker applications with confidence.
+                    Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to use Docker and PHP with confidence.
                 </p>
                 <p>
                    <!-- <a class="button is-info buy-button mb-1-mobile w-100-mobile" href="https://leanpub.com/docker-for-php-developers" target="_blank">
@@ -32,7 +31,7 @@ permalink: /docker-for-php-developers/
                         Early Access Version
                     </a> -->
                     <a class="button is-primary mb-1-mobile w-100-mobile mr-1" href="#packages">
-                        Buy the Course
+                        Buy the Book
                     </a>
                     <a class="button mb-1-mobile w-100-mobile" href="#sample">
                         Get a Sample
@@ -61,7 +60,7 @@ permalink: /docker-for-php-developers/
                                 <h3 class="has-text-centered mb-2">Get Free Book Samples</h3>
                                 <div>
                                     <p class="pb-2">
-                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>two sample PDFs</strong> from my book and a few <strong>short videos and posts</strong> over the next week about using Docker with PHP. You'll also get semi-regular tips about Docker and updates on any course announcements.
+                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>a sample PDF</strong> from my book.
                                     </p>
                                 </div>
                             <div id="ck_error_msg" class="notification is-danger" style="display:none;">
@@ -91,8 +90,8 @@ permalink: /docker-for-php-developers/
                 <div class="column is-6-desktop is-offset-3-desktop">
                     <div class="columns">
                         <header class="column is-10-desktop is-offset-1-desktop has-text-centered">
-                            <h2 class="title">What does the Guide Cover?</h2>
-                            <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a guide that combines a book and videos that help you master Docker as a full time PHP development environment.</p>
+                            <h2 class="title">What does the Book Cover?</h2>
+                            <p style="margin-bottom: 2rem"><em>Docker for PHP Developers</em> is a book that helps you master Docker as a full time PHP development environment.</p>
                         </header>
                     </div>
                 </div>
@@ -155,18 +154,18 @@ permalink: /docker-for-php-developers/
                                 <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17.4 18H20v2H0v-2h2.6L8 0h4l5.4 18zm-3.2-4H5.8l-1.2 4h10.8l-1.2-4zm-2.4-8H8.2L7 10h6l-1.2-4z"/></svg> -->
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 10.27V4.99a1 1 0 0 0-2 0V15a5 5 0 0 1-10 0v-1.08A6 6 0 0 1 0 8V2C0 .9.9 0 2 0h1a1 1 0 0 1 1 1 1 1 0 0 1-1 1H2v6a4 4 0 1 0 8 0V2H9a1 1 0 0 1-1-1 1 1 0 0 1 1-1h1a2 2 0 0 1 2 2v6a6 6 0 0 1-5 5.92V15a3 3 0 0 0 6 0V5a3 3 0 0 1 6 0v5.27a2 2 0 1 1-2 0z"/></svg>
                             </figure>
-                            Legacy Applications
+                            CLI Applications
                         </h4>
                         <!-- <p>Let's face it, most of us have worked with that old PHP application running on legacy hardware.</p> -->
                         <ul>
                             <li>
-                                <span>Installing an older version of PHP</span>
+                                <span>Create a CLI application image</span>
                             </li>
                             <li>
-                                <span>Hands-on example in the book getting a legacy version of a PHP app running</span>
+                                <span>Learn how to log CLI output with Docker</span>
                             </li>
                             <li>
-                                <span>Security hardening</span>
+                                <span>Use build arguments to customize CLI images</span>
                             </li>
                         </ul>
                     </div>
@@ -194,500 +193,6 @@ permalink: /docker-for-php-developers/
                                 <span>Application Deployment to Digital Ocean</span>
                             </li>
                         </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="section email-signup med-grey-bg pb-5 has-text-centered" id="screencast-sample">
-    <div class="container">
-        <div class="content">
-            <div class="columns">
-                <div class="column is-10 is-offset-1">
-                    <div class="columns">
-                        <div class="column is-8 is-offset-2">
-                            <h1>Watch a Free Screencast Preview</h1>
-                            <h5 class="subtitle" style="line-height: 1.8em">Docker for PHP Developers includes over 7.5 hours of screencasts designed to help you learn how to use Docker as a PHP development environment.</h5>
-                        </div>
-                    </div>
-                    <div class="video-responsive mb-3">
-                        <iframe width="896" height="504" src="https://www.youtube.com/embed/QeepkWC-qM0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                    <div class="columns">
-                        <div class="column is-8 is-offset-2">
-                            <p>* <em>Book-only packages are also available.</em></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section video">
-    <div class="container">
-        <div class="content">
-            <div class="columns">
-                <div class="column is-half is-offset-one-quarter has-text-centered">
-                    <h1 class="title mb-3" id="the-videos">
-                        <i class="fa fa-television" aria-hidden="true"></i>
-                        The Docker PHP Videos
-                    </h1>
-                    <h5 class="subtitle mb-5" style="line-height: 1.8em">
-                        Docker for PHP Developers includes over 7.5 hours of screencasts.
-                    </h5>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Introduction and Setup</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/01-intro-part-1-welcome.png" alt="" style="width: 100%">
-                                <p>1 - Welcome</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/01-intro-part-2a-install-docker-mac.png" alt="" style="width: 100%">
-                                <p>2 - Install Docker for Mac</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/01-intro-part-2b-install-docker-windows.png" alt="" style="width: 100%">
-                                <p>3 - Install Docker for Windows</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/01-intro-part-2c-install-docker-linux.png" alt="">
-                                <p>4 - Install Docker for Ubuntu</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/01-intro-part3-docker-machine-intro.png" alt="">
-                                <p>5 - Docker Machine Intro</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Docker Container Basics</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/02-php-container-basics-part-1-basic-docker-commands.png" alt="" style="width: 100%">
-                                <p>6 - Basic Docker Commands</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/02-php-container-basics-part-2-docker-compose.png" alt="" style="width: 100%">
-                                <p>7 - Docker Compose</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Docker LAMP</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/03-lamp-part-1-apache.png" alt="" style="width: 100%">
-                                <p>8 - Apache Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/03-lamp-part-2-mysql.png" alt="" style="width: 100%">
-                                <p>9 - MySQL in Docker</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/03-lamp-part-3-apache-module.png" alt="" style="width: 100%">
-                                <p>10 - Setting Up PHP Modules and Apache Modules</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/03-lamp-part-4-volumes.png" alt="" style="width: 100%">
-                                <p>11 - Data Volumes</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>PHP Composer</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/04-composer-part-1-composer-installer.png" alt="" style="width: 100%">
-                                <p>12 - Installing Composer in Docker</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/04-composer-part-2-private-composer-packages.png" alt="" style="width: 100%">
-                                <p>13 - Private Composer Packages</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/04-composer-part-3-composer-caching.png" alt="" style="width: 100%">
-                                <p>14 - Caching Composer Dependencies</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Web Servers</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/05-web-servers-part-1-nginx.png" alt="" style="width: 100%">
-                                <p>15 - Nginx (Part 1)</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/05-web-servers-part-2-nginx.png" alt="" style="width: 100%">
-                                <p>16 - Nginx (Part 2)</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/05-web-servers-part-3-caddy.png" alt="" style="width: 100%">
-                                <p>17 - Caddy HTTP/2 Server</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Working With Legacy Apps</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-1-introduction.png" alt="" style="width: 100%">
-                                <p>18 - Introduction</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-2-setup.png" alt="" style="width: 100%">
-                                <p>19 - Legacy App Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-3-docker-compose.png" alt="" style="width: 100%">
-                                <p>20 - Docker Compose and Apache Configuration</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-4-cake-console.png" alt="" style="width: 100%">
-                                <p>21 - Running a Legacy Console</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-5-composer-and-phpdotenv.png" alt="" style="width: 100%">
-                                <p>22 - Composer and phpdotenv</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-6-phpdotenv.png" alt="" style="width: 100%">
-                                <p>23 - Configuring ENV with phpdotenv</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/06-legacy-apps-part-7-database-config.png" alt="" style="width: 100%">
-                                <p>24 - Improved Database Configuration</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Custom Docker Commands</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/07-custom-commands-part-1-setup.png" alt="" style="width: 100%">
-                                <p>25 - The CMD Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/07-custom-commands-part-2-confd.png" alt="" style="width: 100%">
-                                <p>26 - Using Confd for Configuration Management</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/07-custom-commands-part-3-confd-in-cmd-script.png" alt="" style="width: 100%">
-                                <p>27 - Adding Confd to the CMD Script</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/07-custom-commands-part-4-consul-and-confd.png" alt="" style="width: 100%">
-                                <p>28 - Using Consul with Confd for Configuration Management</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Working with Docker Registries</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-1.png" alt="" style="width: 100%">
-                                <p>29 - Docker Registry Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-2-push-images.png" alt="" style="width: 100%">
-                                <p>30 - Pushing Images to Docker Hub</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-3-automate-builds-docker-cloud.png" alt="" style="width: 100%">
-                                <p>31 - Automate Builds with Docker Cloud</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-4-automate-builds-gitlab.png" alt="" style="width: 100%">
-                                <p>32 - Automate Builds with GitLab</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-5-automate-builds-gitlab-gitlab-ci.png" alt="" style="width: 100%">
-                                <p>33 - Automate Builds with GitLab CI Pipelines</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/08-docker-registry-part-6-extend-base-images.png" alt="" style="width: 100%">
-                                <p>34 - Extending Custom Base Images</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Deployment</h3>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/09-deployment-part-1-simple-docker-machine.png" alt="" style="width: 100%">
-                                <p>35 - Simple Docker Machine Deployment</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails/09-deployment-part-2-docker-swarm-overview.png" alt="" style="width: 100%">
-                                <p>36 - Docker Swarm Overview</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <hr>
-            <div class="columns mb-4">
-                <div class="column is-4 has-text-right pr-4">
-                    <h3>Setting up Laravel and Docker</h3>
-                    <p>These videos are available in the <br><strong>Complete Video Bundle</strong></p>
-                </div>
-                <div class="column is-8 has-text-left">
-                    <div class="columns is-multiline">
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/01-laravel-getting-started.mp4.png" alt="" style="width: 100%">
-                                <p>1 - Laravel Getting Started</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/02-copying-files-and-apache-vhost.mp4.png" alt="" style="width: 100%">
-                                <p>2 - Copying Files and the Apache Vhost</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/03-apache-permissions.mp4.png" alt="" style="width: 100%">
-                                <p>3 - Apache Permissions</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/04-apache-mod-rewrite.mp4.png" alt="" style="width: 100%">
-                                <p>4 - Apache Mod_rewrite</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/05-docker-compose-file.mp4.png" alt="" style="width: 100%">
-                                <p>5 - Creating a Docker Compose File</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/06-mysql.mp4.png" alt="" style="width: 100%">
-                                <p>6 - Setting up MySQL</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/07-redis-service.mp4.png" alt="" style="width: 100%">
-                                <p>7 - Adding a Redis Service</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/08-app-volume.mp4.png" alt="" style="width: 100%">
-                                <p>8 - Configuring an App Volume for Instant Code Changes</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/09-xdebug-part-1.mp4.png" alt="" style="width: 100%">
-                                <p>9 - Docker and XDebug Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/10-xdebug-part-2.mp4.png" alt="" style="width: 100%">
-                                <p>10 - A Flexible XDebug Configuration</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/11-custom-start-script.mp4.png" alt="" style="width: 100%">
-                                <p>11 - A Custom Start Script for Laravel Projects</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/12-scheduler-queue-roles.mp4.png" alt="" style="width: 100%">
-                                <p>12 - Running the Laravel Scheduler and Queue in Docker</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/13-improve-scheduler.mp4.png" alt="" style="width: 100%">
-                                <p>13 - Improving the Scheduler</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/14-queue-improvements.mp4.png" alt="" style="width: 100%">
-                                <p>14 - Improving the Queue</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/15-adding-a-php.ini-file.mp4.png" alt="" style="width: 100%">
-                                <p>15 - Adding a php.ini File</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/16-opcache-setup.mp4.png" alt="" style="width: 100%">
-                                <p>16 - Opcache Setup</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/17-nginx.mp4.png" alt="" style="width: 100%">
-                                <p>17 - Using Nginx with Laravel</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/18-supervisor-scheduler-queue.mp4.png" alt="" style="width: 100%">
-                                <p>18 - Switching the Scheduler and Queue to Supervisor</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/19-docker-copy-vs-add.mp4.png" alt="" style="width: 100%">
-                                <p>19 - Copy vs. Add</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/20-automated-builds-gitlab-intro-part-1.mp4.png" alt="" style="width: 100%">
-                                <p>20 - Automated Builds with GitLab CI - Intro</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/21-automated-builds-gitlab-composer-part-2.mp4.png" alt="" style="width: 100%">
-                                <p>21 - Automated Builds with GitLab CI - Composer Build</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/22-automated-builds-gitlab-frontend-part-3.mp4.png" alt="" style="width: 100%">
-                                <p>22 - Automated Builds with GitLab CI - Frontend Build</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/23-automated-builds-gitlab-docker-build-part-4.mp4.png" alt="" style="width: 100%">
-                                <p>23 - Automated Builds with GitLab CI - Application Docker Build</p>
-                            </div>
-                        </div>
-                        <div class="column is-3">
-                            <div>
-                                <img src="/assets/images/docker-book/thumbnails-laravel/24-automated-builds-gitlab-docker-build-part-5.mp4.png" alt="" style="width: 100%">
-                                <p>24 - Automated Builds with GitLab CI - Application Docker Build with Tags</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -846,7 +351,7 @@ permalink: /docker-for-php-developers/
                                         <li>Serving Static Assets</li>
                                         <li>Learn how to use Caddy Server with PHP-FPM</li>
                                     </ul> -->
-                                    <p>Running a Webserver in Docker is a little different than on a traditional server. We cover installing Nginx and PHP-FPM and how they communicate in between Docker containers. We also walk through using Caddy Server, an HTTP/2 web server with automatic HTTPS.</p>
+                                    <p>Running a Webserver in Docker is a little different than on a traditional server. We cover installing Nginx and PHP-FPM and how they communicate in between Docker containers.</p>
                                 </div>
                             </div>
                         </div>
@@ -861,7 +366,7 @@ permalink: /docker-for-php-developers/
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
                                             Chapter 7
                                         </span>
-                                        Legacy PHP Applications
+                                        Exploring More Web Server Options
                                     </h4>
                                     <!-- <ul>
                                         <li>Install an old version of PHP</li>
@@ -869,7 +374,7 @@ permalink: /docker-for-php-developers/
                                         <li>Configuration support for Docker</li>
                                         <li>Securing it with Suhosin</li>
                                     </ul> -->
-                                    <p>Let's face it, we all have that legacy application in our lives. This chapter will help you set up an older version of PHP with Docker and show you how to retrofit configuration in older applications.</p>
+                                    <p>Continue learning how to run PHP applications in Docker using Caddy and FrankenPHP. Learn how to use modern server alternatives with PHP-FPM.</p>
                                 </div>
                             </div>
                         </div>
@@ -891,52 +396,7 @@ permalink: /docker-for-php-developers/
                                         <li>Learn about Confd to separate configuration management from infrastructure code</li>
                                         <li>Learn to use Consul for configuration management</li>
                                     </ul> -->
-                                    <p>Go beyond the basics of running a container with custom commands and learn how to customize your application startup and runtime. Learn how to use Confd with Consul to separate configuration management from infrastructure code.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="column is-6">
-                            <div class="card">
-                                <div class="card-content">
-                                    <h4>
-                                        <span class="heading-zicon">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M17 12h-6v4h1v4H8v-4h1v-4H3v4h1v4H0v-4h1v-4a2 2 0 0 1 2-2h6V6H7V0h6v6h-2v4h6a2 2 0 0 1 2 2v4h1v4h-4v-4h1v-4z"/></svg>
-                                        </span>
-                                        <span class="chapter">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
-                                            Chapter 9
-                                        </span>
-                                        Docker Registry Builds
-                                    </h4>
-                                    <!-- <ul>
-                                        <li>Push your images to Docker Hub</li>
-                                        <li>Automated Image Builds with GitHub</li>
-                                        <li>Using 3rd Party Registries</li>
-                                        <li>Automated Docker Image Build Pipelines with GitLab</li>
-                                    </ul> -->
-                                    <p>Learn how to take your Docker images to the cloud and share them with others. We'll cover how to push your Docker images to registries and automatically build them when you push code commits to GitHub and other services.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="column is-6">
-                            <div class="card">
-                                <div class="card-content">
-                                    <h4>
-                                        <span class="heading-zicon">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4.34 15.66A7.97 7.97 0 0 0 9 17.94V10H5V8h4V5.83a3 3 0 1 1 2 0V8h4v2h-4v7.94a7.97 7.97 0 0 0 4.66-2.28l-1.42-1.42h5.66l-2.83 2.83a10 10 0 0 1-14.14 0L.1 14.24h5.66l-1.42 1.42zM10 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></svg>
-                                        </span>
-                                        <span class="chapter">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2 2c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v18l-8-4-8 4V2zm2 0v15l6-3 6 3V2H4z"/></svg>
-                                            Chapter 10
-                                        </span>
-                                        Deploying Docker
-                                    </h4>
-                                    <!-- <ul>
-                                        <li>Example hands-on deployment on Digital Ocean</li>
-                                        <li>Learn how to run Rancher</li>
-                                        <li>Deploy code with Rancher Compose</li>
-                                    </ul> -->
-                                    <p>Take your first steps in deploying Docker to Digital Ocean with Rancher. Deployment is a big topic, and this chapter is a perfect first step for Developers. Learn how to push your image builds to Rancher from the command line with Rancher Compose.</p>
+                                    <p>Go beyond the basics of running a container with custom commands and learn how to customize your application startup and runtime. Learn how to create a CLI application, which walks you through important concepts like logging, versioning, and more.</p>
                                 </div>
                             </div>
                         </div>
@@ -953,7 +413,7 @@ permalink: /docker-for-php-developers/
                 <span class="icon">
                     <i class="fa fa-trophy" aria-hidden="true"></i>
                 </span>
-                Nice Stuff People are Saying
+                Nice Stuff People said about the First Edition
             </h1>
             <div class="columns">
                 <div class="column is-10 is-offset-1">
@@ -1022,97 +482,32 @@ permalink: /docker-for-php-developers/
             <h1 class="title has-text-centered" style="font-size: 2.5rem">
                 Get Docker for PHP Developers
             </h1>
-            <h2 class="has-text-centered mb-5" style="font-weight: 300; font-size: 1.25rem">
+            <!-- <h2 class="has-text-centered mb-5" style="font-weight: 300; font-size: 1.25rem">
                 Options available for Videos + Book, Videos Only, and Book Only
-            </h2>
+            </h2> -->
             <div class="columns">
                 <div class="column is-10 is-offset-1">
                     <div class="columns is-multiline chapter-summary">
-                        <!-- Complete Video Bundle -->
                         <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-video-course-feature.png" alt="Docker for PHP Developers - Complete Video Bundle" class="img-fit" />
+                            <img src="/assets/images/docker-book/docker-book-stack-v2.png" alt="Docker for PHP Developers, Second Edition (2025)" class="img-fit" />
                         </div>
                         <div class="column is-7 pt-3">
-                            <h1>
-                                <figure class="heading-zicon" style="display: inline-block">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M19 11a7.5 7.5 0 0 1-3.5 5.94L10 20l-5.5-3.06A7.5 7.5 0 0 1 1 11V3c3.38 0 6.5-1.12 9-3 2.5 1.89 5.62 3 9 3v8zm-9 1.08l2.92 2.04-1.03-3.41 2.84-2.15-3.56-.08L10 5.12 8.83 8.48l-3.56.08L8.1 10.7l-1.03 3.4L10 12.09z"/></svg>
-                                </figure>
-                                Complete Video Bundle
-                            </h1>
-                            <p>Comes with full series of <strong>60+ videos</strong> on getting started with Docker (34 videos) and setting up Docker for Laravel (24 videos). Comes with the Docker for PHP Developers eBook, plus the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
-                            <ul class="mb-3">
-                                <li>Stream and Download all <strong>60+ lessons</strong></li>
-                                <li>Access to <strong>any future videos</strong> added to the course</li>
-                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
-                                <li>The 222-page Docker for PHP Developers Book</li>
-                                <li>Beautiful handcrafted PDF design</li>
-                                <li>Basic ePub and Mobi formats included</li>
-                            </ul>
-                            <div class="mb-2">
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zGSzR/launch" data-gumroad-single-product="true">
-                                    Buy Now
-                                    <span class="price"><strike>$139</strike>&nbsp;&nbsp;&nbsp;$99.00</span>
-                                </a>
-                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
-                                    Buy a Team License
-                                    <span class="price"><span style="font-weight: normal;">From</span> $350</span>
-                                </a>
-                            </div>
-                            <div>
-                                Here's the breakdown for team pricing:
-                                <ul>
-                                    <li>3 Developers — $345</li>
-                                    <li>5 Developers — $575</li>
-                                    <li>8 Developers — $880</li>
-                                    <li>10 Developers — $1,100</li>
-                                    <li>15 Developers — $1,575</li>
-                                    <li>20 Developers — $1,980</li>
-                                    <li>25 Developers — $2,475</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="column is-12 mt-2 mb-2"><hr></div>
-                        <!-- Starter Video Bundle -->
-                        <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-video-course-feature.png" alt="Docker for PHP Developers - Starter Video Bundle" class="img-fit" />
-                        </div>
-                        <div class="column is-7 pt-3">
-                            <h2>
-                                Video-only Bundle
-                            </h2>
-                            <p>Comes with full series of <strong>60+ videos</strong> on getting started with Docker (34 videos) and setting up Docker for Laravel (24 videos). Comes with the source code of two starter projects. Learn how to organize your projects with Docker and the latest Laravel and Symfony frameworks.</p>
-                            <ul class="mb-3">
-                                <li>Stream and Download all <strong>60+ lessons</strong></li>
-                                <li>Access to <strong>any future videos</strong> added to the course</li>
-                                <li>Starter project source code for <strong>Laravel 5.5</strong> and <strong>Symfony 4</strong>, based on my professional Docker setup. Both starter projects use <strong>PHP 7.2</strong>.</li>
-                                <li><strong>Does not include the eBook</strong> (see the Complete Video Bundle)</li>
-                            </ul>
-                            <div>
-                                <a class="button is-primary is-buy-now is-medium mb-2" href="https://gum.co/zspKL/launch" data-gumroad-single-product="true">
-                                    Buy Now
-                                    <span class="price"><strike>$99</strike>&nbsp;&nbsp;&nbsp;$79</span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="column is-12 mt-2 mb-2 has-text-centered">
-                            <hr>
-                        </div>
-                        <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Starter Edition" class="img-fit" />
-                        </div>
-                        <div class="column is-7 pt-3">
-                            <h3>Book Only</h3>
+                            <h3>Docker for PHP Developers, Second Edition Book</h3>
                             <p>Learn how to use Docker as a full-time development environment for PHP, with a beautiful, handcrafted book that will help you get from zero experience to Docker user quickly.</p>
                             <ul class="mb-3">
-                                <li>The 222-page Docker for PHP Developers Book</li>
-                                <li>Beautiful handcrafted PDF design</li>
+                                <li>The 160-page Docker for PHP Developers Book</li>
+                                <li>Second edition updated for PHP 8 and Laravel 12</li>
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now" href="https://gumroad.com/l/docker-php" data-gumroad-single-product="true">
+                                <a class="gumroad-button button is-primary is-buy-now mb-2" href="https://paulredmond.gumroad.com/l/docker-php-second-edition" data-gumroad-single-product="true">
                                     Buy Now
-                                    <span class="price">$39.99</span>
+                                    <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
+                                <!-- <a class="gumroad-button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
+                                    Buy a Team License (5)
+                                    <span class="price"><span style="font-weight: normal;">From</span> $210</span>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1135,8 +530,8 @@ permalink: /docker-for-php-developers/
                     <div class="column is-9">
                         <div class="content">
                             <h3 class="title">About the Author</h3>
-                            <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a>, <a href="https://vuejs.org/">Vue.js</a>, and <a href="https://www.docker.com/">Docker</a>. I am passionate about being productive, writing clean code, and creating simple infrastructure.</p>
-                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="https://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a>. I am also a staff writer for <a href="https://laravel-news.com/@paulredmond" target="_blank">Laravel News</a>. You can find me on Twitter as <a href="https://twitter.com/paulredmond">@paulredmond</a>.</p>
+                            <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a> and <a href="https://www.docker.com/">Docker</a>. I am passionate about being productive, writing clean code, and creating simple infrastructure.</p>
+                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="https://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a> (2016). I am also a staff writer for <a href="https://laravel-news.com/@paulredmond" target="_blank">Laravel News</a>. You can find me on X as <a href="https://x.com/paulredmond">@paulredmond</a>.</p>
                         </div>
                     </div>
                 </div>
