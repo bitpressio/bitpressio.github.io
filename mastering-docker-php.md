@@ -14,7 +14,7 @@ permalink: /docker-for-php-developers/
             <div class="product-img-container column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
                 <div class="columns">
                     <div class="column is-10-desktop is-offset-1-desktop">
-                        <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" class="img-fit" />
+                        <img src="/assets/images/docker-book/docker-book-stack-v2.png" class="img-fit" />
                     </div>
                 </div>
             </div>
@@ -489,7 +489,7 @@ permalink: /docker-for-php-developers/
                 <div class="column is-10 is-offset-1">
                     <div class="columns is-multiline chapter-summary">
                         <div class="column is-5 has-text-centered">
-                            <img src="/assets/images/docker-book/docker-book-stack-with-phone-product.png" alt="Docker for PHP Developers Starter Edition" class="img-fit" />
+                            <img src="/assets/images/docker-book/docker-book-stack-v2.png" alt="Docker for PHP Developers, Second Edition (2025)" class="img-fit" />
                         </div>
                         <div class="column is-7 pt-3">
                             <h3>Docker for PHP Developers, Second Edition Book</h3>
