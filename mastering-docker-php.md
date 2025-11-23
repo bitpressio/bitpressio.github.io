@@ -7,8 +7,8 @@ permalink: /docker-for-php-developers/
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
-            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers, 2nd Edition</h1>
-            <h2 class="subtitle">Updated for <strong>PHP 8</strong></h2>
+            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers</h1>
+            <h2 class="subtitle"><strong>Second Edition</strong> updated for <strong>PHP 8</strong></h2>
         </header>
         <div class="columns intro">
             <div class="product-img-container column is-offset-1-desktop is-5-desktop is-6-tablet has-text-centered">
