@@ -7,7 +7,7 @@ permalink: /docker-for-php-developers/
     <div class="container">
         <!-- Header -->
         <header class="column is-10 is-offset-1 pb-5">
-            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers, Second Edition <sup>(2025)</sup></h1>
+            <h1 class="title size-medium is-spaced is-intro">Docker for PHP Developers, 2nd Edition</h1>
             <h2 class="subtitle">Updated for <strong>PHP 8</strong></h2>
         </header>
         <div class="columns intro">
