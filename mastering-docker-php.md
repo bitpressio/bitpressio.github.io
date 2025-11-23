@@ -165,7 +165,7 @@ permalink: /docker-for-php-developers/
                                 <span>Learn how to log CLI output with Docker</span>
                             </li>
                             <li>
-                                <span>Use build arguments to customize CLI images</span>
+                                <span>Learn to use build arguments</span>
                             </li>
                         </ul>
                     </div>
