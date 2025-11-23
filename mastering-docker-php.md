@@ -413,7 +413,7 @@ permalink: /docker-for-php-developers/
                 <span class="icon">
                     <i class="fa fa-trophy" aria-hidden="true"></i>
                 </span>
-                Nice Stuff People are Saying
+                Nice Stuff People said about the First Edition
             </h1>
             <div class="columns">
                 <div class="column is-10 is-offset-1">
