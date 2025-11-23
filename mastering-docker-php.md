@@ -189,10 +189,7 @@ permalink: /docker-for-php-developers/
                                 <span>Explore Nginx, Caddy, and FrankenPHP</span>
                             </li>
                             <li>
-                                <span>Build a foundation for orchestrating multiple containers</span>
-                            </li>
-                            <li>
-                                <span>Build a repeatable development environment with Docker</span>
+                                <span>Repeatable development environment with Docker</span>
                             </li>
                         </ul>
                     </div>
