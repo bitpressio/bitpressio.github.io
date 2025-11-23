@@ -531,8 +531,8 @@ permalink: /docker-for-php-developers/
                     <div class="column is-9">
                         <div class="content">
                             <h3 class="title">About the Author</h3>
-                            <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a> and <a href="https://www.docker.com/">Docker</a>. I am passionate about being productive, writing clean code, and creating simple infrastructure.</p>
-                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="https://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a> (2016). I am also a staff writer for <a href="https://laravel-news.com/@paulredmond" target="_blank">Laravel News</a>. You can find me on X as <a href="https://x.com/paulredmond">@paulredmond</a>.</p>
+                            <p>Hello! I'm <a href="https://github.com/paulredmond">Paul Redmond</a>. I'm a full stack developer writing stuff with <a href="https://laravel.com/">Laravel</a> and <a href="https://www.docker.com/">Docker</a>. I am a staff writer for <a href="https://laravel-news.com/@paulredmond" target="_blank">Laravel News</a>.</p>
+                            <p>I am the author of <a href="https://leanpub.com/lumen-apis">Writing APIs with Lumen</a>, now published with Apress as <a href="https://www.apress.com/us/book/9781484221860">Lumen Programming Guide</a> (2016). You can find me on X as <a href="https://x.com/paulredmond">@paulredmond</a>.</p>
                         </div>
                     </div>
                 </div>
