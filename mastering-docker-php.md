@@ -176,21 +176,21 @@ permalink: /docker-for-php-developers/
                             <figure class="zicon icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4.34 15.66A7.97 7.97 0 0 0 9 17.94V10H5V8h4V5.83a3 3 0 1 1 2 0V8h4v2h-4v7.94a7.97 7.97 0 0 0 4.66-2.28l-1.42-1.42h5.66l-2.83 2.83a10 10 0 0 1-14.14 0L.1 14.24h5.66l-1.42 1.42zM10 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></svg>
                             </figure>
-                            Build and Deployment
+                            Webservers
                         </h4>
                         <!-- <p>You need to eventually build images and deploy them to production. We will automate builds and walk through deploying to the cloud.</p> -->
                         <ul>
                             <li>
-                                <span>Automated builds with Docker Cloud</span>
+                                <span>Configure webservers to work with PHP-FPM</span>
                             </li>
                             <li>
-                                <span>Private registries</span>
+                                <span>Explore Nginx, Caddy, and FrankenPHP</span>
                             </li>
                             <li>
-                                <span>GitLab Docker Builds</span>
+                                <span>Build a foundation for orchestrating multiple containers</span>
                             </li>
                             <li>
-                                <span>Application Deployment to Digital Ocean</span>
+                                <span>Build a repeatable development environment with Docker</span>
                             </li>
                         </ul>
                     </div>
