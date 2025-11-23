@@ -20,7 +20,7 @@ permalink: /docker-for-php-developers/
             </div>
             <div class="column is-5-desktop is-6-tablet has-text-left">
                 <p class="title is-6 is-spaced">
-                    <em>"Docker for PHP Developers"</em> will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
+                    <em>Docker for PHP Developers</em> will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.
                 </p>
                 <p class="size-6 pb-2">
                     Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to use Docker and PHP with confidence.
