@@ -327,7 +327,7 @@ permalink: /docker-for-php-developers/
                                         <li>Caching Composer for faster Docker builds</li>
                                     </ul> -->
                                     <p>
-                                        Are you curious how to use PHP Composer with Docker? You will Learn how to install the Composer CLI tool and install your application dependencies while building a Docker image. Learn how to install private composer repositories without leaving a trace of sensitive API keys or SSH credentials. Learn how to cache Composer dependencies for faster image builds.
+                                        Are you curious how to use PHP Composer with Docker? You will Learn how to install the PHP Composer CLI and install your application dependencies while building a Docker image. Learn how to install private composer repositories without leaving a trace of sensitive API keys or SSH credentials.
                                     </p>
                                 </div>
                             </div>
