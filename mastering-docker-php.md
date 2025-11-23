@@ -500,14 +500,14 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="button is-primary is-buy-now mb-2" href="https://gumroad.com/l/docker-php" data-gumroad-single-product="true">
+                                <a class="gumroad-button button is-primary is-buy-now mb-2" href="https://paulredmond.gumroad.com/l/docker-php-second-edition" data-gumroad-single-product="true">
                                     Buy Now
                                     <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
-                                <a class="button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
+                                <!-- <a class="gumroad-button is-primary is-outlined is-buy-now is-medium" href="https://gum.co/DvlbG" data-gumroad-single-product="true">
                                     Buy a Team License (5)
                                     <span class="price"><span style="font-weight: normal;">From</span> $210</span>
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
