@@ -183,13 +183,13 @@ permalink: /docker-for-php-developers/
                         <!-- <p>You need to eventually build images and deploy them to production. We will automate builds and walk through deploying to the cloud.</p> -->
                         <ul>
                             <li>
-                                <span>Configure webservers to work with PHP-FPM</span>
+                                <span>Nginx + PHP-FPM</span>
                             </li>
                             <li>
-                                <span>Explore Nginx, Caddy, and FrankenPHP</span>
+                                <span>Explore Caddy and FrankenPHP</span>
                             </li>
                             <li>
-                                <span>Repeatable development environment with Docker</span>
+                                <span>Repeatable development envs with Docker</span>
                             </li>
                         </ul>
                     </div>
