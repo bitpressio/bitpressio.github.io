@@ -492,7 +492,7 @@ permalink: /docker-for-php-developers/
                         </div>
                         <div class="column is-7 pt-3">
                             <h3>Docker for PHP Developers, Second Edition Book</h3>
-                            <p>Learn how to use Docker as a full-time development environment for PHP, with a beautiful, handcrafted book that will help you get from zero experience to Docker user quickly.</p>
+                            <p>Learn how Docker can simplify your PHP development setup and make it simple to share your environment with others. You will learn how to use Docker and PHP with confidence.</p>
                             <ul class="mb-3">
                                 <li>Second edition updated for PHP 8 and Laravel 12</li>
                                 <li>Latest Docker and Docker Compose versions</li>
