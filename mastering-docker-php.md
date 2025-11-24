@@ -500,7 +500,7 @@ permalink: /docker-for-php-developers/
                                 <li>Basic ePub and Mobi formats included</li>
                             </ul>
                             <div>
-                                <a class="gumroad-button mb-2" href="https://paulredmond.gumroad.com/l/docker-php-second-edition" data-gumroad-single-product="true">
+                                <a class="gumroad-button mb-2" href="https://paulredmond.gumroad.com/l/docker-php-second-edition/black-friday-2025" data-gumroad-single-product="true">
                                     Buy Now
                                     <span class="price"><strike>$49.99</strike>&nbsp;&nbsp;&nbsp;$39.99</span>
                                 </a>
