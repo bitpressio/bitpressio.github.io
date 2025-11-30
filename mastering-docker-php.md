@@ -52,7 +52,7 @@ permalink: /docker-for-php-developers/
                             <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
                             <div>
                                 <p class="pb-2">
-                                    Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>a sample PDF</strong> from my book.
+                                    Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>a sample PDF</strong> from my book. You will also be added to my newsletter where I share tips and tricks about PHP, Docker, and web development.
                                 </p>
                             </div>
                             <script async data-uid="b3eaac60ec" src="https://bitpress.kit.com/b3eaac60ec/index.js"></script>
