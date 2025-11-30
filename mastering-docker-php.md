@@ -49,32 +49,13 @@ permalink: /docker-for-php-developers/
                 <div class="column is-8 is-offset-2">
                     <div class="columns">
                         <div class="column is-8 is-offset-2">
-                            <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
-                            <div id="ck_success_msg" class="notification is-success"  style="display:none;">
-                              <p>Success! Check your email for a sample soon.</p>
+                            <h3 class="has-text-centered mb-2">Get a Free Book Sample</h3>
+                            <div>
+                                <p class="pb-2">
+                                    Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>a sample PDF</strong> from my book.
+                                </p>
                             </div>
-                            <!--  Form starts here  -->
-                            <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/251217/subscribe" data-remote="true">
-                              <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;}" id="ck_form_options">
-                              <input type="hidden" name="id" value="251217" id="landing_page_id">
-                                <h3 class="has-text-centered mb-2">Get Free Book Samples</h3>
-                                <div>
-                                    <p class="pb-2">
-                                        Try before you buy with a free sneak peek! Enter your email address and I'll send you <strong>a sample PDF</strong> from my book.
-                                    </p>
-                                </div>
-                            <div id="ck_error_msg" class="notification is-danger" style="display:none;">
-                              <p>There was an error submitting your subscription. Please try again.</p>
-                            </div>
-                              <div class="field has-addons email-signup-field">
-                                  <div class="control is-expanded">
-                                      <input class="input is-medium signup-input" type="email" name="email" value="" required placeholder="Enter your email" />
-                                  </div>
-                                  <div class="control">
-                                      <button class="button is-primary is-medium signup-button" type="submit" id="ck_subscribe_button">Sign Up</button>
-                                  </div>
-                              </div>
-                            </form>
+                            <script async data-uid="b3eaac60ec" src="https://bitpress.kit.com/b3eaac60ec/index.js"></script>
                         </div>
                     </div>
                 </div>
